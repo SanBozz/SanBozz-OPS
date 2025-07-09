@@ -1112,3 +1112,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [09Jul2025 08:27:57.137] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/208879, l='ServerLevel[world]', x=258.44, y=-256.00, z=359.74] died, message: 'Unemployed was killed'
 [09Jul2025 08:28:20.537] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/209042, l='ServerLevel[world]', x=284.53, y=-256.00, z=355.43] died, message: 'Unemployed was killed'
 [09Jul2025 08:30:31.487] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/209826, l='ServerLevel[world]', x=285.50, y=-256.00, z=350.35] died, message: 'Unemployed was killed'
+[09Jul2025 08:32:36.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps has made the advancement [Local Brewery]
+[09Jul2025 08:34:11.587] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/211975, l='ServerLevel[world]', x=290.62, y=-256.00, z=354.57] died, message: 'Unemployed was killed'
+[09Jul2025 08:34:29.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps has made the advancement [A Seedy Place]
