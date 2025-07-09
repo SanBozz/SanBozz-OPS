@@ -3287,7 +3287,8 @@
   },
   "spartanweaponry:collect_heads": {
     "criteria": {
-      "zombie_head": "2025-07-08 04:43:01 +0000"
+      "zombie_head": "2025-07-08 04:43:01 +0000",
+      "wither_skeleton_skull": "2025-07-09 06:35:11 +0000"
     },
     "done": false
   },
@@ -4365,9 +4366,27 @@
     },
     "done": true
   },
+  "spartanweaponry:warhammer": {
+    "criteria": {
+      "has_warhammer": "2025-07-09 06:41:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-07-09 06:35:11 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:longbow": {
     "criteria": {
       "has_longbow": "2025-07-09 06:12:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-07-09 06:35:11 +0000"
     },
     "done": true
   },

@@ -1014,3 +1014,11 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [09Jul2025 06:36:33.815] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Soficordoba13) moved wrongly! 1.0226748205175227
 [09Jul2025 06:37:59.287] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/131775, l='ServerLevel[world]', x=284.13, y=-256.00, z=366.05] died, message: 'Unemployed was killed'
 [09Jul2025 06:38:41.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda was doomed to fall by Skeleton
+[09Jul2025 06:39:29.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soficordoba13 blew up
+[09Jul2025 06:41:42.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 has made the advancement [Blunt-force Trauma]
+[09Jul2025 06:41:46.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported Soficordoba13 to BozzNofps]
+[09Jul2025 06:42:52.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda was shot by Wither Skeleton
+[09Jul2025 06:44:02.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soficordoba13 was slain by Vindicator
+[09Jul2025 06:44:14.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps burned to death
+[09Jul2025 06:44:43.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 was burnt to a crisp whilst fighting Wither Skeleton
+[09Jul2025 06:45:24.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 was shot by Wither Skeleton
