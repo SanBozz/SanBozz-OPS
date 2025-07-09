@@ -1106,3 +1106,9 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [09Jul2025 08:21:19.508] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: agustinnfes2[/127.220.229.95:40849] logged in with entity id 205081 at (270.56450430970165, 63.0, 359.1082574186544)
 [09Jul2025 08:21:19.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 joined the game
 [09Jul2025 08:21:19.560] [Server thread/INFO] [Jade/]: Syncing config to agustinnfes2 (d7072c52-a1ba-3ad3-bd6c-c7ea7e4745b8)
+[09Jul2025 08:25:27.538] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/207165, l='ServerLevel[world]', x=284.53, y=-256.00, z=355.43] died, message: 'Unemployed was killed'
+[09Jul2025 08:26:31.056] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-6, y=83, z=-11} BlockPos{x=-6, y=88, z=-16}
+[09Jul2025 08:27:16.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 has made the advancement [Crafting a New Look]
+[09Jul2025 08:27:57.137] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/208879, l='ServerLevel[world]', x=258.44, y=-256.00, z=359.74] died, message: 'Unemployed was killed'
+[09Jul2025 08:28:20.537] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/209042, l='ServerLevel[world]', x=284.53, y=-256.00, z=355.43] died, message: 'Unemployed was killed'
+[09Jul2025 08:30:31.487] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/209826, l='ServerLevel[world]', x=285.50, y=-256.00, z=350.35] died, message: 'Unemployed was killed'

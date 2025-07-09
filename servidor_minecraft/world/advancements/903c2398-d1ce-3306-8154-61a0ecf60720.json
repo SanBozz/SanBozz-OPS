@@ -4851,6 +4851,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/building_blocks/smeltery/scorched/nether_grout_multiple": {
+    "criteria": {
+      "has_item": "2025-07-09 08:28:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-07-09 07:27:57 +0000"
@@ -5030,11 +5036,23 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2025-07-09 08:27:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2025-07-09 06:08:16 +0000"
     },
     "done": true
+  },
+  "tconstruct:world/slime_collector": {
+    "criteria": {
+      "magma_cream": "2025-07-09 08:28:13 +0000"
+    },
+    "done": false
   },
   "securitycraft:recipes/decorations/reinforced_lime_stained_glass_pane_from_dye": {
     "criteria": {
@@ -5198,9 +5216,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-07-09 08:27:23 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/misc/common/materials/cobalt_block_from_ingots": {
     "criteria": {
       "has_item": "2025-07-09 08:10:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-07-09 08:28:13 +0000"
     },
     "done": true
   },
@@ -5448,6 +5478,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-07-09 08:27:23 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/decorations/tables/cast_chest": {
     "criteria": {
       "has_item": "2025-07-09 06:27:42 +0000"
@@ -5505,6 +5541,12 @@
   "securitycraft:recipes/building_blocks/reinforced_pink_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-09 05:40:06 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/scorched/nether_grout": {
+    "criteria": {
+      "has_item": "2025-07-09 08:28:13 +0000"
     },
     "done": true
   },
