@@ -5322,6 +5322,12 @@
     },
     "done": true
   },
+  "tconstruct:smeltery/sand_casting": {
+    "criteria": {
+      "crafted_cast": "2025-07-09 06:16:10 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_pink_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-09 05:40:06 +0000"

@@ -3938,5 +3938,11 @@
     },
     "done": true
   },
+  "tconstruct:recipes/misc/common/flint": {
+    "criteria": {
+      "has_item": "2025-07-09 06:22:47 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

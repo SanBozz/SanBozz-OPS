@@ -997,3 +997,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [09Jul2025 06:16:05.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda was shot by Wither Skeleton
 [09Jul2025 06:16:14.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soficordoba13 has made the advancement [Diamonds!]
 [09Jul2025 06:16:17.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported balda to agustinnfes2]
+[09Jul2025 06:18:50.937] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/120986, l='ServerLevel[world]', x=259.00, y=-256.00, z=359.39] died, message: 'Unemployed was killed'
+[09Jul2025 06:18:56.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Set the time to 1000]
+[09Jul2025 06:22:41.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soficordoba13 was burnt to a crisp whilst fighting BozzNofps
+[09Jul2025 06:23:26.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported Soficordoba13 to BozzNofps]
