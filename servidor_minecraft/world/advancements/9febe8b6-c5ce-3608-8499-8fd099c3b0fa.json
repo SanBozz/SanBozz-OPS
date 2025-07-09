@@ -595,6 +595,7 @@
       "enderman_head": "2025-07-08 03:45:03 +0000",
       "drowned_head": "2025-07-08 05:20:39 +0000",
       "zombie_head": "2025-07-08 03:33:52 +0000",
+      "skeleton_skull": "2025-07-09 05:44:30 +0000",
       "witch_head": "2025-07-07 05:08:51 +0000"
     },
     "done": false
@@ -2639,6 +2640,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-07-09 05:51:35 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/secret_sign_item": {
     "criteria": {
       "has_sign": "2025-07-09 05:19:53 +0000"
@@ -2717,6 +2724,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_coliseum": {
+    "criteria": {
+      "location0": "2025-07-09 05:42:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
     "criteria": {
       "has_kelp": "2025-07-09 05:08:43 +0000"
@@ -2753,6 +2766,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-07-09 05:47:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2025-07-09 05:12:57 +0000"
@@ -2762,6 +2781,12 @@
   "securitycraft:recipes/decorations/secret_bamboo_hanging_sign": {
     "criteria": {
       "has_sign": "2025-07-09 05:19:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
+    "criteria": {
+      "lightning_rod_with_villager_no_fire": "2025-07-09 05:37:49 +0000"
     },
     "done": true
   },
@@ -2783,6 +2808,12 @@
     },
     "done": true
   },
+  "spartanweaponry:longbow": {
+    "criteria": {
+      "has_longbow": "2025-07-09 05:51:21 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/secret_cherry_hanging_sign": {
     "criteria": {
       "has_sign": "2025-07-09 05:19:53 +0000"
@@ -2792,6 +2823,12 @@
   "securitycraft:recipes/decorations/secret_warped_hanging_sign": {
     "criteria": {
       "has_sign": "2025-07-09 05:19:53 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/bone": {
+    "criteria": {
+      "has_item": "2025-07-09 05:47:01 +0000"
     },
     "done": true
   },

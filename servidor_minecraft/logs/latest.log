@@ -902,3 +902,62 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [09Jul2025 05:36:00.317] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-36, y=-56, z=-356}
 [09Jul2025 05:36:00.323] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-27, y=-51, z=-356}
 [09Jul2025 05:36:00.323] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-26, y=-57, z=-359}
+[09Jul2025 05:37:05.618] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kuriron[/127.115.192.159:50717] logged in with entity id 92325 at (308.0554892821211, 64.0, 353.66967656651354)
+[09Jul2025 05:37:05.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kuriron joined the game
+[09Jul2025 05:37:05.637] [Server thread/INFO] [Jade/]: Syncing config to kuriron (903c2398-d1ce-3306-8154-61a0ecf60720)
+[09Jul2025 05:37:49.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soficordoba13 has made the advancement [Surge Protector]
+[09Jul2025 05:37:49.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps has made the advancement [Surge Protector]
+[09Jul2025 05:38:15.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps has made the advancement [The Tear Of The Man]
+[09Jul2025 05:39:15.835] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: agustinnfes2 was kicked for floating too long!
+[09Jul2025 05:39:15.885] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: agustinnfes2 lost connection: Flying is not enabled on this server
+[09Jul2025 05:39:15.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 left the game
+[09Jul2025 05:39:32.174] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: agustinnfes2[/127.220.229.95:52371] logged in with entity id 94277 at (2043.0407016216782, 94.52954543214445, 1077.7478834438105)
+[09Jul2025 05:39:32.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 joined the game
+[09Jul2025 05:39:32.243] [Server thread/INFO] [Jade/]: Syncing config to agustinnfes2 (d7072c52-a1ba-3ad3-bd6c-c7ea7e4745b8)
+[09Jul2025 05:39:47.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda was slain by Man From The Fog
+[09Jul2025 05:40:11.912] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=2038, y=87, z=1076} BlockPos{x=2040, y=88, z=1075}
+[09Jul2025 05:42:32.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda was slain by Man From The Fog
+[09Jul2025 05:43:22.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soficordoba13 was shot by Skeleton
+[09Jul2025 05:43:40.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported Soficordoba13 to BozzNofps]
+[09Jul2025 05:45:42.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CaptainSKIPNOTZ was doomed to fall
+[09Jul2025 05:46:18.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxx was slain by Man From The Fog
+[09Jul2025 05:46:27.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported Soficordoba13 to BozzNofps]
+[09Jul2025 05:46:30.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CaptainSKIPNOTZ fell off a ladder
+[09Jul2025 05:46:43.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda was slain by Umvuthana
+[09Jul2025 05:47:05.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soficordoba13 was blown up by Creeper
+[09Jul2025 05:47:19.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported balda to Maxx]
+[09Jul2025 05:47:36.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda was slain by Man From The Fog
+[09Jul2025 05:47:37.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported balda to Maxx]
+[09Jul2025 05:47:42.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxx has made the advancement [Masquerade]
+[09Jul2025 05:47:46.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported Soficordoba13 to BozzNofps]
+[09Jul2025 05:47:58.522] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: balda lost connection: Timed out
+[09Jul2025 05:47:58.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda left the game
+[09Jul2025 05:48:06.372] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: balda[/127.249.45.252:56427] logged in with entity id 100465 at (-141.5, 106.0, 88.5)
+[09Jul2025 05:48:06.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda joined the game
+[09Jul2025 05:48:06.435] [Server thread/INFO] [Jade/]: Syncing config to balda (1cd01936-7653-3a80-b136-98719ff0b8f7)
+[09Jul2025 05:48:34.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported balda to agustinnfes2]
+[09Jul2025 05:48:42.289] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/100906, l='ServerLevel[world]', x=284.13, y=-256.00, z=366.05] died, message: 'Unemployed was killed'
+[09Jul2025 05:49:18.237] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/100952, l='ServerLevel[world]', x=288.61, y=-256.00, z=352.29] died, message: 'Unemployed was killed'
+[09Jul2025 05:49:28.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxx was blown up by Creeper
+[09Jul2025 05:49:42.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported Maxx to balda]
+[09Jul2025 05:49:45.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda was shot by Skeleton
+[09Jul2025 05:49:49.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxx was slain by Zombie
+[09Jul2025 05:50:08.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Set the time to 1000]
+[09Jul2025 05:50:21.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported Maxx to agustinnfes2]
+[09Jul2025 05:50:44.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported balda to agustinnfes2]
+[09Jul2025 05:50:54.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 was blown up by Creeper
+[09Jul2025 05:50:59.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 has made the advancement [Hammer Time!]
+[09Jul2025 05:51:14.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxx was shot by Skeleton
+[09Jul2025 05:51:21.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soficordoba13 has made the advancement [Take Aim, Chaps!]
+[09Jul2025 05:51:35.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soficordoba13 has made the advancement [Take Aim]
+[09Jul2025 05:51:39.564] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maxx lost connection: Timed out
+[09Jul2025 05:51:39.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxx left the game
+[09Jul2025 05:51:52.626] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Maxx[/127.192.242.214:48995] logged in with entity id 103535 at (-141.5, 106.0, 86.5)
+[09Jul2025 05:51:52.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxx joined the game
+[09Jul2025 05:51:52.691] [Server thread/INFO] [Jade/]: Syncing config to Maxx (f3dac050-db0e-3285-9976-8540d9ac0403)
+[09Jul2025 05:52:23.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 was shot by Skeleton
+[09Jul2025 05:52:30.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soficordoba13 was shot by Skeleton
+[09Jul2025 05:52:56.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported Maxx to agustinnfes2]
+[09Jul2025 05:53:05.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported Soficordoba13 to BozzNofps]
+[09Jul2025 05:54:55.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soficordoba13 was slain by Zombie
+[09Jul2025 05:55:06.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported Soficordoba13 to BozzNofps]

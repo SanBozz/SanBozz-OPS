@@ -4372,6 +4372,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_button": {
+    "criteria": {
+      "has_planks": "2025-07-09 05:39:42 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/decorations/tables/tinker_station": {
     "criteria": {
       "has_item": "2025-07-09 04:42:20 +0000"
@@ -4414,6 +4420,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-09 05:39:42 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/username_logger": {
     "criteria": {
       "has_redstone": "2025-07-09 04:28:16 +0000"
@@ -4423,6 +4435,12 @@
   "tconstruct:recipes/tools/common/slime/lead": {
     "criteria": {
       "has_slime_ball": "2025-07-09 04:33:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_door": {
+    "criteria": {
+      "has_planks": "2025-07-09 05:39:42 +0000"
     },
     "done": true
   },
@@ -4455,6 +4473,12 @@
       "earth": "2025-07-09 04:33:09 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/decorations/acacia_sign": {
+    "criteria": {
+      "has_planks": "2025-07-09 05:39:42 +0000"
+    },
+    "done": true
   },
   "securitycraft:recipes/redstone/portable_radar": {
     "criteria": {
@@ -4504,6 +4528,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-07-09 05:39:42 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/tools/universal_key_changer": {
     "criteria": {
       "has_redstone": "2025-07-09 04:28:16 +0000"
@@ -4519,6 +4549,18 @@
   "immersive_armors:recipes/misc/slime": {
     "criteria": {
       "has_item": "2025-07-09 04:33:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_slab": {
+    "criteria": {
+      "has_planks": "2025-07-09 05:39:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-09 05:39:42 +0000"
     },
     "done": true
   },
@@ -4555,6 +4597,18 @@
   "securitycraft:recipes/redstone/reinforced_piston": {
     "criteria": {
       "has_redstone": "2025-07-09 04:28:16 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_heavenly_rider": {
+    "criteria": {
+      "location0": "2025-07-09 05:45:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-09 05:39:42 +0000"
     },
     "done": true
   },
@@ -4609,6 +4663,12 @@
   "securitycraft:recipes/redstone/panic_button": {
     "criteria": {
       "has_redstone": "2025-07-09 04:28:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2025-07-09 05:39:42 +0000"
     },
     "done": true
   },
