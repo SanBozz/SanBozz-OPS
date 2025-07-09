@@ -178,3 +178,37 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [09Jul2025 03:53:46.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps joined the game
 [09Jul2025 03:53:46.998] [Server thread/INFO] [Jade/]: Syncing config to BozzNofps (22592360-5cd4-3e8f-9fc0-96977e63922e)
 [09Jul2025 03:53:49.080] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2393ms or 47 ticks behind
+[09Jul2025 03:57:28.085] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: balda[/127.249.45.252:57649] logged in with entity id 818 at (679.810999546868, 62.073264324665075, 231.39193146569278)
+[09Jul2025 03:57:28.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda joined the game
+[09Jul2025 03:57:29.621] [Server thread/INFO] [Jade/]: Syncing config to balda (1cd01936-7653-3a80-b136-98719ff0b8f7)
+[09Jul2025 03:57:50.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported BozzNofps to balda]
+[09Jul2025 03:58:18.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps drowned
+[09Jul2025 03:58:46.188] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/2751, l='ServerLevel[world]', x=290.00, y=-256.00, z=355.81] died, message: 'Unemployed was killed'
+[09Jul2025 03:58:53.758] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: balda lost connection: Timed out
+[09Jul2025 03:58:53.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda left the game
+[09Jul2025 03:58:59.032] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kuriron[/127.115.192.159:59121] logged in with entity id 2781 at (292.1865730157344, 70.0, 356.7102802616898)
+[09Jul2025 03:58:59.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kuriron joined the game
+[09Jul2025 03:58:59.134] [Server thread/INFO] [Jade/]: Syncing config to kuriron (903c2398-d1ce-3306-8154-61a0ecf60720)
+[09Jul2025 03:59:32.011] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: balda[/127.249.45.252:40289] logged in with entity id 2858 at (657.7255747222725, 62.073264324665075, 245.83548023151332)
+[09Jul2025 03:59:32.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda joined the game
+[09Jul2025 03:59:32.053] [Server thread/INFO] [Jade/]: Syncing config to balda (1cd01936-7653-3a80-b136-98719ff0b8f7)
+[09Jul2025 03:59:58.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported BozzNofps to balda]
+[09Jul2025 04:00:02.189] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/3274, l='ServerLevel[world]', x=337.31, y=-256.00, z=209.93] died, message: 'Unemployed was killed'
+[09Jul2025 04:00:23.238] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/3342, l='ServerLevel[world]', x=284.89, y=-256.00, z=328.55] died, message: 'Unemployed was killed'
+[09Jul2025 04:00:41.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported BozzNofps to kuriron]
+[09Jul2025 04:01:18.215] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Maxx[/127.192.242.214:55351] logged in with entity id 3854 at (1222.0996199852018, 88.0, 104.79496739231051)
+[09Jul2025 04:01:18.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxx joined the game
+[09Jul2025 04:01:18.276] [Server thread/INFO] [Jade/]: Syncing config to Maxx (f3dac050-db0e-3285-9976-8540d9ac0403)
+[09Jul2025 04:01:20.214] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved too quickly! -7.467260843487679,0.0,-6.80277014296621
+[09Jul2025 04:01:20.216] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved too quickly! -7.815780931498239,0.0,-6.970140007285693
+[09Jul2025 04:01:20.216] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved too quickly! -8.164032991929162,0.0,-7.140871328982485
+[09Jul2025 04:01:20.217] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved too quickly! -8.5116640453748,0.0,-7.315267693303156
+[09Jul2025 04:01:20.218] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved too quickly! -8.858385497445056,0.0,-7.493530279848017
+[09Jul2025 04:01:20.219] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved too quickly! -9.203965873247853,0.0,-7.675776388183806
+[09Jul2025 04:01:20.220] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved too quickly! -9.548221395049154,0.0,-7.862058940252609
+[09Jul2025 04:01:20.246] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved wrongly! 0.8910110449174908
+[09Jul2025 04:01:20.281] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved wrongly! 1.0
+[09Jul2025 04:01:20.333] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved wrongly! 1.032481074333191
+[09Jul2025 04:01:20.381] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved wrongly! 1.093987943947809
+[09Jul2025 04:01:46.877] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved wrongly! 0.5179790220425957
+[09Jul2025 04:01:51.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported Maxx to BozzNofps]

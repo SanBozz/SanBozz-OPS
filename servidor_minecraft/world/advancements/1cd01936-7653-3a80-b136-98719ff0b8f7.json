@@ -3746,9 +3746,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/lapis_block": {
+  "minecraft:story/enter_the_nether": {
     "criteria": {
-      "has_lapis_lazuli": "2025-07-09 00:27:58 +0000"
+      "entered_nether": "2025-07-09 00:23:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-07-09 00:23:49 +0000"
     },
     "done": true
   },
@@ -3771,15 +3777,15 @@
     },
     "done": true
   },
-  "securitycraft:recipes/misc/sc_manual": {
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
-      "has_wood": "2025-07-09 00:46:32 +0000"
+      "has_gold_nugget": "2025-07-09 00:27:54 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+  "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
-      "has_iron_nugget": "2025-07-09 00:28:00 +0000"
+      "has_lapis_lazuli": "2025-07-09 00:27:58 +0000"
     },
     "done": true
   },
@@ -3795,21 +3801,15 @@
     },
     "done": true
   },
-  "minecraft:story/enter_the_nether": {
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
-      "entered_nether": "2025-07-09 00:23:49 +0000"
+      "has_iron_nugget": "2025-07-09 00:28:00 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+  "securitycraft:recipes/misc/sc_manual": {
     "criteria": {
-      "has_gold_nugget": "2025-07-09 00:27:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/root": {
-    "criteria": {
-      "entered_nether": "2025-07-09 00:23:49 +0000"
+      "has_wood": "2025-07-09 00:46:32 +0000"
     },
     "done": true
   },

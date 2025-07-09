@@ -4621,27 +4621,9 @@
     },
     "done": true
   },
-  "tconstruct:recipes/misc/common/puny_smelting": {
-    "criteria": {
-      "has_item": "2025-07-09 01:08:49 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/terracotta": {
     "criteria": {
       "has_clay_block": "2025-07-09 00:59:46 +0000"
-    },
-    "done": true
-  },
-  "tconstruct:smeltery/puny_smelting": {
-    "criteria": {
-      "crafted_book": "2025-07-09 01:14:34 +0000"
-    },
-    "done": true
-  },
-  "tconstruct:recipes/smeltery/seared/seared_brick_kiln": {
-    "criteria": {
-      "has_item": "2025-07-09 01:08:49 +0000"
     },
     "done": true
   },
@@ -4651,9 +4633,27 @@
     },
     "done": true
   },
+  "tconstruct:recipes/misc/common/puny_smelting": {
+    "criteria": {
+      "has_item": "2025-07-09 01:08:49 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/smeltery/seared/seared_brick_kiln": {
+    "criteria": {
+      "has_item": "2025-07-09 01:08:49 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/building_blocks/smeltery/seared/seared_brick": {
     "criteria": {
       "has_item": "2025-07-09 01:08:49 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:smeltery/puny_smelting": {
+    "criteria": {
+      "crafted_book": "2025-07-09 01:14:34 +0000"
     },
     "done": true
   },

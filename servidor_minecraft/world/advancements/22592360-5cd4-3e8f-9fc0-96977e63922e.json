@@ -4134,15 +4134,15 @@
     },
     "done": true
   },
-  "tconstruct:recipes/misc/common/flint": {
-    "criteria": {
-      "has_item": "2025-07-09 01:01:17 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-07-09 01:00:11 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/common/flint": {
+    "criteria": {
+      "has_item": "2025-07-09 01:01:17 +0000"
     },
     "done": true
   },
