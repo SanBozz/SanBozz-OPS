@@ -961,3 +961,28 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [09Jul2025 05:53:05.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported Soficordoba13 to BozzNofps]
 [09Jul2025 05:54:55.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soficordoba13 was slain by Zombie
 [09Jul2025 05:55:06.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported Soficordoba13 to BozzNofps]
+[09Jul2025 05:58:47.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 was shot by Wither Skeleton
+[09Jul2025 05:59:09.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported agustinnfes2 to balda]
+[09Jul2025 05:59:28.062] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: agustinnfes2 lost connection: Disconnected
+[09Jul2025 05:59:28.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 left the game
+[09Jul2025 05:59:49.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps drowned
+[09Jul2025 05:59:51.516] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@16a00430[id=<null>,name=agustinnfes2,properties={},legacy=false] (/127.220.229.95:59595) lost connection: Disconnected
+[09Jul2025 06:00:01.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported BozzNofps to Soficordoba13]
+[09Jul2025 06:00:01.739] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: agustinnfes2[/127.220.229.95:54953] logged in with entity id 109397 at (2043.6401322659135, 89.0, 1078.512499988079)
+[09Jul2025 06:00:01.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 joined the game
+[09Jul2025 06:00:01.806] [Server thread/INFO] [Jade/]: Syncing config to agustinnfes2 (d7072c52-a1ba-3ad3-bd6c-c7ea7e4745b8)
+[09Jul2025 06:00:48.287] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/109805, l='ServerLevel[world]', x=337.31, y=-256.00, z=209.93] died, message: 'Unemployed was killed'
+[09Jul2025 06:00:48.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported CaptainSKIPNOTZ to Maxx]
+[09Jul2025 06:02:53.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxx was slain by Spider
+[09Jul2025 06:04:02.276] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CaptainSKIPNOTZ lost connection: Disconnected
+[09Jul2025 06:04:02.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CaptainSKIPNOTZ left the game
+[09Jul2025 06:04:11.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxx was shot by Skeleton
+[09Jul2025 06:04:21.572] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maxx lost connection: Disconnected
+[09Jul2025 06:04:21.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxx left the game
+[09Jul2025 06:04:38.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda was slain by Man From The Fog
+[09Jul2025 06:05:00.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 was shot by Skeleton
+[09Jul2025 06:05:36.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported balda to agustinnfes2]
+[09Jul2025 06:06:05.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda was shot by Skeleton
+[09Jul2025 06:06:23.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Set the time to 1000]
+[09Jul2025 06:06:25.236] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/113346, l='ServerLevel[world]', x=286.80, y=-256.00, z=352.43] died, message: 'Unemployed was killed'
+[09Jul2025 06:06:34.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda was slain by Zombie

@@ -4091,8 +4091,11 @@
   },
   "tconstruct:tools/material_master": {
     "criteria": {
+      "amethyst_bronze": "2025-07-09 05:57:46 +0000",
       "cobalt": "2025-07-09 00:46:16 +0000",
       "cinderslime": "2025-07-09 00:46:16 +0000",
+      "scorched_stone": "2025-07-09 05:57:46 +0000",
+      "blazing_bone": "2025-07-09 05:57:46 +0000",
       "iron": "2025-07-09 00:46:16 +0000"
     },
     "done": false
