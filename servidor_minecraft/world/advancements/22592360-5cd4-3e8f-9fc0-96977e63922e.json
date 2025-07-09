@@ -28,6 +28,7 @@
       "minecraft:river": "2025-07-08 03:01:38 +0000",
       "minecraft:forest": "2025-07-07 06:09:11 +0000",
       "minecraft:lush_caves": "2025-07-08 03:35:22 +0000",
+      "minecraft:ocean": "2025-07-09 04:20:58 +0000",
       "minecraft:old_growth_birch_forest": "2025-07-07 06:05:36 +0000",
       "minecraft:deep_dark": "2025-07-08 03:40:50 +0000",
       "minecraft:plains": "2025-07-07 06:05:19 +0000"
@@ -4020,8 +4021,11 @@
   },
   "tconstruct:tools/material_master": {
     "criteria": {
+      "amethyst_bronze": "2025-07-09 04:25:00 +0000",
       "cobalt": "2025-07-09 00:41:44 +0000",
       "cinderslime": "2025-07-09 00:41:44 +0000",
+      "scorched_stone": "2025-07-09 04:25:00 +0000",
+      "blazing_bone": "2025-07-09 04:25:00 +0000",
       "iron": "2025-07-09 00:41:44 +0000"
     },
     "done": false

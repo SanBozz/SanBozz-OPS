@@ -212,3 +212,437 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [09Jul2025 04:01:20.381] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved wrongly! 1.093987943947809
 [09Jul2025 04:01:46.877] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved wrongly! 0.5179790220425957
 [09Jul2025 04:01:51.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported Maxx to BozzNofps]
+[09Jul2025 04:04:27.187] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/5311, l='ServerLevel[world]', x=337.31, y=-256.00, z=209.93] died, message: 'Unemployed was killed'
+[09Jul2025 04:05:33.464] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: angeelcraft[/127.6.39.159:39481] logged in with entity id 5662 at (287.72153941872676, 66.0, 354.8591176729845)
+[09Jul2025 04:05:33.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: angeelcraft joined the game
+[09Jul2025 04:05:33.541] [Server thread/INFO] [Jade/]: Syncing config to angeelcraft (0e54530b-213d-3a41-96b8-2fb393e04105)
+[09Jul2025 04:10:08.346] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CaptainSKIPNOTZ[/127.204.29.74:48209] logged in with entity id 8385 at (-106.44065788643168, 58.0, 134.1792229755759)
+[09Jul2025 04:10:08.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CaptainSKIPNOTZ joined the game
+[09Jul2025 04:10:08.369] [Server thread/INFO] [Jade/]: Syncing config to CaptainSKIPNOTZ (816dd210-63fc-3b2d-9e26-aa9a5eaf0da6)
+[09Jul2025 04:10:09.672] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved too quickly! -9.389811647434101,0.0,4.404367225163128
+[09Jul2025 04:11:36.505] [Worker-Main-13/INFO] [citadel/]: vanilla surface rule behavior unchanged
+[09Jul2025 04:13:56.631] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! -4.362372153444198,0.0,9.325071732738593
+[09Jul2025 04:13:59.522] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 7.413694418531236,0.0,-33.754408060550645
+[09Jul2025 04:13:59.532] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 7.244438841375427,0.0,-33.20637009339441
+[09Jul2025 04:13:59.634] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 7.075115500156244,0.0,-32.65833966098319
+[09Jul2025 04:13:59.635] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 6.905755899737869,0.0,-32.11031326026375
+[09Jul2025 04:13:59.707] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 6.73637689774489,0.0,-31.562289016822206
+[09Jul2025 04:13:59.741] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 6.5669875143561285,0.0,-31.01426592769701
+[09Jul2025 04:13:59.816] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 6.520738922050214,0.0,-30.45255070725227
+[09Jul2025 04:13:59.869] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 6.540380511890248,0.0,-29.883509100330002
+[09Jul2025 04:13:59.923] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 6.59527862448806,0.0,-29.310547290075988
+[09Jul2025 04:13:59.970] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 6.669041799474371,0.0,-28.73548785717969
+[09Jul2025 04:14:00.019] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 6.752899293215933,0.0,-28.15930602822948
+[09Jul2025 04:14:00.072] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 6.71901170970375,0.0,-27.596216376500365
+[09Jul2025 04:14:00.124] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 6.622121082936701,0.0,-27.04013208777235
+[09Jul2025 04:14:00.176] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 6.491518783869083,0.0,-26.487796229114338
+[09Jul2025 04:14:00.218] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 6.421636097566875,0.0,-26.1922523235354
+[09Jul2025 04:14:00.266] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 6.384243265437021,0.0,-26.034112672169954
+[09Jul2025 04:14:00.317] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 6.364235106496949,0.0,-25.949495297688827
+[09Jul2025 04:14:00.371] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 6.3535291395677405,0.0,-25.904218227692354
+[09Jul2025 04:14:00.419] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 6.347800590117913,0.0,-25.879991370264634
+[09Jul2025 04:14:00.481] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 6.344735357522268,0.0,-25.867028061886458
+[09Jul2025 04:14:00.527] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 6.2659773010469735,0.0,-25.60530541114963
+[09Jul2025 04:14:00.620] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 6.145077378818087,0.0,-25.21047659604278
+[09Jul2025 04:14:00.621] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 6.001628184442552,0.0,-24.744425326232204
+[09Jul2025 04:14:00.721] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 5.845454052887135,0.0,-24.24046907417346
+[09Jul2025 04:14:00.722] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 5.682471061154615,0.0,-23.716230621857562
+[09Jul2025 04:14:00.769] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 5.5165040553335984,0.0,-23.180934835326184
+[09Jul2025 04:14:00.868] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 5.35632475568741,0.0,-22.637556084577
+[09Jul2025 04:14:00.869] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 5.199242342220941,0.0,-22.089852300831808
+[09Jul2025 04:14:00.918] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 5.043817010803991,0.0,-21.53983427816229
+[09Jul2025 04:14:01.016] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 4.889278350953077,0.0,-20.9885779523853
+[09Jul2025 04:14:01.076] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 4.735214131378825,0.0,-20.436659035304615
+[09Jul2025 04:14:01.077] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 4.581403775337321,0.0,-19.88438557882796
+[09Jul2025 04:14:01.128] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 4.4277292566106325,0.0,-19.331922415389272
+[09Jul2025 04:14:01.191] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 4.274127421722824,0.0,-18.779357743537503
+[09Jul2025 04:14:01.192] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 4.120564478508072,0.0,-18.22673875655778
+[09Jul2025 04:14:01.269] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 3.9670223454521647,0.0,-17.67409070663598
+[09Jul2025 04:14:01.324] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 3.8134913474973473,0.0,-17.121427105713337
+[09Jul2025 04:14:01.367] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 3.659966307713148,0.0,-16.56875518376023
+[09Jul2025 04:14:01.417] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 3.6299346208295447,0.0,-16.005945025847154
+[09Jul2025 04:14:01.467] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 3.665981764891285,0.0,-15.437710100006484
+[09Jul2025 04:14:01.518] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 3.7373863739220496,0.0,-14.866572489005875
+[09Jul2025 04:14:01.567] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 3.704219892703577,0.0,-14.304015492592043
+[09Jul2025 04:14:01.620] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 3.61509950601544,0.0,-13.746049811964667
+[09Jul2025 04:14:01.667] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 3.496039300110965,0.0,-13.190540852873596
+[09Jul2025 04:14:01.719] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 3.360958893879342,0.0,-12.636346436494932
+[09Jul2025 04:14:01.772] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 3.218637640792508,0.0,-12.082489333775584
+[09Jul2025 04:14:01.818] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 3.0901064319650686,0.0,-11.524644523748634
+[09Jul2025 04:14:01.867] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 2.978588861658295,0.0,-10.962919364426284
+[09Jul2025 04:14:01.918] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 2.8920917893154865,0.0,-10.397022936521466
+[09Jul2025 04:14:02.020] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 2.832902265989105,0.0,-9.827854348502456
+[09Jul2025 04:14:28.196] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 0.8694220921279339,6.0,8.03056606288908
+[09Jul2025 04:14:28.197] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 1.2461607542953743,6.0,8.276060943787684
+[09Jul2025 04:14:28.197] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 1.6976528989953295,6.0,8.51511382645424
+[09Jul2025 04:14:28.198] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 2.1891441417747046,6.0,8.750719724306464
+[09Jul2025 04:14:28.198] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 2.7156306668160823,7.0,8.944753717276967
+[09Jul2025 04:14:28.198] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 3.2608424696651355,7.0,9.116543412799615
+[09Jul2025 04:14:28.199] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 3.8160737953273838,7.0,9.276430628261323
+[09Jul2025 04:14:28.199] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 4.37770240369116,7.0,9.42579776127252
+[09Jul2025 04:14:28.200] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 4.942754070480419,7.0,9.569535807912303
+[09Jul2025 04:14:28.200] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 5.508239270832632,7.0,9.715801639920642
+[09Jul2025 04:14:28.200] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 6.073956446350621,7.0,9.863420039480957
+[09Jul2025 04:14:28.201] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 6.640334842371772,7.0,10.00969136149638
+[09Jul2025 04:14:28.201] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 6.943392629715731,7.0,10.087958229571313
+[09Jul2025 04:14:28.201] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 7.105552809403093,7.0,10.129837270205144
+[09Jul2025 04:14:28.202] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 7.192321488428547,7.0,10.152245909870317
+[09Jul2025 04:14:28.202] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 7.238749678594218,7.0,10.164236326175114
+[09Jul2025 04:14:28.203] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 7.263592477473594,7.0,10.170652158876692
+[09Jul2025 04:14:28.203] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 7.276885363841984,7.0,10.17408514303736
+[09Jul2025 04:14:28.203] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 7.283998122306116,7.0,10.17408514303736
+[09Jul2025 04:14:28.204] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 7.28780401754716,7.0,10.17408514303736
+[09Jul2025 04:14:28.204] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 7.28780401754716,7.0,10.17408514303736
+[09Jul2025 04:14:28.205] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 7.28780401754716,7.0,10.17408514303736
+[09Jul2025 04:14:28.205] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 7.28780401754716,7.0,10.17408514303736
+[09Jul2025 04:14:28.205] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 7.28780401754716,7.0,10.17408514303736
+[09Jul2025 04:14:28.206] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 7.28780401754716,7.0,10.17408514303736
+[09Jul2025 04:14:28.206] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 7.28780401754716,7.0,10.17408514303736
+[09Jul2025 04:14:28.207] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 7.28780401754716,7.0,10.17408514303736
+[09Jul2025 04:14:28.207] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 7.28780401754716,7.0,10.17408514303736
+[09Jul2025 04:14:28.207] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 7.28780401754716,7.0,10.17408514303736
+[09Jul2025 04:14:28.208] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 7.28780401754716,7.0,10.17408514303736
+[09Jul2025 04:14:28.208] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 7.28780401754716,7.0,10.17408514303736
+[09Jul2025 04:14:28.208] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 7.28780401754716,7.0,10.17408514303736
+[09Jul2025 04:14:28.209] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 7.28780401754716,7.0,10.17408514303736
+[09Jul2025 04:14:28.209] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 7.28780401754716,7.0,10.17408514303736
+[09Jul2025 04:14:28.210] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 7.28780401754716,7.0,10.17408514303736
+[09Jul2025 04:14:28.210] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 7.28780401754716,7.0,10.17408514303736
+[09Jul2025 04:14:28.211] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 7.28780401754716,7.0,10.17408514303736
+[09Jul2025 04:14:28.211] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 7.28780401754716,7.0,10.17408514303736
+[09Jul2025 04:14:28.212] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 7.28780401754716,7.0,10.17408514303736
+[09Jul2025 04:14:28.212] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 7.28780401754716,7.0,10.17408514303736
+[09Jul2025 04:14:28.213] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 7.28780401754716,7.0,10.17408514303736
+[09Jul2025 04:14:28.213] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 7.28780401754716,7.0,10.17408514303736
+[09Jul2025 04:14:28.214] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 7.28780401754716,7.0,10.17408514303736
+[09Jul2025 04:14:28.216] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 7.28780401754716,7.0,10.17408514303736
+[09Jul2025 04:14:28.216] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 7.28780401754716,7.0,10.17408514303736
+[09Jul2025 04:14:28.217] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 7.28780401754716,7.0,10.17408514303736
+[09Jul2025 04:14:28.218] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 7.28780401754716,7.0,10.17408514303736
+[09Jul2025 04:14:28.218] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 7.28780401754716,7.0,10.17408514303736
+[09Jul2025 04:14:28.219] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 7.28780401754716,7.0,10.17408514303736
+[09Jul2025 04:14:28.220] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 7.28780401754716,7.0,10.17408514303736
+[09Jul2025 04:14:28.221] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 7.28780401754716,7.0,10.17408514303736
+[09Jul2025 04:14:28.221] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 7.28780401754716,7.0,10.17408514303736
+[09Jul2025 04:14:28.221] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 7.28780401754716,7.0,10.17408514303736
+[09Jul2025 04:14:28.222] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 7.28780401754716,7.0,10.17408514303736
+[09Jul2025 04:14:28.222] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 7.28780401754716,7.0,10.17408514303736
+[09Jul2025 04:14:28.222] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 7.28780401754716,7.0,10.17408514303736
+[09Jul2025 04:14:28.223] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 7.28780401754716,7.0,10.17408514303736
+[09Jul2025 04:14:28.223] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 7.28780401754716,7.0,10.17408514303736
+[09Jul2025 04:14:28.224] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 7.28780401754716,7.0,10.17408514303736
+[09Jul2025 04:14:28.224] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 7.28780401754716,7.0,10.17408514303736
+[09Jul2025 04:14:28.225] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 7.28780401754716,7.0,10.17408514303736
+[09Jul2025 04:14:28.225] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 7.28780401754716,7.0,10.17408514303736
+[09Jul2025 04:14:28.319] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved wrongly! 3.6517248115443546
+[09Jul2025 04:14:28.320] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved wrongly! 3.6517248115443546
+[09Jul2025 04:14:28.459] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved wrongly! 3.6517248115443546
+[09Jul2025 04:14:28.460] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved wrongly! 3.6517248115443546
+[09Jul2025 04:14:28.502] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved wrongly! 3.6517248115443546
+[09Jul2025 04:14:28.503] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved wrongly! 3.6517248115443546
+[09Jul2025 04:14:29.197] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved wrongly! 3.6517248115443546
+[09Jul2025 04:14:29.197] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved wrongly! 3.6517248115443546
+[09Jul2025 04:14:29.266] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved wrongly! 3.6517248115443546
+[09Jul2025 04:14:29.267] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved wrongly! 3.6517248115443546
+[09Jul2025 04:14:29.299] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved wrongly! 3.6517248115443546
+[09Jul2025 04:14:29.406] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved wrongly! 3.6517248115443546
+[09Jul2025 04:14:29.407] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved wrongly! 3.6517248115443546
+[09Jul2025 04:14:29.407] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved wrongly! 3.6517248115443546
+[09Jul2025 04:14:29.443] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved wrongly! 3.6517248115443546
+[09Jul2025 04:14:29.443] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved wrongly! 3.6517248115443546
+[09Jul2025 04:14:29.444] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved wrongly! 3.6517248115443546
+[09Jul2025 04:14:29.473] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved wrongly! 3.6517248115443546
+[09Jul2025 04:14:29.534] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved wrongly! 3.6517248115443546
+[09Jul2025 04:14:29.534] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved wrongly! 3.907578879794396
+[09Jul2025 04:14:29.725] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved wrongly! 4.302894474591402
+[09Jul2025 04:14:29.726] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved wrongly! 4.775015927310051
+[09Jul2025 04:14:29.727] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved wrongly! 5.289632762421661
+[09Jul2025 04:14:29.772] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved wrongly! 5.827887416946787
+[09Jul2025 04:14:29.831] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved wrongly! 6.116640474278258
+[09Jul2025 04:14:29.833] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved wrongly! 6.271326060736085
+[09Jul2025 04:14:29.881] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 9.27071191944799,1.5510576895623984,3.4811891269059743
+[09Jul2025 04:14:29.970] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 9.385385821475552,1.2615077906826428,3.5306454450493447
+[09Jul2025 04:14:29.971] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 9.48765201025094,1.0,3.574750590840722
+[09Jul2025 04:14:30.025] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 9.578853000029312,1.0,3.614083560991048
+[09Jul2025 04:14:30.026] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 9.627652831308183,1.0,3.6351298491036914
+[09Jul2025 04:14:30.069] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 9.653764648061838,1.0,3.6463912982550255
+[09Jul2025 04:14:30.175] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 9.667736560593198,1.0,3.6524170751667953
+[09Jul2025 04:14:30.175] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 9.67521265241885,1.0,3.6556413482512653
+[09Jul2025 04:14:30.179] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 9.67921296009763,1.0,3.6556413482512653
+[09Jul2025 04:14:30.218] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 9.67921296009763,1.0,3.6556413482512653
+[09Jul2025 04:14:30.265] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 9.67921296009763,1.0,3.6556413482512653
+[09Jul2025 04:14:30.317] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 9.67921296009763,1.0,3.6556413482512653
+[09Jul2025 04:14:30.366] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 9.67921296009763,1.0,3.6556413482512653
+[09Jul2025 04:14:30.366] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 9.67921296009763,1.0,3.6556413482512653
+[09Jul2025 04:14:30.571] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 9.67921296009763,1.0,3.6556413482512653
+[09Jul2025 04:14:30.572] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 9.67921296009763,1.0,3.6556413482512653
+[09Jul2025 04:14:30.572] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 9.944089849551915,1.0,3.6246721452192787
+[09Jul2025 04:14:30.573] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 10.350530099901675,1.0,3.5757356639621776
+[09Jul2025 04:15:20.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported CaptainSKIPNOTZ to Maxx]
+[09Jul2025 04:17:16.226] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: agustinnfes2[/127.220.229.95:45101] logged in with entity id 18268 at (1375.3156900732008, 63.0, 1037.6262100300598)
+[09Jul2025 04:17:16.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 joined the game
+[09Jul2025 04:17:16.248] [Server thread/INFO] [Jade/]: Syncing config to agustinnfes2 (d7072c52-a1ba-3ad3-bd6c-c7ea7e4745b8)
+[09Jul2025 04:17:18.425] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2139ms or 42 ticks behind
+[09Jul2025 04:18:23.389] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/19609, l='ServerLevel[world]', x=284.89, y=-256.00, z=328.55] died, message: 'Unemployed was killed'
+[09Jul2025 04:19:42.624] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 10.003876166114651,0.0,0.16386534360822225
+[09Jul2025 04:19:42.624] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 10.286418474578454,0.0,0.045497343937768164
+[09Jul2025 04:19:42.625] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 10.437601230551536,0.0,-0.017839012682543398
+[09Jul2025 04:19:42.625] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 10.518496109013768,0.0,-0.05172903431935083
+[09Jul2025 04:19:42.625] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 10.561781345609006,0.0,-0.06986290920303873
+[09Jul2025 04:19:42.626] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 10.584942412696591,0.0,-0.07956598410282822
+[09Jul2025 04:19:42.626] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 10.59733543791333,0.0,-0.08475790602324196
+[09Jul2025 04:19:42.627] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 10.603966698616546,0.0,-0.08475790602324196
+[09Jul2025 04:19:42.627] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 10.607514954005751,0.0,-0.08475790602324196
+[09Jul2025 04:19:42.627] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 10.607514954005751,0.0,-0.08475790602324196
+[09Jul2025 04:19:42.628] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 10.607514954005751,0.0,-0.08475790602324196
+[09Jul2025 04:19:42.628] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 10.607514954005751,0.0,-0.08475790602324196
+[09Jul2025 04:19:42.628] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 10.607514954005751,0.0,-0.08475790602324196
+[09Jul2025 04:19:42.629] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 10.607514954005751,0.0,-0.08475790602324196
+[09Jul2025 04:19:42.629] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 10.607514954005751,0.0,-0.08475790602324196
+[09Jul2025 04:19:42.630] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 10.607514954005751,0.0,-0.08475790602324196
+[09Jul2025 04:19:42.630] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 10.607514954005751,0.0,-0.08475790602324196
+[09Jul2025 04:19:42.632] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 10.607514954005751,0.0,-0.08475790602324196
+[09Jul2025 04:19:42.632] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 10.498718986353879,0.0,-0.16184975500232213
+[09Jul2025 04:20:21.438] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! -2.2012240232430713,-1.0,-10.155817446740684
+[09Jul2025 04:20:21.439] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! -2.107702959871517,-1.0,-10.713375245073166
+[09Jul2025 04:20:21.439] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! -2.0046321102142883,-1.0768320014953616,-11.273068847743843
+[09Jul2025 04:20:21.440] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! -1.9441779942480935,-1.2274534586630068,-11.598685289575087
+[09Jul2025 04:20:21.440] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! -1.8849620527500974,-1.4489423104376016,-11.915205594897543
+[09Jul2025 04:20:21.440] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! -1.8277427435789377,-1.7384922093173572,-12.223779282771602
+[09Jul2025 04:20:21.441] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! -1.7723040311682325,-2.0,-12.52526617700073
+[09Jul2025 04:20:21.441] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! -1.7071742595195474,-2.0,-13.060351472110597
+[09Jul2025 04:20:21.442] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! -1.656635090761938,-2.0,-13.612884220161732
+[09Jul2025 04:20:21.442] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! -1.631356750347777,-2.0,-14.175208840219057
+[09Jul2025 04:20:21.442] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! -1.6195949755335732,-2.0,-14.742772895758208
+[09Jul2025 04:20:21.443] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! -1.6150656454807404,-2.0,-15.313140468760594
+[09Jul2025 04:20:21.637] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved wrongly! 0.5089541554316384
+[09Jul2025 04:20:21.637] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved wrongly! 1.0590567437470781
+[09Jul2025 04:20:21.638] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved wrongly! 1.6019958084675636
+[09Jul2025 04:20:21.638] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved wrongly! 2.1267079232051174
+[09Jul2025 04:20:21.639] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved wrongly! 2.641667160412908
+[09Jul2025 04:20:21.639] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved wrongly! 3.1514078273058885
+[09Jul2025 04:20:21.640] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved wrongly! 3.6114803992754787
+[09Jul2025 04:20:21.640] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved wrongly! 0.865646649196151
+[09Jul2025 04:20:21.641] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved wrongly! 1.2510008241602009
+[09Jul2025 04:20:21.641] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved wrongly! 1.6983495692770703
+[09Jul2025 04:20:21.642] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved wrongly! 2.209771547701507
+[09Jul2025 04:20:21.642] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! -3.8637568785856047,5.0,-7.969344229664102
+[09Jul2025 04:20:21.642] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! -4.398984674220969,5.0,-7.894096995575069
+[09Jul2025 04:20:23.620] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved wrongly! 3.577095353575146
+[09Jul2025 04:20:23.621] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved wrongly! 3.730336783904363
+[09Jul2025 04:20:23.621] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved wrongly! 3.8123332179690124
+[09Jul2025 04:20:23.671] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved wrongly! 3.885457639975357
+[09Jul2025 04:20:23.672] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved wrongly! 3.950670001399999
+[09Jul2025 04:20:23.724] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved wrongly! 5.740254968471131
+[09Jul2025 04:20:23.726] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved wrongly! 5.76143036085108
+[09Jul2025 04:20:23.825] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved wrongly! 0.9454638068507393
+[09Jul2025 04:20:23.826] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved wrongly! 0.9454638068507393
+[09Jul2025 04:20:23.826] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved wrongly! 0.9454638068507393
+[09Jul2025 04:20:23.826] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved wrongly! 0.9454638068507393
+[09Jul2025 04:20:23.826] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved wrongly! 0.9454638068507393
+[09Jul2025 04:20:23.826] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved wrongly! 0.9454638068507393
+[09Jul2025 04:20:23.827] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved wrongly! 0.9454638068507393
+[09Jul2025 04:20:23.827] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved wrongly! 0.9454638068507393
+[09Jul2025 04:20:23.827] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved wrongly! 0.9454638068507393
+[09Jul2025 04:20:23.827] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved wrongly! 0.9454638068507393
+[09Jul2025 04:20:23.827] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved wrongly! 0.9454638068507393
+[09Jul2025 04:20:23.827] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved wrongly! 0.9454638068507393
+[09Jul2025 04:20:23.828] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved wrongly! 0.9454638068507393
+[09Jul2025 04:20:23.828] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved wrongly! 0.9415622715707741
+[09Jul2025 04:20:23.869] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved wrongly! 0.9415622715707741
+[09Jul2025 04:20:23.870] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved wrongly! 0.9415622715707741
+[09Jul2025 04:20:23.927] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved wrongly! 0.9415622715707741
+[09Jul2025 04:20:23.927] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved wrongly! 0.9415622715707741
+[09Jul2025 04:20:23.967] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved wrongly! 0.9415622715707741
+[09Jul2025 04:20:24.033] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved wrongly! 0.9415622715707741
+[09Jul2025 04:20:24.033] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved wrongly! 0.9415622715707741
+[09Jul2025 04:20:24.034] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved wrongly! 0.9415622715707741
+[09Jul2025 04:20:24.035] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved wrongly! 0.9415622715707741
+[09Jul2025 04:20:24.123] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved wrongly! 0.9415622715707741
+[09Jul2025 04:20:24.170] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved wrongly! 0.9415622715707741
+[09Jul2025 04:20:24.223] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved wrongly! 0.9415622715707741
+[09Jul2025 04:20:24.319] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved wrongly! 0.9415622715707741
+[09Jul2025 04:20:24.374] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved wrongly! 0.9415622715707741
+[09Jul2025 04:20:24.375] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved wrongly! 0.9415622715707741
+[09Jul2025 04:20:24.417] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved wrongly! 0.9415622715707741
+[09Jul2025 04:20:29.751] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved wrongly! 0.9415622715707741
+[09Jul2025 04:20:29.751] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 0.2665785898550439,4.0,-9.343135291180488
+[09Jul2025 04:20:29.751] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 0.009325034355811113,4.0,-9.672255784970957
+[09Jul2025 04:20:29.752] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! -0.2959093661819452,4.0,-10.062761161784465
+[09Jul2025 04:20:29.752] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! -0.6268173602650222,4.0,-10.486112365621011
+[09Jul2025 04:20:29.753] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! -0.9714627823778983,4.0,-10.927038716622405
+[09Jul2025 04:20:29.753] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! -1.3234588283347648,4.0,-11.377369178461208
+[09Jul2025 04:20:29.754] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! -1.6793880465550046,5.0,-11.832731592511209
+[09Jul2025 04:20:29.754] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! -2.110696540110098,5.0,-12.190869891352122
+[09Jul2025 04:20:29.755] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! -2.582338980996269,5.0,-12.496985504584245
+[09Jul2025 04:20:29.755] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! -3.075563312927102,5.0,-12.775264815967603
+[09Jul2025 04:20:29.755] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! -3.5803356844595555,5.0,-13.03864947722775
+[09Jul2025 04:20:29.756] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! -4.091287181739631,5.0,-13.294064308174143
+[09Jul2025 04:20:29.756] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! -4.364687140660408,4.923167998504638,-13.430731691791266
+[09Jul2025 04:20:29.756] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! -4.510978007671838,4.772546541336993,-13.50385968391106
+[09Jul2025 04:20:29.757] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! -4.641440206632524,4.551057689562398,-13.56907522916299
+[09Jul2025 04:20:29.758] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! -4.757786399018755,4.261507790682643,-13.627234454094832
+[09Jul2025 04:20:29.758] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! -4.861543936379007,4.0,-13.67910085238384
+[09Jul2025 04:20:29.758] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! -4.954074910863596,4.0,-13.72535530771097
+[09Jul2025 04:20:29.759] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! -5.003586390441683,4.0,-13.750105144542204
+[09Jul2025 04:20:29.759] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! -5.030078996011525,4.0,-13.763348288772136
+[09Jul2025 04:20:29.759] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! -5.044254661046352,4.0,-13.770434431209765
+[09Jul2025 04:20:29.760] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! -5.051839776774273,4.0,-13.774226084745692
+[09Jul2025 04:20:29.760] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! -5.055898420969356,4.0,-13.774226084745692
+[09Jul2025 04:20:29.760] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! -5.055898420969356,4.0,-13.774226084745692
+[09Jul2025 04:20:29.761] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! -5.296756286317873,4.0,-13.888709034775502
+[09Jul2025 04:20:29.761] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! -5.6664923932265765,4.0,-14.064449528822365
+[09Jul2025 04:20:29.762] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! -6.105188677639262,4.0,-14.272967713329194
+[09Jul2025 04:20:29.762] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! -6.580784178116687,4.0,-14.499024586484438
+[09Jul2025 04:20:29.762] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! -7.107335389347213,4.0,-14.614556328088383
+[09Jul2025 04:20:29.763] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! -7.661151985454467,3.9231679985046384,-14.670948275432579
+[09Jul2025 04:20:29.763] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! -7.984695158247405,3.772546541336993,-14.700579803709047
+[09Jul2025 04:20:29.764] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! -8.300414401603689,3.5510576895623984,-14.725750688292237
+[09Jul2025 04:20:29.764] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! -8.609156264487183,3.261507790682643,-14.746943570715075
+[09Jul2025 04:20:29.764] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! -8.91163855438299,3.0,-14.763948158854191
+[09Jul2025 04:20:29.765] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! -9.452855154697545,3.0,-14.76016060149118
+[09Jul2025 04:20:29.765] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! -9.927885879019982,3.0,-14.56100088724122
+[09Jul2025 04:20:29.765] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! -10.431893216159096,3.0,-14.361134441411082
+[09Jul2025 04:20:29.766] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! -10.951405361084994,3.0,-14.160889837603122
+[09Jul2025 04:20:29.766] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! -11.439449966707684,3.0,-13.889450620283355
+[09Jul2025 04:20:29.767] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! -11.70059290461677,3.0,-13.744208907009693
+[09Jul2025 04:20:29.767] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! -11.840325284063397,3.0,-13.666492962044344
+[09Jul2025 04:20:29.767] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! -11.915093294342228,3.0,-13.624908709382112
+[09Jul2025 04:20:29.768] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! -11.955100165929139,3.0,-13.602657804883165
+[09Jul2025 04:20:29.768] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! -11.97650704526427,3.0,-13.590751789520937
+[09Jul2025 04:20:29.769] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! -11.987961439589412,3.0,-13.584381118080955
+[09Jul2025 04:20:29.951] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! -11.994090457616835,3.0,-13.580972298810934
+[09Jul2025 04:20:29.952] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! -11.997369972963838,3.0,-13.580972298810934
+[09Jul2025 04:20:29.952] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! -11.997369972963838,3.0,-13.580972298810934
+[09Jul2025 04:20:29.953] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! -11.997369972963838,3.0,-13.580972298810934
+[09Jul2025 04:20:29.953] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! -11.997369972963838,3.0,-13.580972298810934
+[09Jul2025 04:20:29.953] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! -11.997369972963838,3.0,-13.580972298810934
+[09Jul2025 04:20:29.954] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! -11.997369972963838,3.0,-13.580972298810934
+[09Jul2025 04:20:29.954] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! -11.997369972963838,3.0,-13.580972298810934
+[09Jul2025 04:20:29.955] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! -11.997369972963838,3.0,-13.580972298810934
+[09Jul2025 04:20:29.955] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! -11.997369972963838,3.0,-13.580972298810934
+[09Jul2025 04:20:29.956] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! -11.997369972963838,3.0,-13.580972298810934
+[09Jul2025 04:20:29.956] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! -11.997369972963838,3.0,-13.580972298810934
+[09Jul2025 04:20:29.956] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! -11.997369972963838,3.0,-13.580972298810934
+[09Jul2025 04:20:29.957] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! -11.997369972963838,3.0,-13.580972298810934
+[09Jul2025 04:20:29.957] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! -11.997369972963838,3.0,-13.580972298810934
+[09Jul2025 04:20:29.958] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! -11.90421147623556,3.0,-13.676363627713272
+[09Jul2025 04:20:29.958] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! -11.766594127758708,3.0,-13.827777114750234
+[09Jul2025 04:20:29.959] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! -11.605187734125138,3.0,-14.009166941643798
+[09Jul2025 04:20:29.959] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! -11.431052296730627,3.0,-14.206596510330769
+[09Jul2025 04:20:29.960] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! -11.250105801809354,3.0,-14.412608625053508
+[09Jul2025 04:20:29.960] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! -11.065514845803364,3.0,-14.623213089042451
+[09Jul2025 04:20:29.960] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! -10.878973811333594,3.0,-14.836274827562193
+[09Jul2025 04:20:29.961] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! -10.69485594893331,3.0,-15.053580298094062
+[09Jul2025 04:20:29.961] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! -10.512034677594556,3.0,-15.27315650501464
+[09Jul2025 04:20:29.962] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! -10.329907186281616,3.0,-15.493947737703252
+[09Jul2025 04:20:29.962] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! -10.148150922827995,3.0,-15.715389106455405
+[09Jul2025 04:20:29.962] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! -9.966593296000497,3.0,-15.937178350052818
+[09Jul2025 04:20:29.963] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! -9.859865787737135,3.0,-16.188848471162146
+[09Jul2025 04:20:29.963] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! -9.793178383965824,3.0,-16.456507254067674
+[09Jul2025 04:20:29.965] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! -9.747915641794634,3.0,-16.732721251120893
+[09Jul2025 04:20:29.965] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! -9.714116808884,3.0,-17.013512972691956
+[09Jul2025 04:20:29.966] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! -9.686452085252995,3.0,-17.296754143382486
+[09Jul2025 04:20:29.966] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! -9.733273249435229,3.0,-17.56655718463128
+[09Jul2025 04:20:29.966] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! -9.598727045246847,3.0,-17.931330667134603
+[09Jul2025 04:20:29.967] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! -9.367134778318473,3.0,-18.346920939246957
+[09Jul2025 04:20:29.967] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! -9.138812555776326,3.0,-18.820594732414406
+[09Jul2025 04:20:29.968] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! -8.814992694254443,4.0,-19.24856594494088
+[09Jul2025 04:20:29.968] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! -8.440073950131932,4.0,-19.652082617777637
+[09Jul2025 04:20:29.969] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! -8.048679747420692,3.9231679985046384,-20.054331633263814
+[09Jul2025 04:20:29.969] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! -7.820174247328055,3.772546541336993,-20.28820059038094
+[09Jul2025 04:20:29.969] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! -7.597314770692037,3.5510576895623984,-20.515398461259338
+[09Jul2025 04:20:29.970] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! -7.379540507623915,3.261507790682643,-20.73669820559894
+[09Jul2025 04:20:29.970] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! -7.166301238146389,3.0,-20.952738000539625
+[09Jul2025 04:20:29.971] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! -6.785852691382956,3.0,-21.332249067729663
+[09Jul2025 04:20:29.971] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! -6.39200049857277,3.0,-21.722164645657926
+[09Jul2025 04:20:29.972] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! -5.990976282002862,3.0,-22.117647469838744
+[09Jul2025 04:20:30.163] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! -5.586114458513862,3.0,-22.51610921649035
+[09Jul2025 04:20:30.164] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! -5.1791992080760565,3.0,-22.916164925162775
+[09Jul2025 04:20:30.164] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! -4.771185209818896,3.0,-23.317073531132337
+[09Jul2025 04:20:30.165] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! -4.36258329351017,3.0,-23.718438505440645
+[09Jul2025 04:20:30.165] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! -3.95366679397398,3.0,-24.12004767334804
+[09Jul2025 04:20:30.165] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! -3.5445819672248717,3.0,-24.521787504381678
+[09Jul2025 04:20:30.166] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! -3.135407071940108,3.0,-24.92359725064898
+[09Jul2025 04:20:30.166] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! -2.7261839827777976,2.9231679985046384,-25.325444407163786
+[09Jul2025 04:20:30.167] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! -2.488188690718971,2.772546541336993,-25.55914948589782
+[09Jul2025 04:20:30.167] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! -2.2569163070677405,2.5510576895623984,-25.786252358370348
+[09Jul2025 04:20:30.168] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! -2.031639413307289,2.261507790682643,-26.00746738312921
+[09Jul2025 04:20:30.168] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! -1.8117092975854803,2.0,-26.223431625145622
+[09Jul2025 04:20:30.169] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! -1.4252938539694924,2.0,-26.602875314235803
+[09Jul2025 04:20:30.169] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! -1.028248893620571,2.0,-26.992754839486224
+[09Jul2025 04:20:30.169] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! -0.6255162907975773,3.0,-27.388218372597976
+[09Jul2025 04:20:30.170] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! -0.21974034388608743,3.0,-27.78666979698312
+[09Jul2025 04:20:30.170] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 0.18766403576944413,3.0,-28.186719982416548
+[09Jul2025 04:20:30.171] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 0.595939757318888,3.0,-28.587625633011044
+[09Jul2025 04:20:30.171] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved wrongly! 0.9454638068507393
+[09Jul2025 04:20:30.171] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved wrongly! 0.9454638068507393
+[09Jul2025 04:20:30.171] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved wrongly! 0.9454638068507393
+[09Jul2025 04:20:30.171] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved wrongly! 0.9454638068507393
+[09Jul2025 04:20:30.172] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved wrongly! 0.9454638068507393
+[09Jul2025 04:20:30.172] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved wrongly! 0.9454638068507393
+[09Jul2025 04:20:30.172] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved wrongly! 0.9454638068507393
+[09Jul2025 04:20:34.027] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 10.068663430458741,1.0,-2.050166248429605
+[09Jul2025 04:20:34.028] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 10.419778138788956,1.0,-2.2240985388305035
+[09Jul2025 04:20:34.028] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 10.649661165706334,1.0,-2.4437125872057095
+[09Jul2025 04:20:34.029] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 10.81467553699872,0.9231679985046384,-2.687770033476909
+[09Jul2025 04:20:34.029] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 10.907172291741858,0.7725465413369932,-2.8310149417577577
+[09Jul2025 04:20:34.029] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 10.993861754695331,0.5510576895623984,-2.9714153894060473
+[09Jul2025 04:20:34.030] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 11.076577269288805,0.26150779068264285,-3.1088130847995217
+[09Jul2025 04:20:34.030] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 11.155748816632695,0.0,-3.2435329256550176
+[09Jul2025 04:20:34.030] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 11.309573298532541,0.0,-3.467851906682199
+[09Jul2025 04:20:34.031] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 11.475101005811553,0.0,-3.6920563444816707
+[09Jul2025 04:20:34.031] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 11.668046590933272,0.0,-3.8949930071753442
+[09Jul2025 04:20:34.031] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 11.87566293583518,0.0,-4.08654970744351
+[09Jul2025 04:20:34.033] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 12.091129311792088,0.0,-4.272017216709855
+[09Jul2025 04:20:34.033] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 12.332396210736192,0.0,-4.41494841714848
+[09Jul2025 04:20:34.034] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 12.587468455123826,0.0,-4.5351192868158705
+[09Jul2025 04:20:34.034] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 12.847741088159978,0.0,-4.549861188893601
+[09Jul2025 04:20:34.034] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 13.135575912643617,0.0,-4.570084432769022
+[09Jul2025 04:20:34.035] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 13.438158716240082,0.0,-4.5932406333542986
+[09Jul2025 04:20:34.035] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 13.746326808946947,0.0,-4.576785750321164
+[09Jul2025 04:20:34.036] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 13.95201194632864,0.0,-4.620716836569841
+[09Jul2025 04:20:34.036] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 14.102860497605434,0.0,-4.69695925101496
+[09Jul2025 04:20:34.036] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 14.224367084981168,0.0,-4.790490812959547
+[09Jul2025 04:20:34.037] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 14.330173372489071,0.0,-4.8932734530227435
+[09Jul2025 04:20:34.037] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 14.427578742567903,0.0,-5.001006160540555
+[09Jul2025 04:20:34.038] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 14.52048894922666,0.0,-5.1113875504596535
+[09Jul2025 04:20:34.038] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 14.610993883563197,0.0,-5.223186197522637
+[09Jul2025 04:20:34.038] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 14.70021180463607,0.0,-5.335743190626317
+[09Jul2025 04:20:34.039] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Horse (vehicle of BozzNofps) moved too quickly! 14.78874107057186,0.0,-5.4487059595765
+[09Jul2025 04:20:37.063] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Chicken['Chicken'/23704, l='ServerLevel[world]', x=1792.64, y=97.00, z=859.33]
+[09Jul2025 04:20:57.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported BozzNofps to balda]
+[09Jul2025 04:21:05.743] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of agustinnfes2) moved too quickly! 7.418212155142555,0.0,7.275864604690241
+[09Jul2025 04:21:05.744] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of agustinnfes2) moved too quickly! 7.70620441741562,0.0,7.553365034292938
+[09Jul2025 04:21:05.746] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of agustinnfes2) moved too quickly! 7.994277267895541,0.0,7.830791320515573
+[09Jul2025 04:21:05.747] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of agustinnfes2) moved too quickly! 8.282425300166551,0.0,8.108148109807189
+[09Jul2025 04:21:05.748] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of agustinnfes2) moved too quickly! 8.570640996047587,0.0,8.385442351862366
+[09Jul2025 04:21:05.749] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of agustinnfes2) moved too quickly! 8.858920243445482,0.0,8.662677531653117
+[09Jul2025 04:21:05.751] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of agustinnfes2) moved too quickly! 9.147256687207118,0.0,8.93985955540711
+[09Jul2025 04:21:05.752] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of agustinnfes2) moved too quickly! 9.435647258238532,0.0,9.216990970838651
+[09Jul2025 04:21:05.752] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of agustinnfes2) moved too quickly! 9.724086543811609,0.0,9.494076838781211
+[09Jul2025 04:21:05.753] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of agustinnfes2) moved too quickly! 10.012569672471045,0.0,9.77112171398494
+[09Jul2025 04:21:05.754] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of agustinnfes2) moved too quickly! 10.301094914176474,0.0,10.048126925971246
+[09Jul2025 04:21:05.758] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of agustinnfes2) moved too quickly! 10.589658057622273,0.0,10.32509644106267
+[09Jul2025 04:21:05.759] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[09Jul2025 04:21:14.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported BozzNofps to Maxx]
+[09Jul2025 04:22:49.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 was slain by Man From The Fog
+[09Jul2025 04:23:30.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported agustinnfes2 to 2008.500000, 90.000000, 1040.500000]
+[09Jul2025 04:24:39.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BozzNofps> si
+[09Jul2025 04:25:10.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BozzNofps> jajaja y esto?
+[09Jul2025 04:25:27.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BozzNofps> para intercambiar con aldeanos
+[09Jul2025 04:25:31.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BozzNofps> y otra cosas
+[09Jul2025 04:26:24.903] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/30630, l='ServerLevel[world]', x=284.98, y=-256.00, z=328.49] died, message: 'Unemployed was killed'
+[09Jul2025 04:27:55.736] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Soficordoba13[/127.196.83.74:38605] logged in with entity id 32763 at (294.5, 75.0625, 357.5)
+[09Jul2025 04:27:55.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soficordoba13 joined the game
+[09Jul2025 04:27:55.816] [Server thread/INFO] [Jade/]: Syncing config to Soficordoba13 (9febe8b6-c5ce-3608-8499-8fd099c3b0fa)
+[09Jul2025 04:28:12.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Soficordoba13> jelou motherfukers
+[09Jul2025 04:31:20.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Soficordoba13> encontre otra mazmorra
+[09Jul2025 04:31:25.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Soficordoba13> x si les interesa
+[09Jul2025 04:31:50.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CaptainSKIPNOTZ> coordenadas del lugar?
+[09Jul2025 04:32:02.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Soficordoba13> q pingo se yo eso
+[09Jul2025 04:32:13.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Soficordoba13> te llevo
+[09Jul2025 04:32:18.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Soficordoba13> no te aseguro volver
+[09Jul2025 04:32:28.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BozzNofps> apreta f3
+[09Jul2025 04:32:42.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Soficordoba13> ya estoy volviendo a la casita
+[09Jul2025 04:32:51.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BozzNofps> el segundo parrafo q dice xyz, son las coords
