@@ -4222,6 +4222,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/reinforced_stone_pressure_plate": {
+    "criteria": {
+      "has_block": "2025-07-09 05:17:19 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:saber": {
     "criteria": {
       "has_saber": "2025-07-09 04:41:16 +0000"
@@ -4318,6 +4324,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_chiseled_stone_bricks_from_reinforced_stone_stonecutting": {
+    "criteria": {
+      "has_reinforced_stone": "2025-07-09 05:17:19 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/decorations/common/iron_platform": {
     "criteria": {
       "has_bars": "2025-07-09 04:31:34 +0000"
@@ -4327,6 +4339,12 @@
   "securitycraft:recipes/decorations/reinforced_orange_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-07-09 05:10:44 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_normal_stone_slab": {
+    "criteria": {
+      "has_block": "2025-07-09 05:17:19 +0000"
     },
     "done": true
   },
@@ -4414,6 +4432,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/reinforced_stone_button": {
+    "criteria": {
+      "has_block": "2025-07-09 05:17:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_gold_block": {
     "criteria": {
       "has_raw_gold": "2025-07-09 04:42:45 +0000"
@@ -4441,6 +4465,12 @@
   "tconstruct:recipes/decorations/gadgets/fancy_frame/clear": {
     "criteria": {
       "has_item": "2025-07-09 05:10:50 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_stone_bricks": {
+    "criteria": {
+      "has_block": "2025-07-09 05:17:19 +0000"
     },
     "done": true
   },
@@ -4540,6 +4570,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_stone_brick_stairs_from_reinforced_stone_stonecutting": {
+    "criteria": {
+      "has_reinforced_stone": "2025-07-09 05:17:19 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/redstone_module": {
     "criteria": {
       "has_iron": "2025-07-09 04:31:34 +0000"
@@ -4573,6 +4609,12 @@
   "securitycraft:recipes/decorations/secret_crimson_sign_item": {
     "criteria": {
       "has_sign": "2025-07-09 05:05:33 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_stone_stairs": {
+    "criteria": {
+      "has_block": "2025-07-09 05:17:19 +0000"
     },
     "done": true
   },
@@ -4624,6 +4666,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_stone_brick_wall_from_reinforced_stone_stonecutting": {
+    "criteria": {
+      "has_reinforced_stone": "2025-07-09 05:17:19 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_red_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-09 05:10:44 +0000"
@@ -4651,6 +4699,12 @@
   "securitycraft:recipes/misc/bouncing_betty": {
     "criteria": {
       "has_iron": "2025-07-09 04:31:34 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_stone_bricks_from_reinforced_stone_stonecutting": {
+    "criteria": {
+      "has_reinforced_stone": "2025-07-09 05:17:19 +0000"
     },
     "done": true
   },
@@ -4717,6 +4771,18 @@
   "securitycraft:recipes/decorations/reinforced_yellow_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-07-09 05:10:44 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_normal_stone_slab_from_reinforced_stone_stonecutting": {
+    "criteria": {
+      "has_reinforced_stone": "2025-07-09 05:17:19 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_smooth_stone": {
+    "criteria": {
+      "has_item": "2025-07-09 05:17:19 +0000"
     },
     "done": true
   },
@@ -4804,6 +4870,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_stone_brick_slab_from_reinforced_stone_stonecutting": {
+    "criteria": {
+      "has_reinforced_stone": "2025-07-09 05:17:19 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/claymore": {
     "criteria": {
       "has_redstone": "2025-07-09 04:43:13 +0000"
@@ -4813,6 +4885,12 @@
   "securitycraft:recipes/misc/harming_module": {
     "criteria": {
       "has_iron": "2025-07-09 04:31:34 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/keypad_item": {
+    "criteria": {
+      "has_the_recipe": "2025-07-09 05:18:40 +0000"
     },
     "done": true
   },
@@ -4903,6 +4981,12 @@
   "securitycraft:recipes/decorations/reinforced_purple_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-07-09 05:10:44 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_stone_stairs_from_reinforced_stone_stonecutting": {
+    "criteria": {
+      "has_reinforced_stone": "2025-07-09 05:17:19 +0000"
     },
     "done": true
   },

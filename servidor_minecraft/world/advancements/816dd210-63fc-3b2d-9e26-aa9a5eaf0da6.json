@@ -4378,6 +4378,12 @@
     },
     "done": true
   },
+  "mowziesmobs:kill_ferrous_wroughtnaut": {
+    "criteria": {
+      "ferrous_wroughtnaut": "2025-07-09 05:21:46 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/misc/common/materials_and_you": {
     "criteria": {
       "has_item": "2025-07-09 04:42:20 +0000"

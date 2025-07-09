@@ -844,3 +844,35 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [09Jul2025 05:15:40.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Soficordoba13> nose ajsjdasjda
 [09Jul2025 05:15:48.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Soficordoba13> bueno
 [09Jul2025 05:15:53.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Soficordoba13> ahi vuelvo
+[09Jul2025 05:16:52.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CaptainSKIPNOTZ was slain by Ferrous Wroughtnaut
+[09Jul2025 05:16:54.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxx was slain by Ferrous Wroughtnaut
+[09Jul2025 05:16:54.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 was slain by Ferrous Wroughtnaut
+[09Jul2025 05:17:11.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxx was slain by Ferrous Wroughtnaut
+[09Jul2025 05:17:59.358] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: agustinnfes2 lost connection: Disconnected
+[09Jul2025 05:17:59.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 left the game
+[09Jul2025 05:18:04.938] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/78409, l='ServerLevel[world]', x=284.89, y=-256.00, z=328.54] died, message: 'Unemployed was killed'
+[09Jul2025 05:18:21.108] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6a6f4df3[id=<null>,name=agustinnfes2,properties={},legacy=false] (/127.220.229.95:47625) lost connection: Disconnected
+[09Jul2025 05:18:36.271] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: agustinnfes2[/127.220.229.95:37539] logged in with entity id 78840 at (1066.699999988079, 52.0, 1020.9111261932346)
+[09Jul2025 05:18:36.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 joined the game
+[09Jul2025 05:18:36.323] [Server thread/INFO] [Jade/]: Syncing config to agustinnfes2 (d7072c52-a1ba-3ad3-bd6c-c7ea7e4745b8)
+[09Jul2025 05:18:57.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 was slain by Ferrous Wroughtnaut
+[09Jul2025 05:20:17.287] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/79958, l='ServerLevel[world]', x=290.00, y=-256.00, z=355.81] died, message: 'Unemployed was killed'
+[09Jul2025 05:20:32.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CaptainSKIPNOTZ was slain by Ferrous Wroughtnaut
+[09Jul2025 05:20:35.455] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maxx lost connection: Timed out
+[09Jul2025 05:20:35.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxx left the game
+[09Jul2025 05:20:56.288] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/80433, l='ServerLevel[world]', x=290.00, y=-256.00, z=355.81] died, message: 'Unemployed was killed'
+[09Jul2025 05:21:23.002] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@68464f1d[id=<null>,name=Maxx,properties={},legacy=false] (/127.192.242.214:41461) lost connection: Disconnected
+[09Jul2025 05:21:36.516] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Maxx[/127.192.242.214:51325] logged in with entity id 80721 at (1059.3344043027998, 50.0, 1020.7281876239397)
+[09Jul2025 05:21:36.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxx joined the game
+[09Jul2025 05:21:36.582] [Server thread/INFO] [Jade/]: Syncing config to Maxx (f3dac050-db0e-3285-9976-8540d9ac0403)
+[09Jul2025 05:21:46.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CaptainSKIPNOTZ has completed the challenge [Just a Flesh Wound]
+[09Jul2025 05:22:13.288] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/80942, l='ServerLevel[world]', x=337.31, y=-256.00, z=209.93] died, message: 'Unemployed was killed'
+[09Jul2025 05:22:27.287] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/81028, l='ServerLevel[world]', x=284.13, y=-256.00, z=366.05] died, message: 'Unemployed was killed'
+[09Jul2025 05:23:14.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maxx> A
+[09Jul2025 05:23:27.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Maxx> CUENTO 5 Y ESTAN DURMIENDP
+[09Jul2025 05:23:44.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Soficordoba13> vamos
+[09Jul2025 05:24:03.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Soficordoba13> como
+[09Jul2025 05:24:48.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Soficordoba13> no tengo
+[09Jul2025 05:26:16.862] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved too quickly! 8.387073383742063,0.0,-6.149547502240239
+[09Jul2025 05:26:16.863] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved too quickly! 8.70965355185217,0.0,-6.386068000308569
+[09Jul2025 05:26:18.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Soficordoba13> no veo una mierda con este casco asdjsjd
