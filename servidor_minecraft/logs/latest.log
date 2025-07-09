@@ -1319,3 +1319,5 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [09Jul2025 10:38:23.587] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/313297, l='ServerLevel[world]', x=290.62, y=-256.00, z=354.57] died, message: 'Unemployed was killed'
 [09Jul2025 10:42:46.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kuriron has reached the goal [Encyclopedia]
 [09Jul2025 10:52:20.537] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/315196, l='ServerLevel[world]', x=337.54, y=-256.00, z=204.88] died, message: 'Unemployed was killed'
+[09Jul2025 10:54:49.991] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kuriron lost connection: Disconnected
+[09Jul2025 10:54:49.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kuriron left the game
