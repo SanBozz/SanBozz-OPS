@@ -25,6 +25,7 @@
       "minecraft:beach": "2025-07-07 04:08:15 +0000",
       "minecraft:dark_forest": "2025-07-08 03:58:23 +0000",
       "minecraft:river": "2025-07-07 05:40:04 +0000",
+      "minecraft:stony_shore": "2025-07-09 05:12:38 +0000",
       "minecraft:grove": "2025-07-08 04:01:14 +0000",
       "minecraft:forest": "2025-07-07 04:12:06 +0000",
       "minecraft:lush_caves": "2025-07-08 03:38:12 +0000",
@@ -2622,6 +2623,54 @@
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_lapis_lazuli": "2025-07-09 00:23:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-07-09 05:08:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-07-09 05:12:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-07-09 05:08:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-07-09 05:08:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-07-09 05:12:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-07-09 05:12:57 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/robe": {
+    "criteria": {
+      "has_item": "2025-07-09 05:12:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-07-09 05:12:57 +0000"
     },
     "done": true
   },
