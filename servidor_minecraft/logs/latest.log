@@ -1054,3 +1054,8 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [09Jul2025 07:27:51.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 was shot by Wither Skeleton
 [09Jul2025 07:28:30.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda was slain by Husk
 [09Jul2025 07:29:29.127] [Worker-Main-38/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [14, -53], pos: MutableBlockPos{x=232, y=114, z=-848}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
+[09Jul2025 07:33:03.037] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/177530, l='ServerLevel[world]', x=290.00, y=-256.00, z=355.81] died, message: 'Unemployed was killed'
+[09Jul2025 07:33:07.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda has made the advancement [Blunt-force Trauma]
+[09Jul2025 07:33:33.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Set the time to 1000]
+[09Jul2025 07:33:34.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda fell from a high place
+[09Jul2025 07:33:35.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 was slain by Husk
