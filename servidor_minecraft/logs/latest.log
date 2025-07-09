@@ -1001,3 +1001,16 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [09Jul2025 06:18:56.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Set the time to 1000]
 [09Jul2025 06:22:41.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soficordoba13 was burnt to a crisp whilst fighting BozzNofps
 [09Jul2025 06:23:26.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported Soficordoba13 to BozzNofps]
+[09Jul2025 06:30:02.288] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/126156, l='ServerLevel[world]', x=337.54, y=-256.00, z=204.88] died, message: 'Unemployed was killed'
+[09Jul2025 06:30:26.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soficordoba13 was slain by Vindicator
+[09Jul2025 06:30:31.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps burned to death
+[09Jul2025 06:32:38.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda was doomed to fall
+[09Jul2025 06:34:12.236] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/127472, l='ServerLevel[world]', x=286.54, y=-256.00, z=354.00] died, message: 'Unemployed was killed'
+[09Jul2025 06:35:07.337] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/128705, l='ServerLevel[world]', x=290.62, y=-256.00, z=354.57] died, message: 'Unemployed was killed'
+[09Jul2025 06:35:11.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 has made the advancement [Spooky Scary Skeleton]
+[09Jul2025 06:36:25.574] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-575, y=62, z=943} BlockPos{x=-575, y=61, z=943}
+[09Jul2025 06:36:33.716] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Soficordoba13) moved wrongly! 0.3775084103460813
+[09Jul2025 06:36:33.771] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Soficordoba13) moved wrongly! 0.7011592541673508
+[09Jul2025 06:36:33.815] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Soficordoba13) moved wrongly! 1.0226748205175227
+[09Jul2025 06:37:59.287] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/131775, l='ServerLevel[world]', x=284.13, y=-256.00, z=366.05] died, message: 'Unemployed was killed'
+[09Jul2025 06:38:41.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda was doomed to fall by Skeleton

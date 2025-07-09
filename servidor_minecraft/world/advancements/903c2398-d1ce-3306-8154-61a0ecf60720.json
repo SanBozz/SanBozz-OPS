@@ -4867,6 +4867,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/decorations/tables/scorched_forge": {
+    "criteria": {
+      "has_item": "2025-07-09 06:25:41 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/reinforced_glass_pane": {
     "criteria": {
       "has_glass": "2025-07-09 05:40:06 +0000"
@@ -4908,6 +4914,12 @@
     },
     "done": true
   },
+  "tconstruct:smeltery/gold_casting": {
+    "criteria": {
+      "crafted_cast": "2025-07-09 06:27:42 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/reinforced_magenta_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-07-09 05:40:06 +0000"
@@ -4923,6 +4935,18 @@
   "tconstruct:recipes/decorations/common/copper_platform": {
     "criteria": {
       "has_bars": "2025-07-09 06:01:24 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/common/materials/rose_gold_block_from_ingots": {
+    "criteria": {
+      "has_item": "2025-07-09 06:26:23 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/common/materials/rose_gold_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2025-07-09 06:26:23 +0000"
     },
     "done": true
   },
@@ -4953,6 +4977,12 @@
   "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
     "criteria": {
       "has_copper_block": "2025-07-09 06:04:49 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/decorations/tables/scorched_anvil": {
+    "criteria": {
+      "has_item": "2025-07-09 06:25:41 +0000"
     },
     "done": true
   },
@@ -5124,6 +5154,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/decorations/tables/tinkers_anvil": {
+    "criteria": {
+      "has_item": "2025-07-09 06:25:41 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_lime_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-09 05:40:06 +0000"
@@ -5153,6 +5189,16 @@
       "has_item": "2025-07-09 05:53:11 +0000"
     },
     "done": true
+  },
+  "tconstruct:smeltery/cast_collector": {
+    "criteria": {
+      "leggings_plating": "2025-07-09 06:28:01 +0000",
+      "boots_plating": "2025-07-09 06:28:01 +0000",
+      "chestplate_plating": "2025-07-09 06:27:43 +0000",
+      "helmet_plating": "2025-07-09 06:27:42 +0000",
+      "ingot": "2025-07-09 06:33:17 +0000"
+    },
+    "done": false
   },
   "tconstruct:recipes/misc/smeltery/sand_cast": {
     "criteria": {
@@ -5268,6 +5314,18 @@
     },
     "done": true
   },
+  "tconstruct:recipes/decorations/tables/tinkers_forge": {
+    "criteria": {
+      "has_item": "2025-07-09 06:25:41 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/common/materials/rose_gold_ingot_from_block": {
+    "criteria": {
+      "has_item": "2025-07-09 06:25:41 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/building_blocks/smeltery/seared/seared_cracked_bricks_smelting": {
     "criteria": {
       "has_item": "2025-07-09 05:53:11 +0000"
@@ -5283,6 +5341,12 @@
   "securitycraft:recipes/decorations/reinforced_black_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-07-09 05:40:06 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/decorations/tables/cast_chest": {
+    "criteria": {
+      "has_item": "2025-07-09 06:27:42 +0000"
     },
     "done": true
   },
