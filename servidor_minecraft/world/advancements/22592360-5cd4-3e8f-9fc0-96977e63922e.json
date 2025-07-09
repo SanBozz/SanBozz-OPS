@@ -4516,6 +4516,12 @@
     },
     "done": true
   },
+  "spartanweaponry:root": {
+    "criteria": {
+      "has_pole": "2025-07-09 05:30:09 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-09 05:10:44 +0000"
@@ -4804,6 +4810,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/decorations/common/gold_bars": {
+    "criteria": {
+      "has_ingot": "2025-07-09 05:31:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone": {
     "criteria": {
       "has_redstone_block": "2025-07-09 05:11:12 +0000"
@@ -4813,6 +4825,18 @@
   "securitycraft:recipes/building_blocks/reinforced_gray_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-09 05:10:44 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/decorations/common/gold_platform": {
+    "criteria": {
+      "has_gold": "2025-07-09 05:31:13 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/smeltery/scorched/duct": {
+    "criteria": {
+      "has_item": "2025-07-09 05:31:13 +0000"
     },
     "done": true
   },
@@ -4849,6 +4873,12 @@
   "securitycraft:recipes/decorations/reinforced_yellow_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-07-09 05:10:44 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/smeltery/seared/duct": {
+    "criteria": {
+      "has_item": "2025-07-09 05:31:13 +0000"
     },
     "done": true
   },

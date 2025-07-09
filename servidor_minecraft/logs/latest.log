@@ -876,3 +876,29 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [09Jul2025 05:26:16.862] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved too quickly! 8.387073383742063,0.0,-6.149547502240239
 [09Jul2025 05:26:16.863] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved too quickly! 8.70965355185217,0.0,-6.386068000308569
 [09Jul2025 05:26:18.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Soficordoba13> no veo una mierda con este casco asdjsjd
+[09Jul2025 05:27:01.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Soficordoba13> nop
+[09Jul2025 05:27:06.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Soficordoba13> a ver
+[09Jul2025 05:27:15.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Soficordoba13> ya le robo a mi hermano
+[09Jul2025 05:27:37.570] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of agustinnfes2) moved wrongly! 0.5679726231171571
+[09Jul2025 05:27:37.619] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of agustinnfes2) moved wrongly! 0.9857838267666921
+[09Jul2025 05:27:37.678] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of agustinnfes2) moved wrongly! 1.407005438498345
+[09Jul2025 05:27:37.679] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of agustinnfes2) moved wrongly! 1.8057547545352008
+[09Jul2025 05:27:37.778] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of agustinnfes2) moved wrongly! 0.6643950258853693
+[09Jul2025 05:29:07.209] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved wrongly! 0.26025390625
+[09Jul2025 05:29:07.268] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved wrongly! 0.26025390625
+[09Jul2025 05:29:07.307] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved wrongly! 0.26025390625
+[09Jul2025 05:29:07.361] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved wrongly! 0.25526699936017394
+[09Jul2025 05:30:27.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxx was slain by Man From The Fog
+[09Jul2025 05:30:48.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported Maxx to agustinnfes2]
+[09Jul2025 05:33:28.893] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Soficordoba13) moved too quickly! -9.95057654661974,0.0,-2.9988626410773804
+[09Jul2025 05:34:30.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CaptainSKIPNOTZ> a dormir
+[09Jul2025 05:34:39.526] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kuriron lost connection: Disconnected
+[09Jul2025 05:34:39.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kuriron left the game
+[09Jul2025 05:34:56.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Set the time to 1000]
+[09Jul2025 05:36:00.315] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-33, y=-52, z=-356}
+[09Jul2025 05:36:00.316] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-39, y=-51, z=-358}
+[09Jul2025 05:36:00.316] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-39, y=-51, z=-356}
+[09Jul2025 05:36:00.316] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-35, y=-51, z=-362}
+[09Jul2025 05:36:00.317] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-36, y=-56, z=-356}
+[09Jul2025 05:36:00.323] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-27, y=-51, z=-356}
+[09Jul2025 05:36:00.323] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-26, y=-57, z=-359}

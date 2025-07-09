@@ -26,6 +26,7 @@
       "minecraft:beach": "2025-07-07 02:17:33 +0000",
       "minecraft:dark_forest": "2025-07-07 02:16:39 +0000",
       "minecraft:river": "2025-07-06 21:22:28 +0000",
+      "minecraft:lukewarm_ocean": "2025-07-09 05:27:27 +0000",
       "minecraft:stony_shore": "2025-07-07 02:07:25 +0000",
       "minecraft:forest": "2025-07-06 20:23:10 +0000",
       "minecraft:lush_caves": "2025-07-08 03:38:01 +0000",
@@ -3609,6 +3610,42 @@
   "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2025-07-09 05:04:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-07-09 05:32:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-07-09 05:32:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-07-09 05:32:28 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-07-09 05:32:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-07-09 05:32:28 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_bookshelf": {
+    "criteria": {
+      "has_book": "2025-07-09 05:32:28 +0000"
     },
     "done": true
   },
