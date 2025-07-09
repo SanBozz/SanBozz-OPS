@@ -1059,3 +1059,28 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [09Jul2025 07:33:33.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Set the time to 1000]
 [09Jul2025 07:33:34.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda fell from a high place
 [09Jul2025 07:33:35.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 was slain by Husk
+[09Jul2025 07:41:18.535] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: agustinnfes2 moved too quickly! -2.9063873473796775,3.0,9.161980617086328
+[09Jul2025 07:41:18.570] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3534ms or 70 ticks behind
+[09Jul2025 07:41:24.270] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-318, y=-45, z=-204}
+[09Jul2025 07:41:24.270] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-320, y=-45, z=-203}
+[09Jul2025 07:41:24.271] [Worker-Main-13/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-318, y=-45, z=-202}
+[09Jul2025 07:42:11.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 was slain by Husk
+[09Jul2025 07:43:58.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda was slain by Husk
+[09Jul2025 07:44:06.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 was slain by Husk
+[09Jul2025 07:44:21.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Set the time to 1000]
+[09Jul2025 07:44:25.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda was slain by Husk
+[09Jul2025 07:44:31.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 was slain by Husk
+[09Jul2025 07:44:47.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 was shot by Wither Skeleton
+[09Jul2025 07:45:03.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 was slain by Husk
+[09Jul2025 07:46:03.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda was slain by Husk
+[09Jul2025 07:46:08.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 was shot by Wither Skeleton
+[09Jul2025 07:46:43.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 was doomed to fall
+[09Jul2025 07:46:50.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported kuriron to BozzNofps]
+[09Jul2025 07:46:56.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 was slain by Husk
+[09Jul2025 07:47:02.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda was slain by Husk
+[09Jul2025 07:47:21.448] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: balda lost connection: Disconnected
+[09Jul2025 07:47:21.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda left the game
+[09Jul2025 07:47:33.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 was shot by Wither Skeleton
+[09Jul2025 07:49:08.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 was burnt to a crisp whilst fighting Wither Skeleton
+[09Jul2025 07:49:45.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 was slain by Husk
+[09Jul2025 07:50:23.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 was shot by Wither Skeleton

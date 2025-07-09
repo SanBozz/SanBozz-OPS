@@ -2635,6 +2635,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2025-07-09 07:48:41 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/golden_rapier": {
     "criteria": {
       "has_gold_ingot": "2025-07-09 07:28:48 +0000"
@@ -2701,6 +2707,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-07-09 07:40:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_sword": {
     "criteria": {
       "has_diamond": "2025-07-09 06:16:14 +0000"
@@ -2743,6 +2755,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-07-09 07:48:41 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/diamond_tomahawk": {
     "criteria": {
       "has_diamond": "2025-07-09 06:16:14 +0000"
@@ -2752,6 +2770,12 @@
   "spartanweaponry:recipes/diamond_warhammer": {
     "criteria": {
       "has_diamond": "2025-07-09 06:16:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2025-07-09 07:48:41 +0000"
     },
     "done": true
   },
@@ -2788,6 +2812,12 @@
   "securitycraft:recipes/misc/storage_module": {
     "criteria": {
       "has_iron": "2025-07-09 06:06:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-07-09 07:48:41 +0000"
     },
     "done": true
   },
@@ -2833,9 +2863,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2025-07-09 07:48:41 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/secret_mangrove_sign_item": {
     "criteria": {
       "has_sign": "2025-07-09 05:19:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2025-07-09 07:48:41 +0000"
     },
     "done": true
   },
@@ -2848,6 +2890,12 @@
   "minecraft:recipes/decorations/candle": {
     "criteria": {
       "has_string": "2025-07-09 06:06:50 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/username_logger": {
+    "criteria": {
+      "has_redstone": "2025-07-09 07:43:12 +0000"
     },
     "done": true
   },
@@ -2926,6 +2974,12 @@
   "securitycraft:recipes/misc/security_camera": {
     "criteria": {
       "has_iron": "2025-07-09 06:06:42 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/portable_tune_player": {
+    "criteria": {
+      "has_redstone": "2025-07-09 07:43:12 +0000"
     },
     "done": true
   },
@@ -3037,6 +3091,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/portable_radar": {
+    "criteria": {
+      "has_redstone": "2025-07-09 07:43:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2025-07-09 06:16:14 +0000"
@@ -3103,6 +3163,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/tools/taser": {
+    "criteria": {
+      "has_redstone": "2025-07-09 07:43:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2025-07-09 06:52:36 +0000"
@@ -3124,6 +3190,12 @@
   "spartanweaponry:recipes/golden_longbow": {
     "criteria": {
       "has_gold_ingot": "2025-07-09 07:28:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2025-07-09 07:48:43 +0000"
     },
     "done": true
   },
@@ -3175,6 +3247,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/reinforced_dropper": {
+    "criteria": {
+      "has_redstone": "2025-07-09 07:43:12 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/diamond_dagger": {
     "criteria": {
       "has_diamond": "2025-07-09 06:16:14 +0000"
@@ -3223,6 +3301,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2025-07-09 07:48:41 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/secret_crimson_sign_item": {
     "criteria": {
       "has_sign": "2025-07-09 05:19:53 +0000"
@@ -3265,6 +3349,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/tools/universal_key_changer": {
+    "criteria": {
+      "has_redstone": "2025-07-09 07:43:12 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/golden_spear": {
     "criteria": {
       "has_gold_ingot": "2025-07-09 07:28:48 +0000"
@@ -3274,6 +3364,12 @@
   "dungeons_arise:find_coliseum": {
     "criteria": {
       "location0": "2025-07-09 05:42:17 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/alarm": {
+    "criteria": {
+      "has_redstone": "2025-07-09 07:43:12 +0000"
     },
     "done": true
   },
@@ -3373,6 +3469,24 @@
     },
     "done": true
   },
+  "securitycraft:recipes/tools/universal_block_reinforcer_lvl1": {
+    "criteria": {
+      "has_redstone": "2025-07-09 07:43:12 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_block_reinforcer_lvl3": {
+    "criteria": {
+      "has_redstone": "2025-07-09 07:43:12 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_block_reinforcer_lvl2": {
+    "criteria": {
+      "has_redstone": "2025-07-09 07:43:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2025-07-09 06:19:20 +0000"
@@ -3421,6 +3535,18 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/reinforced_piston": {
+    "criteria": {
+      "has_redstone": "2025-07-09 07:43:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2025-07-09 07:48:41 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/golden_quarterstaff": {
     "criteria": {
       "has_gold_ingot": "2025-07-09 07:28:48 +0000"
@@ -3430,6 +3556,12 @@
   "tconstruct:recipes/decorations/common/gold_bars": {
     "criteria": {
       "has_ingot": "2025-07-09 07:28:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2025-07-09 07:48:41 +0000"
     },
     "done": true
   },
@@ -3469,15 +3601,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-07-09 07:48:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2025-07-09 06:16:14 +0000"
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/reinforced_redstone_lamp": {
+    "criteria": {
+      "has_redstone": "2025-07-09 07:43:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_stairs": {
     "criteria": {
       "has_polished_granite": "2025-07-09 07:09:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-07-09 07:48:41 +0000"
     },
     "done": true
   },
@@ -3511,6 +3661,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-07-09 07:48:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/lightning_rod_with_villager_no_fire": {
     "criteria": {
       "lightning_rod_with_villager_no_fire": "2025-07-09 05:37:49 +0000"
@@ -3535,9 +3691,27 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/keypad_frame": {
+    "criteria": {
+      "has_redstone": "2025-07-09 07:43:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-07-09 07:48:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2025-07-09 05:12:57 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/claymore": {
+    "criteria": {
+      "has_redstone": "2025-07-09 07:43:12 +0000"
     },
     "done": true
   },
@@ -3565,9 +3739,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/panic_button": {
+    "criteria": {
+      "has_redstone": "2025-07-09 07:43:12 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/golden_katana": {
     "criteria": {
       "has_gold_ingot": "2025-07-09 07:28:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-07-09 07:48:41 +0000"
     },
     "done": true
   },
@@ -3589,6 +3775,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-07-09 07:40:49 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/golden_tomahawk": {
     "criteria": {
       "has_gold_ingot": "2025-07-09 07:28:48 +0000"
@@ -3607,6 +3799,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/tools/universal_block_modifier": {
+    "criteria": {
+      "has_redstone": "2025-07-09 07:43:12 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/secret_acacia_sign_item": {
     "criteria": {
       "has_sign": "2025-07-09 05:19:53 +0000"
@@ -3616,6 +3814,12 @@
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2025-07-09 07:28:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-07-09 07:40:49 +0000"
     },
     "done": true
   },
@@ -3640,6 +3844,12 @@
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2025-07-09 06:16:14 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/cage_trap": {
+    "criteria": {
+      "has_redstone": "2025-07-09 07:43:12 +0000"
     },
     "done": true
   },
