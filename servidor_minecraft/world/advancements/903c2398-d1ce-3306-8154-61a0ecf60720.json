@@ -5737,6 +5737,12 @@
     },
     "done": true
   },
+  "tconstruct:foundry/encyclopedia": {
+    "criteria": {
+      "crafted_book": "2025-07-09 10:42:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone": {
     "criteria": {
       "has_blackstone": "2025-07-09 09:20:46 +0000"
