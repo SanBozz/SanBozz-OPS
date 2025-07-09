@@ -1293,3 +1293,17 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [09Jul2025 09:32:31.114] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of agustinnfes2) moved wrongly! 0.6540183274174751
 [09Jul2025 09:32:31.162] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of agustinnfes2) moved wrongly! 0.951587203019244
 [09Jul2025 09:32:31.212] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of agustinnfes2) moved wrongly! 1.2223379499382645
+[09Jul2025 09:36:59.708] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of agustinnfes2) moved wrongly! 0.38607755786438247
+[09Jul2025 09:36:59.762] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of agustinnfes2) moved wrongly! 0.7721551157267186
+[09Jul2025 09:36:59.821] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of agustinnfes2) moved wrongly! 1.1582326735872357
+[09Jul2025 09:36:59.856] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of agustinnfes2) moved wrongly! 1.5443102314459338
+[09Jul2025 09:36:59.910] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of agustinnfes2) moved wrongly! 1.9303877893030403
+[09Jul2025 09:36:59.957] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of agustinnfes2) moved wrongly! 2.3121137354146413
+[09Jul2025 09:37:00.014] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of agustinnfes2) moved wrongly! 0.36846805606023736
+[09Jul2025 09:37:00.055] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of agustinnfes2) moved wrongly! 0.35351400260401533
+[09Jul2025 09:37:00.107] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of agustinnfes2) moved wrongly! 0.2882161255624851
+[09Jul2025 09:37:00.158] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of agustinnfes2) moved wrongly! 0.31956897248733185
+[09Jul2025 09:37:00.610] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of agustinnfes2) moved wrongly! 0.29788361962414456
+[09Jul2025 09:42:27.303] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: agustinnfes2 moved wrongly!
+[09Jul2025 09:43:10.448] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: agustinnfes2 lost connection: Disconnected
+[09Jul2025 09:43:10.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 left the game
