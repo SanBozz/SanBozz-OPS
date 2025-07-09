@@ -5365,15 +5365,57 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+    "criteria": {
+      "has_red_dye": "2025-07-09 08:10:19 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/display_case": {
     "criteria": {
       "has_item_frame": "2025-07-09 08:05:43 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_red_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-07-09 08:10:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_banner": {
+    "criteria": {
+      "has_red_wool": "2025-07-09 08:14:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-07-09 08:10:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_red_dye": "2025-07-09 08:10:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
     "criteria": {
       "has_coast_armor_trim_smithing_template": "2025-07-09 08:01:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_bed": {
+    "criteria": {
+      "has_red_wool": "2025-07-09 08:14:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-07-09 08:10:19 +0000"
     },
     "done": true
   },
@@ -5392,6 +5434,24 @@
   "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
     "criteria": {
       "has_smooth_stone": "2025-07-09 08:07:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_carpet": {
+    "criteria": {
+      "has_red_wool": "2025-07-09 08:14:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_red_dye": "2025-07-09 08:10:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_candle": {
+    "criteria": {
+      "has_red_dye": "2025-07-09 08:10:19 +0000"
     },
     "done": true
   },

@@ -5012,6 +5012,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/redstone/smeltery/scorched/fluid_cannon": {
+    "criteria": {
+      "has_item": "2025-07-09 08:10:34 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/reinforced_orange_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-07-09 05:40:06 +0000"
@@ -5039,6 +5045,12 @@
   "securitycraft:recipes/decorations/reinforced_white_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-07-09 05:40:06 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/common/materials/cobalt_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2025-07-09 08:10:34 +0000"
     },
     "done": true
   },
@@ -5183,6 +5195,12 @@
   "securitycraft:recipes/decorations/reinforced_lime_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-07-09 05:40:06 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/common/materials/cobalt_block_from_ingots": {
+    "criteria": {
+      "has_item": "2025-07-09 08:10:34 +0000"
     },
     "done": true
   },
@@ -5487,6 +5505,12 @@
   "securitycraft:recipes/building_blocks/reinforced_pink_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-09 05:40:06 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/decorations/common/cobalt_platform": {
+    "criteria": {
+      "has_bars": "2025-07-09 08:10:34 +0000"
     },
     "done": true
   },

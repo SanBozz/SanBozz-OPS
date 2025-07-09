@@ -1100,3 +1100,9 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [09Jul2025 08:05:21.237] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/200423, l='ServerLevel[world]', x=284.89, y=-256.00, z=328.55] died, message: 'Unemployed was killed'
 [09Jul2025 08:11:04.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported agustinnfes2 to BozzNofps]
 [09Jul2025 08:11:10.537] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/203139, l='ServerLevel[world]', x=290.00, y=-256.00, z=355.81] died, message: 'Unemployed was killed'
+[09Jul2025 08:20:08.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kuriron was slain by Man From The Fog
+[09Jul2025 08:21:12.444] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: agustinnfes2 lost connection: Disconnected
+[09Jul2025 08:21:12.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 left the game
+[09Jul2025 08:21:19.508] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: agustinnfes2[/127.220.229.95:40849] logged in with entity id 205081 at (270.56450430970165, 63.0, 359.1082574186544)
+[09Jul2025 08:21:19.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 joined the game
+[09Jul2025 08:21:19.560] [Server thread/INFO] [Jade/]: Syncing config to agustinnfes2 (d7072c52-a1ba-3ad3-bd6c-c7ea7e4745b8)
