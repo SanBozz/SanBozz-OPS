@@ -1022,3 +1022,35 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [09Jul2025 06:44:14.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps burned to death
 [09Jul2025 06:44:43.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 was burnt to a crisp whilst fighting Wither Skeleton
 [09Jul2025 06:45:24.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 was shot by Wither Skeleton
+[09Jul2025 06:54:31.287] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/145388, l='ServerLevel[world]', x=290.00, y=-256.00, z=355.81] died, message: 'Unemployed was killed'
+[09Jul2025 06:55:06.287] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/145755, l='ServerLevel[world]', x=337.31, y=-256.00, z=209.93] died, message: 'Unemployed was killed'
+[09Jul2025 06:56:29.747] [Worker-Main-38/INFO] [citadel/]: vanilla surface rule behavior unchanged
+[09Jul2025 06:56:29.935] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7849ms or 156 ticks behind
+[09Jul2025 07:07:31.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 was slain by Hoglin
+[09Jul2025 07:07:55.927] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2991ms or 59 ticks behind
+[09Jul2025 07:07:55.997] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: balda moved too quickly! 7.021656089899352,-1.233632006042484,-7.226109055941151
+[09Jul2025 07:11:10.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 was slain by Husk
+[09Jul2025 07:11:34.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda was slain by Hoglin
+[09Jul2025 07:12:17.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 was slain by Husk
+[09Jul2025 07:13:54.730] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: balda moved too quickly! -0.0029130876932867977,-10.15917216354893,0.012801846681668394
+[09Jul2025 07:16:27.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 withered away whilst fighting Wither Skeleton
+[09Jul2025 07:18:47.260] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BozzNofps lost connection: Timed out
+[09Jul2025 07:18:47.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps left the game
+[09Jul2025 07:20:09.082] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BozzNofps[/127.249.45.252:49087] logged in with entity id 166351 at (-635.1559568412393, 66.00133597911214, 759.7066755187676)
+[09Jul2025 07:20:09.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps joined the game
+[09Jul2025 07:20:09.144] [Server thread/INFO] [Jade/]: Syncing config to BozzNofps (22592360-5cd4-3e8f-9fc0-96977e63922e)
+[09Jul2025 07:20:13.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda fell from a high place
+[09Jul2025 07:20:19.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 was slain by Wither Skeleton
+[09Jul2025 07:21:01.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 was slain by Wither Skeleton
+[09Jul2025 07:22:25.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 was slain by Husk
+[09Jul2025 07:22:51.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 was slain by Husk
+[09Jul2025 07:23:20.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 was slain by Husk
+[09Jul2025 07:23:44.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 was slain by Husk
+[09Jul2025 07:23:52.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda was slain by Husk
+[09Jul2025 07:23:58.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 was slain by Husk
+[09Jul2025 07:27:08.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 was slain by Hoglin
+[09Jul2025 07:27:45.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kuriron has made the advancement [Those Were the Days]
+[09Jul2025 07:27:46.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kuriron has made the advancement [War Pigs]
+[09Jul2025 07:27:51.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 was shot by Wither Skeleton
+[09Jul2025 07:28:30.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda was slain by Husk
+[09Jul2025 07:29:29.127] [Worker-Main-38/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [14, -53], pos: MutableBlockPos{x=232, y=114, z=-848}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]

@@ -638,7 +638,9 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-07-06 20:01:41 +0000",
+      "minecraft:hoglin": "2025-07-09 07:18:17 +0000",
       "minecraft:spider": "2025-07-05 07:05:45 +0000",
+      "minecraft:husk": "2025-07-09 07:15:18 +0000",
       "minecraft:enderman": "2025-07-06 21:56:20 +0000",
       "minecraft:zombie": "2025-07-05 06:55:10 +0000"
     },
@@ -3950,6 +3952,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2025-07-09 07:02:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_pressure_plate": {
     "criteria": {
       "has_planks": "2025-07-09 06:30:20 +0000"
@@ -3995,6 +4003,12 @@
   "tconstruct:recipes/misc/common/flint": {
     "criteria": {
       "has_item": "2025-07-09 06:22:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2025-07-09 07:02:27 +0000"
     },
     "done": true
   },

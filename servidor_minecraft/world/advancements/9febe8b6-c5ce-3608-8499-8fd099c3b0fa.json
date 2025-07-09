@@ -2797,6 +2797,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_polished_granite": "2025-07-09 07:09:21 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/secret_spruce_sign_item": {
     "criteria": {
       "has_sign": "2025-07-09 05:19:53 +0000"
@@ -2824,6 +2830,12 @@
   "spartanweaponry:recipes/diamond_flanged_mace": {
     "criteria": {
       "has_diamond": "2025-07-09 06:16:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab": {
+    "criteria": {
+      "has_polished_granite": "2025-07-09 07:09:21 +0000"
     },
     "done": true
   },
@@ -2893,6 +2905,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_polished_granite": "2025-07-09 07:09:21 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/diamond_halberd": {
     "criteria": {
       "has_diamond": "2025-07-09 06:16:14 +0000"
@@ -2935,6 +2953,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-07-09 06:57:25 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/secret_jungle_hanging_sign": {
     "criteria": {
       "has_sign": "2025-07-09 05:19:53 +0000"
@@ -2950,6 +2974,12 @@
   "securitycraft:recipes/misc/trophy_system": {
     "criteria": {
       "has_iron": "2025-07-09 06:06:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-07-09 06:52:36 +0000"
     },
     "done": true
   },
@@ -3019,6 +3049,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+    "criteria": {
+      "has_copper_backpack": "2025-07-09 06:53:24 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/diamond_glaive": {
     "criteria": {
       "has_diamond": "2025-07-09 06:16:14 +0000"
@@ -3040,6 +3076,12 @@
   "securitycraft:recipes/decorations/secret_crimson_sign_item": {
     "criteria": {
       "has_sign": "2025-07-09 05:19:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-07-09 06:57:25 +0000"
     },
     "done": true
   },
@@ -3217,6 +3259,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_stairs": {
+    "criteria": {
+      "has_polished_granite": "2025-07-09 07:09:21 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/secret_bamboo_hanging_sign": {
     "criteria": {
       "has_sign": "2025-07-09 05:19:53 +0000"
@@ -3226,6 +3274,12 @@
   "minecraft:adventure/lightning_rod_with_villager_no_fire": {
     "criteria": {
       "lightning_rod_with_villager_no_fire": "2025-07-09 05:37:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-07-09 06:57:25 +0000"
     },
     "done": true
   },
