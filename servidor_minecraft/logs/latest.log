@@ -986,3 +986,14 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [09Jul2025 06:06:23.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Set the time to 1000]
 [09Jul2025 06:06:25.236] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/113346, l='ServerLevel[world]', x=286.80, y=-256.00, z=352.43] died, message: 'Unemployed was killed'
 [09Jul2025 06:06:34.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda was slain by Zombie
+[09Jul2025 06:08:16.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kuriron has made the advancement [Hot Stuff]
+[09Jul2025 06:09:34.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported balda to agustinnfes2]
+[09Jul2025 06:11:20.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soficordoba13 was shot by Illusioner
+[09Jul2025 06:11:43.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported Soficordoba13 to BozzNofps]
+[09Jul2025 06:12:16.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 has made the advancement [Take Aim, Chaps!]
+[09Jul2025 06:14:58.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda was doomed to fall
+[09Jul2025 06:15:26.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported balda to agustinnfes2]
+[09Jul2025 06:15:54.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 was shot by Wither Skeleton
+[09Jul2025 06:16:05.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda was shot by Wither Skeleton
+[09Jul2025 06:16:14.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soficordoba13 has made the advancement [Diamonds!]
+[09Jul2025 06:16:17.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported balda to agustinnfes2]

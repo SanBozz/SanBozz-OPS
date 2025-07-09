@@ -4902,10 +4902,11 @@
       "seared_heater": "2025-07-09 05:51:16 +0000",
       "seared_fuel_gauge": "2025-07-09 05:58:14 +0000",
       "seared_basin": "2025-07-09 05:51:45 +0000",
+      "seared_table": "2025-07-09 06:13:02 +0000",
       "seared_faucet": "2025-07-09 05:51:48 +0000",
       "seared_melter": "2025-07-09 05:51:26 +0000"
     },
-    "done": false
+    "done": true
   },
   "securitycraft:recipes/decorations/reinforced_magenta_stained_glass_pane": {
     "criteria": {
@@ -4964,6 +4965,12 @@
   "securitycraft:recipes/building_blocks/reinforced_white_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-09 05:40:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-07-09 06:08:16 +0000"
     },
     "done": true
   },
@@ -5204,6 +5211,12 @@
   "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
     "criteria": {
       "has_copper_block": "2025-07-09 06:04:49 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:smeltery/structure": {
+    "criteria": {
+      "open_smeltery": "2025-07-09 06:14:42 +0000"
     },
     "done": true
   },

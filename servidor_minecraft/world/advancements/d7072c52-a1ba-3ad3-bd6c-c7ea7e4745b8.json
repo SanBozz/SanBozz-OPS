@@ -4358,5 +4358,17 @@
     },
     "done": true
   },
+  "dungeons_arise:find_heavenly_rider": {
+    "criteria": {
+      "location0": "2025-07-09 06:07:14 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:longbow": {
+    "criteria": {
+      "has_longbow": "2025-07-09 06:12:16 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
