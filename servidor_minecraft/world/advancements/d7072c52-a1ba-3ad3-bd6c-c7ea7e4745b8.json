@@ -4523,6 +4523,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/decorations/display_case": {
+    "criteria": {
+      "has_item_frame": "2025-07-09 08:48:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/trim_with_any_armor_pattern": {
     "criteria": {
       "armor_trimmed_minecraft:rib_armor_trim_smithing_template_smithing_trim": "2025-07-09 08:27:16 +0000"
@@ -4646,6 +4652,12 @@
   "securitycraft:recipes/building_blocks/reinforced_lime_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-09 08:26:27 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_coliseum": {
+    "criteria": {
+      "location0": "2025-07-09 09:08:30 +0000"
     },
     "done": true
   },

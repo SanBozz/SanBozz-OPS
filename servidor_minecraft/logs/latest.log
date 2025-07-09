@@ -1115,3 +1115,11 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [09Jul2025 08:32:36.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps has made the advancement [Local Brewery]
 [09Jul2025 08:34:11.587] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/211975, l='ServerLevel[world]', x=290.62, y=-256.00, z=354.57] died, message: 'Unemployed was killed'
 [09Jul2025 08:34:29.258] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps has made the advancement [A Seedy Place]
+[09Jul2025 08:42:18.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps has made the advancement [Hidden in the Depths]
+[09Jul2025 08:53:16.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps has made the advancement [Fetch Me Their Souls!]
+[09Jul2025 09:05:41.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kuriron has made the advancement [Hidden in the Depths]
+[09Jul2025 09:08:04.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps burned to death
+[09Jul2025 09:08:22.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported BozzNofps to kuriron]
+[09Jul2025 09:09:55.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps was shot by Skeleton
+[09Jul2025 09:10:01.514] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: agustinnfes2 moved wrongly!
+[09Jul2025 09:10:10.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported BozzNofps to kuriron]

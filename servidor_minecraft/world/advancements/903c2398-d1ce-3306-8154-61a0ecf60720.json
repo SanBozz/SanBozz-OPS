@@ -4906,6 +4906,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2025-07-09 09:05:41 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/reinforced_pink_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-07-09 05:40:06 +0000"
@@ -4986,6 +4992,12 @@
   "minecraft:recipes/building_blocks/cut_copper": {
     "criteria": {
       "has_copper_block": "2025-07-09 06:04:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-07-09 09:05:41 +0000"
     },
     "done": true
   },
@@ -5332,6 +5344,12 @@
   "tconstruct:recipes/building_blocks/smeltery/seared/seared_bricks_slab": {
     "criteria": {
       "has_item": "2025-07-09 05:53:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2025-07-09 09:05:41 +0000"
     },
     "done": true
   },
