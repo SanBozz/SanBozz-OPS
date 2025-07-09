@@ -646,3 +646,174 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [09Jul2025 04:32:28.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BozzNofps> apreta f3
 [09Jul2025 04:32:42.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Soficordoba13> ya estoy volviendo a la casita
 [09Jul2025 04:32:51.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BozzNofps> el segundo parrafo q dice xyz, son las coords
+[09Jul2025 04:38:16.287] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/40626, l='ServerLevel[world]', x=337.31, y=-256.00, z=209.93] died, message: 'Unemployed was killed'
+[09Jul2025 04:40:04.902] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kuriron was kicked for floating too long!
+[09Jul2025 04:40:04.964] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kuriron lost connection: Flying is not enabled on this server
+[09Jul2025 04:40:04.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kuriron left the game
+[09Jul2025 04:41:16.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps has made the advancement [Swashbuckler]
+[09Jul2025 04:41:57.871] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kuriron[/127.115.192.159:52687] logged in with entity id 41942 at (299.7704652535764, 63.796735600668704, 369.9068843212172)
+[09Jul2025 04:41:57.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kuriron joined the game
+[09Jul2025 04:41:57.942] [Server thread/INFO] [Jade/]: Syncing config to kuriron (903c2398-d1ce-3306-8154-61a0ecf60720)
+[09Jul2025 04:42:05.291] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kuriron was kicked for floating too long!
+[09Jul2025 04:42:05.330] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kuriron lost connection: Flying is not enabled on this server
+[09Jul2025 04:42:05.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kuriron left the game
+[09Jul2025 04:42:43.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Soficordoba13> q mierda
+[09Jul2025 04:42:52.534] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kuriron[/127.115.192.159:34959] logged in with entity id 42679 at (299.7704652535764, 63.796735600668704, 369.9068843212172)
+[09Jul2025 04:42:52.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kuriron joined the game
+[09Jul2025 04:42:52.601] [Server thread/INFO] [Jade/]: Syncing config to kuriron (903c2398-d1ce-3306-8154-61a0ecf60720)
+[09Jul2025 04:43:29.739] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/43105, l='ServerLevel[world]', x=284.96, y=-256.00, z=328.41] died, message: 'Unemployed was killed'
+[09Jul2025 04:43:50.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soficordoba13 was slain by Man From The Fog
+[09Jul2025 04:46:01.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BozzNofps> se?
+[09Jul2025 04:46:15.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported agustinnfes2 to Maxx]
+[09Jul2025 04:46:34.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Soficordoba13> a donde van?
+[09Jul2025 04:46:43.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CaptainSKIPNOTZ> a morir
+[09Jul2025 04:48:12.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: angeelcraft has made the advancement [Take Aim]
+[09Jul2025 04:48:24.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps was blown up by Creeper
+[09Jul2025 04:48:48.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: angeelcraft was slain by Zombie
+[09Jul2025 04:49:52.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported BozzNofps to 154.500000, -50.000000, 426.500000]
+[09Jul2025 04:51:15.863] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved wrongly! 0.5404147049297308
+[09Jul2025 04:51:15.864] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved wrongly! 0.3520651378370303
+[09Jul2025 04:51:15.905] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved wrongly! 0.8855283954600282
+[09Jul2025 04:51:15.906] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved wrongly! 0.5746154621572259
+[09Jul2025 04:51:15.948] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved wrongly! 1.229550530120605
+[09Jul2025 04:51:15.949] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved wrongly! 0.7799064608185517
+[09Jul2025 04:51:16.006] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved wrongly! 0.9696677441254451
+[09Jul2025 04:51:16.007] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved wrongly! 1.572429227675343
+[09Jul2025 04:51:16.050] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved wrongly! 1.1454350694172035
+[09Jul2025 04:51:16.051] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved wrongly! 1.9137366829143048
+[09Jul2025 04:51:16.051] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved wrongly! 1.3085586925246844
+[09Jul2025 04:51:16.100] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved wrongly! 2.2527050118990246
+[09Jul2025 04:51:16.146] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved wrongly! 0.3263470969397986
+[09Jul2025 04:51:16.192] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved wrongly! 0.32494074375154014
+[09Jul2025 04:51:16.335] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved wrongly! 0.32810053810578665
+[09Jul2025 04:51:16.381] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved wrongly! 0.32669488994042695
+[09Jul2025 04:51:16.382] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved wrongly! 0.35872290555596464
+[09Jul2025 04:51:16.427] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved wrongly! 0.3169119308156496
+[09Jul2025 04:51:16.474] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved wrongly! 0.31578459953300353
+[09Jul2025 04:51:16.475] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved wrongly! 0.42515348146014276
+[09Jul2025 04:51:16.517] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved wrongly! 0.6662114155984682
+[09Jul2025 04:51:16.559] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved wrongly! 0.3134461487175031
+[09Jul2025 04:51:16.602] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved wrongly! 0.32067059336054626
+[09Jul2025 04:51:16.647] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved wrongly! 0.25757816658210686
+[09Jul2025 04:51:16.648] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved wrongly! 0.3195599159464564
+[09Jul2025 04:51:16.695] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved wrongly! 0.26112933034437447
+[09Jul2025 04:51:16.695] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved wrongly! 0.6009912855972743
+[09Jul2025 04:51:16.746] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved wrongly! 0.2691961277853352
+[09Jul2025 04:51:16.791] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved wrongly! 0.5545501179909706
+[09Jul2025 04:51:16.837] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved wrongly! 0.2873550372980844
+[09Jul2025 04:51:16.886] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved wrongly! 0.28838475843690503
+[09Jul2025 04:51:16.944] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved wrongly! 0.2870183328088842
+[09Jul2025 04:51:16.989] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved wrongly! 0.2897378232835308
+[09Jul2025 04:51:17.035] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved wrongly! 0.2893684137435457
+[09Jul2025 04:51:17.080] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved wrongly! 0.29756107597859227
+[09Jul2025 04:51:17.125] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved wrongly! 0.29350776952344404
+[09Jul2025 04:51:17.172] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved wrongly! 0.28878681007972773
+[09Jul2025 04:51:17.221] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved wrongly! 0.28752023169624863
+[09Jul2025 04:51:17.320] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved wrongly! 0.2829979394427937
+[09Jul2025 04:51:17.322] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved wrongly! 0.2873791646304653
+[09Jul2025 04:51:17.414] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved wrongly! 0.27945436807556234
+[09Jul2025 04:51:17.515] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved wrongly! 0.5506056731626359
+[09Jul2025 04:51:17.575] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved wrongly! 0.2670984049783556
+[09Jul2025 04:51:17.656] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved wrongly! 0.4064861401678854
+[09Jul2025 04:51:17.723] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved wrongly! 0.3932813010196696
+[09Jul2025 04:51:18.069] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved wrongly! 0.30820550061105223
+[09Jul2025 04:52:13.636] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved wrongly! 0.27298008061120527
+[09Jul2025 04:52:13.752] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved wrongly! 0.463537449089813
+[09Jul2025 04:52:13.756] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved wrongly! 0.6509984428677171
+[09Jul2025 04:52:14.151] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved wrongly! 0.34707859606646707
+[09Jul2025 04:52:14.197] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved wrongly! 0.5302700131824167
+[09Jul2025 04:52:14.739] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved wrongly! 0.4712396825120777
+[09Jul2025 04:52:14.782] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved wrongly! 0.7202354238970656
+[09Jul2025 04:52:14.841] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved wrongly! 0.9760882731164884
+[09Jul2025 04:52:14.883] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CaptainSKIPNOTZ) moved wrongly! 1.2385593603439702
+[09Jul2025 04:52:14.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Soficordoba13> hay una piramide bajo el agua wtf
+[09Jul2025 04:52:26.802] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Soficordoba13) moved wrongly! 0.31205321127890784
+[09Jul2025 04:52:26.986] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Soficordoba13) moved wrongly! 0.5648323670873197
+[09Jul2025 04:53:20.771] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Soficordoba13) moved wrongly! 0.43122564911021755
+[09Jul2025 04:53:20.822] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Soficordoba13) moved wrongly! 0.43401905200192914
+[09Jul2025 04:53:20.874] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Soficordoba13) moved wrongly! 0.42698574279333457
+[09Jul2025 04:53:45.644] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of agustinnfes2) moved wrongly! 0.2947128133281467
+[09Jul2025 04:53:45.691] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Maxx) moved wrongly! 0.4953978222357591
+[09Jul2025 04:53:45.691] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of agustinnfes2) moved wrongly! 0.6195147149760487
+[09Jul2025 04:53:45.742] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Maxx) moved wrongly! 0.7553130752071411
+[09Jul2025 04:53:45.743] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of agustinnfes2) moved wrongly! 0.9481775419982341
+[09Jul2025 04:53:45.794] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Maxx) moved wrongly! 1.0080486838146498
+[09Jul2025 04:53:45.795] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of agustinnfes2) moved wrongly! 1.2799143232761026
+[09Jul2025 04:53:45.838] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Maxx) moved wrongly! 1.2483888799401939
+[09Jul2025 04:53:45.839] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of agustinnfes2) moved wrongly! 1.6140393526304706
+[09Jul2025 04:53:45.893] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of agustinnfes2) moved wrongly! 0.31202949988642104
+[09Jul2025 04:53:45.955] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Maxx) moved wrongly! 0.464730846038492
+[09Jul2025 04:53:45.956] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of agustinnfes2) moved wrongly! 0.31422044309522335
+[09Jul2025 04:53:46.019] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of agustinnfes2) moved wrongly! 0.31581515844231944
+[09Jul2025 04:53:46.020] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Maxx) moved wrongly! 0.44674466922822376
+[09Jul2025 04:53:46.077] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of agustinnfes2) moved wrongly! 0.6576178088101869
+[09Jul2025 04:53:46.125] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of agustinnfes2) moved wrongly! 0.3171593664822012
+[09Jul2025 04:53:46.173] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of agustinnfes2) moved wrongly! 0.28291055249019337
+[09Jul2025 04:53:46.175] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Maxx) moved wrongly! 0.41895306522962983
+[09Jul2025 04:53:46.221] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of agustinnfes2) moved wrongly! 0.2564688189248727
+[09Jul2025 04:53:46.276] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of agustinnfes2) moved wrongly! 0.5143169835654362
+[09Jul2025 04:53:46.561] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of agustinnfes2) moved wrongly! 0.2692805598627501
+[09Jul2025 04:53:46.785] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Maxx) moved wrongly! 0.37224156857473645
+[09Jul2025 04:53:46.824] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Maxx) moved wrongly! 0.5705671370687924
+[09Jul2025 04:53:47.243] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of agustinnfes2) moved wrongly! 0.3556798378984922
+[09Jul2025 04:53:47.245] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of agustinnfes2) moved wrongly! 0.520050590832625
+[09Jul2025 04:53:47.303] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Maxx) moved wrongly! 0.39817942736976875
+[09Jul2025 04:53:47.397] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of agustinnfes2) moved wrongly! 0.37331077698434
+[09Jul2025 04:53:47.765] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of agustinnfes2) moved wrongly! 0.461034413878906
+[09Jul2025 04:53:47.815] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of agustinnfes2) moved wrongly! 0.6999706997156636
+[09Jul2025 04:53:48.113] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of agustinnfes2) moved wrongly! 0.4216243353024538
+[09Jul2025 04:53:48.302] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Maxx) moved wrongly! 0.2723975420512943
+[09Jul2025 04:53:49.376] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Maxx) moved wrongly! 0.47787074284065056
+[09Jul2025 04:53:49.434] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Maxx) moved wrongly! 0.5529757016627173
+[09Jul2025 04:53:49.435] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Maxx) moved wrongly! 0.8829938822354961
+[09Jul2025 04:58:28.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BozzNofps> alguno en la casa?
+[09Jul2025 04:58:36.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Soficordoba13> Yo
+[09Jul2025 04:58:49.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported BozzNofps to Soficordoba13]
+[09Jul2025 04:59:26.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Soficordoba13> hay un chanchito loco aqui afuera
+[09Jul2025 04:59:42.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Soficordoba13> tengo una espada de pidra sjdajdjasjd
+[09Jul2025 05:00:11.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BozzNofps> y la guadaña?
+[09Jul2025 05:00:34.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Soficordoba13> lo mato?
+[09Jul2025 05:00:49.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BozzNofps> es neutral
+[09Jul2025 05:01:04.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BozzNofps> si entras al nether nunca les pegues
+[09Jul2025 05:01:08.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Soficordoba13> es mi amigo ya
+[09Jul2025 05:01:18.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxx was slain by Ferrous Wroughtnaut
+[09Jul2025 05:01:18.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda was slain by Ferrous Wroughtnaut
+[09Jul2025 05:01:19.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BozzNofps> son igualitos
+[09Jul2025 05:02:19.038] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/62413, l='ServerLevel[world]', x=258.44, y=-256.00, z=359.74] died, message: 'Unemployed was killed'
+[09Jul2025 05:02:20.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxx was slain by Ferrous Wroughtnaut
+[09Jul2025 05:02:21.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CaptainSKIPNOTZ was slain by Ferrous Wroughtnaut
+[09Jul2025 05:02:21.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda was slain by Ferrous Wroughtnaut
+[09Jul2025 05:02:40.567] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: balda lost connection: Timed out
+[09Jul2025 05:02:40.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda left the game
+[09Jul2025 05:02:40.574] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Maxx lost connection: Timed out
+[09Jul2025 05:02:40.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxx left the game
+[09Jul2025 05:02:45.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CaptainSKIPNOTZ> santy tpeame al maxx
+[09Jul2025 05:02:49.215] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: balda[/127.249.45.252:35859] logged in with entity id 62800 at (-132.5, 104.0, 86.5)
+[09Jul2025 05:02:49.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda joined the game
+[09Jul2025 05:02:49.284] [Server thread/INFO] [Jade/]: Syncing config to balda (1cd01936-7653-3a80-b136-98719ff0b8f7)
+[09Jul2025 05:02:56.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda was shot by Skeleton
+[09Jul2025 05:03:00.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CaptainSKIPNOTZ> apareci en el primera base
+[09Jul2025 05:03:03.519] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Maxx[/127.192.242.214:49231] logged in with entity id 62925 at (-142.5, 104.0, 100.5)
+[09Jul2025 05:03:03.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxx joined the game
+[09Jul2025 05:03:03.590] [Server thread/INFO] [Jade/]: Syncing config to Maxx (f3dac050-db0e-3285-9976-8540d9ac0403)
+[09Jul2025 05:03:06.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Maxx was shot by Skeleton
+[09Jul2025 05:03:07.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: angeelcraft hit the ground too hard whilst trying to escape Skeleton
+[09Jul2025 05:03:19.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported CaptainSKIPNOTZ to Maxx]
+[09Jul2025 05:03:34.366] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: balda lost connection: Timed out
+[09Jul2025 05:03:34.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda left the game
+[09Jul2025 05:03:39.374] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: angeelcraft lost connection: Disconnected
+[09Jul2025 05:03:39.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: angeelcraft left the game
+[09Jul2025 05:03:51.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported Maxx to agustinnfes2]
+[09Jul2025 05:03:53.321] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: balda[/127.249.45.252:39309] logged in with entity id 63663 at (-111.04173142889374, 115.0, 96.833318644835)
+[09Jul2025 05:03:53.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda joined the game
+[09Jul2025 05:03:53.383] [Server thread/INFO] [Jade/]: Syncing config to balda (1cd01936-7653-3a80-b136-98719ff0b8f7)
+[09Jul2025 05:04:03.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported CaptainSKIPNOTZ to agustinnfes2]
+[09Jul2025 05:04:12.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported balda to agustinnfes2]
+[09Jul2025 05:04:31.209] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: agustinnfes2 lost connection: Disconnected
+[09Jul2025 05:04:31.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 left the game
+[09Jul2025 05:04:39.164] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: agustinnfes2[/127.220.229.95:55923] logged in with entity id 63940 at (1066.699999988079, 52.0, 1019.4914625493312)
+[09Jul2025 05:04:39.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 joined the game
+[09Jul2025 05:04:39.230] [Server thread/INFO] [Jade/]: Syncing config to agustinnfes2 (d7072c52-a1ba-3ad3-bd6c-c7ea7e4745b8)
+[09Jul2025 05:04:58.682] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kuriron lost connection: Disconnected
+[09Jul2025 05:04:58.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kuriron left the game
+[09Jul2025 05:05:07.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda was slain by Ferrous Wroughtnaut

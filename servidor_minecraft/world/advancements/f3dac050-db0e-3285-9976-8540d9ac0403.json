@@ -3051,12 +3051,6 @@
     },
     "done": true
   },
-  "securitycraft:recipes/misc/sentry": {
-    "criteria": {
-      "has_iron": "2025-07-09 04:03:59 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/redstone/reinforced_birch_fence_gate": {
     "criteria": {
       "has_stick": "2025-07-09 04:01:18 +0000"
@@ -3099,21 +3093,9 @@
     },
     "done": true
   },
-  "securitycraft:recipes/decorations/floor_trap": {
-    "criteria": {
-      "has_iron": "2025-07-09 04:03:59 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/redstone/reinforced_spruce_fence_gate": {
     "criteria": {
       "has_stick": "2025-07-09 04:01:18 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/storage_module": {
-    "criteria": {
-      "has_iron": "2025-07-09 04:03:59 +0000"
     },
     "done": true
   },
@@ -3132,18 +3114,6 @@
   "securitycraft:recipes/decorations/secret_mangrove_sign_item": {
     "criteria": {
       "has_sign": "2025-07-09 04:01:18 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/transportation/track_mine": {
-    "criteria": {
-      "has_iron": "2025-07-09 04:03:59 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/whitelist_module": {
-    "criteria": {
-      "has_iron": "2025-07-09 04:03:59 +0000"
     },
     "done": true
   },
@@ -3171,6 +3141,240 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/reinforced_bamboo_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-07-09 04:01:18 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/sonic_security_system": {
+    "criteria": {
+      "has_stick": "2025-07-09 04:01:18 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_jungle_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-07-09 04:01:18 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_dark_oak_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-07-09 04:01:18 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_acacia_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-07-09 04:01:18 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/decorations/gadgets/frame/diamond": {
+    "criteria": {
+      "has_item": "2025-07-09 04:01:18 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_birch_fence": {
+    "criteria": {
+      "has_stick": "2025-07-09 04:01:18 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_dark_oak_fence": {
+    "criteria": {
+      "has_stick": "2025-07-09 04:01:18 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_oak_fence": {
+    "criteria": {
+      "has_stick": "2025-07-09 04:01:18 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_oak_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-07-09 04:01:18 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_bamboo_fence": {
+    "criteria": {
+      "has_stick": "2025-07-09 04:01:18 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_crimson_fence": {
+    "criteria": {
+      "has_stick": "2025-07-09 04:01:18 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_crimson_sign_item": {
+    "criteria": {
+      "has_sign": "2025-07-09 04:01:18 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_oak_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-07-09 04:01:18 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_jungle_sign_item": {
+    "criteria": {
+      "has_sign": "2025-07-09 04:01:18 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_spruce_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-07-09 04:01:18 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_birch_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-07-09 04:01:18 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_mangrove_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-07-09 04:01:18 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_jungle_fence": {
+    "criteria": {
+      "has_stick": "2025-07-09 04:01:18 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_warped_fence": {
+    "criteria": {
+      "has_stick": "2025-07-09 04:01:18 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_cherry_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-07-09 04:01:18 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_acacia_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-07-09 04:01:18 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:internal/starting_book": {
+    "criteria": {
+      "tick": "2025-07-09 04:01:18 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_bamboo_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-07-09 04:01:18 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_cherry_fence": {
+    "criteria": {
+      "has_stick": "2025-07-09 04:01:18 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_warped_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-07-09 04:01:18 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_bamboo_sign_item": {
+    "criteria": {
+      "has_sign": "2025-07-09 04:01:18 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_mangrove_fence_gate": {
+    "criteria": {
+      "has_stick": "2025-07-09 04:01:18 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_cherry_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-07-09 04:01:18 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_mangrove_fence": {
+    "criteria": {
+      "has_stick": "2025-07-09 04:01:18 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_warped_hanging_sign": {
+    "criteria": {
+      "has_sign": "2025-07-09 04:01:18 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_acacia_sign_item": {
+    "criteria": {
+      "has_sign": "2025-07-09 04:01:18 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/secret_warped_sign_item": {
+    "criteria": {
+      "has_sign": "2025-07-09 04:01:18 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_spruce_fence": {
+    "criteria": {
+      "has_stick": "2025-07-09 04:01:18 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/sentry": {
+    "criteria": {
+      "has_iron": "2025-07-09 04:03:59 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/decorations/floor_trap": {
+    "criteria": {
+      "has_iron": "2025-07-09 04:03:59 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/storage_module": {
+    "criteria": {
+      "has_iron": "2025-07-09 04:03:59 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/transportation/track_mine": {
+    "criteria": {
+      "has_iron": "2025-07-09 04:03:59 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/whitelist_module": {
+    "criteria": {
+      "has_iron": "2025-07-09 04:03:59 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/decorations/common/iron_platform": {
     "criteria": {
       "has_bars": "2025-07-09 04:03:59 +0000"
@@ -3186,12 +3390,6 @@
   "securitycraft:recipes/misc/briefcase": {
     "criteria": {
       "has_iron": "2025-07-09 04:03:59 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/redstone/reinforced_bamboo_fence_gate": {
-    "criteria": {
-      "has_stick": "2025-07-09 04:01:18 +0000"
     },
     "done": true
   },
@@ -3243,51 +3441,9 @@
     },
     "done": true
   },
-  "securitycraft:recipes/misc/sonic_security_system": {
-    "criteria": {
-      "has_stick": "2025-07-09 04:01:18 +0000"
-    },
-    "done": true
-  },
-  "tconstruct:world/ancient_tools": {
-    "criteria": {
-      "swasher": "2025-07-09 04:26:26 +0000"
-    },
-    "done": false
-  },
-  "securitycraft:recipes/decorations/secret_jungle_hanging_sign": {
-    "criteria": {
-      "has_sign": "2025-07-09 04:01:18 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/redstone/reinforced_dark_oak_fence_gate": {
-    "criteria": {
-      "has_stick": "2025-07-09 04:01:18 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/decorations/secret_acacia_hanging_sign": {
-    "criteria": {
-      "has_sign": "2025-07-09 04:01:18 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/misc/trophy_system": {
     "criteria": {
       "has_iron": "2025-07-09 04:03:59 +0000"
-    },
-    "done": true
-  },
-  "tconstruct:recipes/decorations/gadgets/frame/diamond": {
-    "criteria": {
-      "has_item": "2025-07-09 04:01:18 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/reinforced_birch_fence": {
-    "criteria": {
-      "has_stick": "2025-07-09 04:01:18 +0000"
     },
     "done": true
   },
@@ -3297,45 +3453,15 @@
     },
     "done": true
   },
-  "securitycraft:recipes/misc/reinforced_dark_oak_fence": {
-    "criteria": {
-      "has_stick": "2025-07-09 04:01:18 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/reinforced_oak_fence": {
-    "criteria": {
-      "has_stick": "2025-07-09 04:01:18 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/misc/camera_monitor": {
     "criteria": {
       "has_iron": "2025-07-09 04:03:59 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/redstone/reinforced_oak_fence_gate": {
-    "criteria": {
-      "has_stick": "2025-07-09 04:01:18 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/misc/redstone_module": {
     "criteria": {
       "has_iron": "2025-07-09 04:03:59 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/reinforced_bamboo_fence": {
-    "criteria": {
-      "has_stick": "2025-07-09 04:01:18 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/reinforced_crimson_fence": {
-    "criteria": {
-      "has_stick": "2025-07-09 04:01:18 +0000"
     },
     "done": true
   },
@@ -3351,27 +3477,9 @@
     },
     "done": true
   },
-  "securitycraft:recipes/decorations/secret_crimson_sign_item": {
-    "criteria": {
-      "has_sign": "2025-07-09 04:01:18 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/decorations/secret_oak_hanging_sign": {
-    "criteria": {
-      "has_sign": "2025-07-09 04:01:18 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/misc/blacklist_module": {
     "criteria": {
       "has_iron": "2025-07-09 04:03:59 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/decorations/secret_jungle_sign_item": {
-    "criteria": {
-      "has_sign": "2025-07-09 04:01:18 +0000"
     },
     "done": true
   },
@@ -3393,51 +3501,21 @@
     },
     "done": true
   },
-  "securitycraft:recipes/decorations/secret_spruce_hanging_sign": {
-    "criteria": {
-      "has_sign": "2025-07-09 04:01:18 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/redstone/block_change_detector": {
     "criteria": {
       "has_iron": "2025-07-09 04:03:59 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/decorations/secret_birch_hanging_sign": {
+  "securitycraft:recipes/misc/harming_module": {
     "criteria": {
-      "has_sign": "2025-07-09 04:01:18 +0000"
+      "has_iron": "2025-07-09 04:03:59 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/decorations/secret_mangrove_hanging_sign": {
+  "securitycraft:recipes/misc/smart_module": {
     "criteria": {
-      "has_sign": "2025-07-09 04:01:18 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/reinforced_jungle_fence": {
-    "criteria": {
-      "has_stick": "2025-07-09 04:01:18 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/reinforced_warped_fence": {
-    "criteria": {
-      "has_stick": "2025-07-09 04:01:18 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/redstone/reinforced_cherry_fence_gate": {
-    "criteria": {
-      "has_stick": "2025-07-09 04:01:18 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/redstone/reinforced_acacia_fence_gate": {
-    "criteria": {
-      "has_stick": "2025-07-09 04:01:18 +0000"
+      "has_iron": "2025-07-09 04:03:59 +0000"
     },
     "done": true
   },
@@ -3447,29 +3525,11 @@
     },
     "done": true
   },
-  "tconstruct:internal/starting_book": {
+  "tconstruct:world/ancient_tools": {
     "criteria": {
-      "tick": "2025-07-09 04:01:18 +0000"
+      "swasher": "2025-07-09 04:26:26 +0000"
     },
-    "done": true
-  },
-  "securitycraft:recipes/decorations/secret_bamboo_hanging_sign": {
-    "criteria": {
-      "has_sign": "2025-07-09 04:01:18 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/reinforced_cherry_fence": {
-    "criteria": {
-      "has_stick": "2025-07-09 04:01:18 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/redstone/reinforced_warped_fence_gate": {
-    "criteria": {
-      "has_stick": "2025-07-09 04:01:18 +0000"
-    },
-    "done": true
+    "done": false
   },
   "tconstruct:tools/tinker_tool": {
     "criteria": {
@@ -3485,63 +3545,69 @@
     },
     "done": false
   },
-  "securitycraft:recipes/misc/harming_module": {
+  "minecraft:recipes/decorations/birch_hanging_sign": {
     "criteria": {
-      "has_iron": "2025-07-09 04:03:59 +0000"
+      "has_stripped_logs": "2025-07-09 04:36:29 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/decorations/secret_bamboo_sign_item": {
+  "securitycraft:recipes/misc/sc_manual": {
     "criteria": {
-      "has_sign": "2025-07-09 04:01:18 +0000"
+      "has_wood": "2025-07-09 04:36:29 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/misc/smart_module": {
+  "minecraft:recipes/building_blocks/stripped_birch_wood": {
     "criteria": {
-      "has_iron": "2025-07-09 04:03:59 +0000"
+      "has_log": "2025-07-09 04:36:29 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/redstone/reinforced_mangrove_fence_gate": {
+  "securitycraft:recipes/building_blocks/reinforced_andesite_with_vanilla_diorite": {
     "criteria": {
-      "has_stick": "2025-07-09 04:01:18 +0000"
+      "has_cobblestone": "2025-07-09 05:04:14 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/decorations/secret_cherry_hanging_sign": {
+  "securitycraft:recipes/building_blocks/reinforced_andesite_with_vanilla_cobblestone": {
     "criteria": {
-      "has_sign": "2025-07-09 04:01:18 +0000"
+      "has_cobblestone": "2025-07-09 05:04:14 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/misc/reinforced_mangrove_fence": {
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
     "criteria": {
-      "has_stick": "2025-07-09 04:01:18 +0000"
+      "has_raw_copper": "2025-07-09 05:04:14 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/decorations/secret_warped_hanging_sign": {
+  "minecraft:recipes/building_blocks/raw_copper_block": {
     "criteria": {
-      "has_sign": "2025-07-09 04:01:18 +0000"
+      "has_raw_copper": "2025-07-09 05:04:14 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/decorations/secret_acacia_sign_item": {
+  "securitycraft:recipes/redstone/laser_block": {
     "criteria": {
-      "has_sign": "2025-07-09 04:01:18 +0000"
+      "has_stone": "2025-07-09 05:04:14 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/decorations/secret_warped_sign_item": {
+  "securitycraft:recipes/building_blocks/reinforced_andesite": {
     "criteria": {
-      "has_sign": "2025-07-09 04:01:18 +0000"
+      "has_cobblestone": "2025-07-09 05:04:14 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/misc/reinforced_spruce_fence": {
+  "securitycraft:recipes/building_blocks/reinforced_diorite": {
     "criteria": {
-      "has_stick": "2025-07-09 04:01:18 +0000"
+      "has_cobblestone": "2025-07-09 05:04:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-07-09 05:04:14 +0000"
     },
     "done": true
   },

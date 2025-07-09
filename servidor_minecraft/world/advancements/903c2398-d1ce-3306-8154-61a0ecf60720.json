@@ -4657,15 +4657,75 @@
     },
     "done": true
   },
-  "tconstruct:recipes/building_blocks/smeltery/seared/seared_bricks_from_brick": {
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
     "criteria": {
-      "has_item": "2025-07-09 04:21:44 +0000"
+      "has_coast_armor_trim_smithing_template": "2025-07-09 04:03:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-07-09 04:03:24 +0000"
     },
     "done": true
   },
   "tconstruct:recipes/decorations/tables/tinker_station": {
     "criteria": {
       "has_item": "2025-07-09 04:15:11 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/common/materials_and_you": {
+    "criteria": {
+      "has_item": "2025-07-09 04:15:11 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/decorations/tables/tinkers_chest": {
+    "criteria": {
+      "has_item": "2025-07-09 04:15:11 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/tables/book_substitute": {
+    "criteria": {
+      "has_item": "2025-07-09 04:15:11 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/decorations/tables/crafting_station": {
+    "criteria": {
+      "has_item": "2025-07-09 04:15:11 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/decorations/tables/part_chest": {
+    "criteria": {
+      "has_item": "2025-07-09 04:15:11 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/decorations/tables/part_builder": {
+    "criteria": {
+      "has_item": "2025-07-09 04:15:11 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/decorations/tables/crafting_station_from_logs": {
+    "criteria": {
+      "has_item": "2025-07-09 04:15:11 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:tools/tinker_station": {
+    "criteria": {
+      "crafted_block": "2025-07-09 04:15:21 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/seared/seared_bricks_from_brick": {
+    "criteria": {
+      "has_item": "2025-07-09 04:21:44 +0000"
     },
     "done": true
   },
@@ -4687,33 +4747,15 @@
     },
     "done": true
   },
-  "tconstruct:recipes/misc/common/materials_and_you": {
-    "criteria": {
-      "has_item": "2025-07-09 04:15:11 +0000"
-    },
-    "done": true
-  },
   "tconstruct:recipes/redstone/smeltery/seared/drain": {
     "criteria": {
       "has_item": "2025-07-09 04:21:44 +0000"
     },
     "done": true
   },
-  "tconstruct:recipes/decorations/tables/tinkers_chest": {
-    "criteria": {
-      "has_item": "2025-07-09 04:15:11 +0000"
-    },
-    "done": true
-  },
   "tconstruct:recipes/redstone/smeltery/seared/ingot_tank": {
     "criteria": {
       "has_item": "2025-07-09 04:21:44 +0000"
-    },
-    "done": true
-  },
-  "tconstruct:recipes/misc/tables/book_substitute": {
-    "criteria": {
-      "has_item": "2025-07-09 04:15:11 +0000"
     },
     "done": true
   },
@@ -4726,24 +4768,6 @@
   "tconstruct:recipes/redstone/smeltery/seared/channel": {
     "criteria": {
       "has_item": "2025-07-09 04:21:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/coast_armor_trim_smithing_template": {
-    "criteria": {
-      "has_coast_armor_trim_smithing_template": "2025-07-09 04:03:24 +0000"
-    },
-    "done": true
-  },
-  "tconstruct:recipes/decorations/tables/crafting_station": {
-    "criteria": {
-      "has_item": "2025-07-09 04:15:11 +0000"
-    },
-    "done": true
-  },
-  "tconstruct:recipes/decorations/tables/part_chest": {
-    "criteria": {
-      "has_item": "2025-07-09 04:15:11 +0000"
     },
     "done": true
   },
@@ -4765,27 +4789,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/coast_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2025-07-09 04:03:24 +0000"
-    },
-    "done": true
-  },
   "tconstruct:recipes/redstone/smeltery/seared/faucet": {
     "criteria": {
       "has_item": "2025-07-09 04:21:44 +0000"
-    },
-    "done": true
-  },
-  "tconstruct:recipes/decorations/tables/part_builder": {
-    "criteria": {
-      "has_item": "2025-07-09 04:15:11 +0000"
-    },
-    "done": true
-  },
-  "tconstruct:tools/part_builder": {
-    "criteria": {
-      "crafted_block": "2025-07-09 04:25:48 +0000"
     },
     "done": true
   },
@@ -4813,12 +4819,6 @@
     },
     "done": true
   },
-  "tconstruct:recipes/decorations/tables/crafting_station_from_logs": {
-    "criteria": {
-      "has_item": "2025-07-09 04:15:11 +0000"
-    },
-    "done": true
-  },
   "tconstruct:recipes/tools/tools/building/flint_and_brick": {
     "criteria": {
       "has_seared": "2025-07-09 04:21:44 +0000"
@@ -4837,15 +4837,15 @@
     },
     "done": true
   },
-  "tconstruct:tools/tinker_station": {
-    "criteria": {
-      "crafted_block": "2025-07-09 04:15:21 +0000"
-    },
-    "done": true
-  },
   "tconstruct:recipes/redstone/smeltery/seared/chute": {
     "criteria": {
       "has_item": "2025-07-09 04:21:44 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:tools/part_builder": {
+    "criteria": {
+      "crafted_block": "2025-07-09 04:25:48 +0000"
     },
     "done": true
   },
