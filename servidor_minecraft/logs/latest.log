@@ -1791,3 +1791,4 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [10Jul2025 07:48:11.835] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Soficordoba13 lost connection: Disconnected
 [10Jul2025 07:48:11.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soficordoba13 left the game
 [10Jul2025 07:50:23.028] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/409035, l='ServerLevel[world]', x=284.16, y=-256.00, z=365.84] died, message: 'Unemployed was killed'
+[10Jul2025 07:56:30.027] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/410725, l='ServerLevel[world]', x=337.31, y=-256.00, z=209.93] died, message: 'Unemployed was killed'
