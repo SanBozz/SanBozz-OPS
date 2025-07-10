@@ -1710,3 +1710,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [10Jul2025 06:31:09.755] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved wrongly! 0.7462692908111137
 [10Jul2025 06:31:09.802] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved wrongly! 1.0003104201193764
 [10Jul2025 06:31:09.850] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved wrongly! 1.2654799811307669
+[10Jul2025 06:37:48.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported Soficordoba13 to BozzNofps]
+[10Jul2025 06:40:01.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kuriron has reached the goal [Advanced Tool Making]
+[10Jul2025 06:42:32.394] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Riuksaky lost connection: Disconnected
+[10Jul2025 06:42:32.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Riuksaky left the game
