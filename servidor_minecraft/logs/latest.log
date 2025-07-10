@@ -1748,3 +1748,29 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [10Jul2025 07:21:56.556] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BozzNofps[/127.249.45.252:36149] logged in with entity id 395648 at (1015.5, 63.653729617588596, 297.5)
 [10Jul2025 07:21:56.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps joined the game
 [10Jul2025 07:21:56.607] [Server thread/INFO] [Jade/]: Syncing config to BozzNofps (22592360-5cd4-3e8f-9fc0-96977e63922e)
+[10Jul2025 07:23:16.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps was impaled by Drowned
+[10Jul2025 07:23:33.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported BozzNofps to Soficordoba13]
+[10Jul2025 07:25:23.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps was impaled by Drowned
+[10Jul2025 07:25:33.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported BozzNofps to Soficordoba13]
+[10Jul2025 07:25:52.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps was shot by Skeleton
+[10Jul2025 07:26:12.003] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BozzNofps lost connection: Timed out
+[10Jul2025 07:26:12.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps left the game
+[10Jul2025 07:27:01.309] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BozzNofps[/127.249.45.252:52115] logged in with entity id 397984 at (1024.8787864936069, 77.30220861900207, 306.28041906809574)
+[10Jul2025 07:27:01.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps joined the game
+[10Jul2025 07:27:01.361] [Server thread/INFO] [Jade/]: Syncing config to BozzNofps (22592360-5cd4-3e8f-9fc0-96977e63922e)
+[10Jul2025 07:27:39.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Set the time to 1000]
+[10Jul2025 07:27:46.498] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BozzNofps lost connection: Timed out
+[10Jul2025 07:27:46.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps left the game
+[10Jul2025 07:28:19.352] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BozzNofps[/127.249.45.252:33211] logged in with entity id 398708 at (-699.5, 80.0, 2445.5)
+[10Jul2025 07:28:19.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps joined the game
+[10Jul2025 07:28:19.368] [Server thread/INFO] [Jade/]: Syncing config to BozzNofps (22592360-5cd4-3e8f-9fc0-96977e63922e)
+[10Jul2025 07:28:48.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported BozzNofps to Soficordoba13]
+[10Jul2025 07:29:04.549] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BozzNofps lost connection: Timed out
+[10Jul2025 07:29:04.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps left the game
+[10Jul2025 07:29:37.410] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BozzNofps[/127.249.45.252:43621] logged in with entity id 399284 at (1011.7461036002372, 64.0, 315.59475865647096)
+[10Jul2025 07:29:37.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps joined the game
+[10Jul2025 07:29:37.462] [Server thread/INFO] [Jade/]: Syncing config to BozzNofps (22592360-5cd4-3e8f-9fc0-96977e63922e)
+[10Jul2025 07:32:37.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps was slain by Man From The Fog
+[10Jul2025 07:33:07.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported BozzNofps to Soficordoba13]
+[10Jul2025 07:33:22.797] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BozzNofps lost connection: Timed out
+[10Jul2025 07:33:22.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps left the game
