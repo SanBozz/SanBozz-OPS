@@ -406,6 +406,7 @@
       "cooked_beef": "2025-07-09 00:12:56 +0000",
       "baked_potato": "2025-07-07 05:42:05 +0000",
       "potato": "2025-07-07 04:25:53 +0000",
+      "golden_apple": "2025-07-10 04:31:39 +0000",
       "golden_carrot": "2025-07-07 04:28:36 +0000"
     },
     "done": false
@@ -466,6 +467,7 @@
       "minecraft:magma_cube": "2025-07-10 01:57:21 +0000",
       "minecraft:piglin_brute": "2025-07-10 02:06:11 +0000",
       "minecraft:phantom": "2025-07-09 05:22:16 +0000",
+      "minecraft:witch": "2025-07-10 04:31:17 +0000",
       "minecraft:husk": "2025-07-08 04:05:29 +0000",
       "minecraft:piglin": "2025-07-10 02:05:46 +0000",
       "minecraft:zombie": "2025-07-07 04:52:51 +0000",
@@ -3926,6 +3928,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-07-10 04:28:06 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tools/common/slime/lead": {
     "criteria": {
       "has_slime_ball": "2025-07-10 03:44:18 +0000"
@@ -4022,6 +4030,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/dark_oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-07-10 04:28:06 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tools/gadgets/throwball/efln_ball": {
     "criteria": {
       "has_item": "2025-07-10 02:28:31 +0000"
@@ -4061,6 +4075,12 @@
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
       "has_netherrack": "2025-07-10 02:01:15 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/decorations/gadgets/punji": {
+    "criteria": {
+      "has_item": "2025-07-10 04:29:21 +0000"
     },
     "done": true
   },
@@ -4139,6 +4159,12 @@
   "tconstruct:recipes/redstone/common/slime/sky/slimeblock": {
     "criteria": {
       "has_item": "2025-07-10 03:44:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-07-10 04:28:06 +0000"
     },
     "done": true
   },
@@ -4246,15 +4272,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-07-10 04:29:21 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/redstone/common/slime/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2025-07-10 03:44:18 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-07-10 04:29:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2025-07-10 01:12:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-07-10 04:29:21 +0000"
     },
     "done": true
   },

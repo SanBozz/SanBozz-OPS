@@ -833,6 +833,7 @@
     "criteria": {
       "cooked_porkchop": "2025-07-09 00:25:15 +0000",
       "baked_potato": "2025-07-07 20:52:29 +0000",
+      "potato": "2025-07-10 04:32:10 +0000",
       "pumpkin_pie": "2025-07-09 00:10:19 +0000",
       "golden_apple": "2025-07-10 04:21:06 +0000"
     },
@@ -6228,6 +6229,18 @@
   "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {
       "has_snowball": "2025-07-10 04:21:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-07-10 04:28:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-07-10 04:28:11 +0000"
     },
     "done": true
   },

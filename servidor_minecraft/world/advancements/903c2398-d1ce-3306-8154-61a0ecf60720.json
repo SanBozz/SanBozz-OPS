@@ -5986,6 +5986,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
+    "criteria": {
+      "has_warped_fungus": "2025-07-10 04:26:16 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/building_blocks/smeltery/seared/seared_stone_slab_stonecutter": {
     "criteria": {
       "has_item": "2025-07-10 03:43:50 +0000"

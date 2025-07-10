@@ -1247,3 +1247,16 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [10Jul2025 04:24:59.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps joined the game
 [10Jul2025 04:24:59.494] [Server thread/INFO] [Jade/]: Syncing config to BozzNofps (22592360-5cd4-3e8f-9fc0-96977e63922e)
 [10Jul2025 04:26:07.578] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/231758, l='ServerLevel[world]', x=284.89, y=-256.00, z=328.54] died, message: 'Unemployed was killed'
+[10Jul2025 04:28:53.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soficordoba13 was slain by Tongbi, the Sculptor
+[10Jul2025 04:28:54.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda was slain by Tongbi, the Sculptor
+[10Jul2025 04:32:29.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 was slain by Bluff
+[10Jul2025 04:32:51.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 was slain by Bluff
+[10Jul2025 04:33:32.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 was slain by Bluff
+[10Jul2025 04:34:27.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 was slain by Bluff
+[10Jul2025 04:35:13.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 was slain by Bluff
+[10Jul2025 04:35:22.626] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-811, y=130, z=1973} BlockPos{x=-810, y=130, z=1971}
+[10Jul2025 04:35:22.680] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-811, y=130, z=1973} BlockPos{x=-810, y=130, z=1971}
+[10Jul2025 04:35:34.725] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-811, y=130, z=1973} BlockPos{x=-811, y=129, z=1973}
+[10Jul2025 04:35:55.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 has made the advancement [Called Your Bluff]
+[10Jul2025 04:36:16.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 was slain by Bluff
+[10Jul2025 04:36:42.370] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-815, y=129, z=1978} BlockPos{x=-814, y=128, z=1976}
