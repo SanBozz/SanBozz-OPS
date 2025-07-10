@@ -1817,3 +1817,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [10Jul2025 08:39:59.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps was slain by Zombie
 [10Jul2025 08:40:12.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported BozzNofps to -3.500000, -41.000000, 959.500000]
 [10Jul2025 08:42:06.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported BozzNofps to kuriron]
+[10Jul2025 08:49:43.077] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/443757, l='ServerLevel[world]', x=290.00, y=-256.00, z=355.81] died, message: 'Unemployed was killed'
+[10Jul2025 08:51:01.078] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/443934, l='ServerLevel[world]', x=337.31, y=-256.00, z=209.93] died, message: 'Unemployed was killed'
+[10Jul2025 08:54:22.185] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BozzNofps lost connection: Disconnected
+[10Jul2025 08:54:22.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps left the game

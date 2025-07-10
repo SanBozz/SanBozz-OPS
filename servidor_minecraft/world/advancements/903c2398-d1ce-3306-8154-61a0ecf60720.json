@@ -5990,6 +5990,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/misc/common/slime/sky/slimeball_from_block": {
+    "criteria": {
+      "has_item": "2025-07-10 08:45:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/crimson_door": {
     "criteria": {
       "has_planks": "2025-07-10 04:00:08 +0000"
