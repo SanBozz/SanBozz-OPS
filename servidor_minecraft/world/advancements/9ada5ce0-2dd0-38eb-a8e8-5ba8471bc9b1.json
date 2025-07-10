@@ -31,6 +31,7 @@
       "minecraft:forest": "2025-07-08 02:48:05 +0000",
       "minecraft:lush_caves": "2025-07-10 03:46:44 +0000",
       "minecraft:old_growth_birch_forest": "2025-07-08 02:46:54 +0000",
+      "minecraft:savanna": "2025-07-10 05:18:45 +0000",
       "minecraft:plains": "2025-07-08 04:22:23 +0000"
     },
     "done": false
@@ -1683,6 +1684,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-10 05:22:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_granite": "2025-07-10 03:56:13 +0000"
@@ -1722,6 +1729,12 @@
   "securitycraft:recipes/misc/security_camera": {
     "criteria": {
       "has_iron": "2025-07-10 03:51:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2025-07-10 05:22:18 +0000"
     },
     "done": true
   },
@@ -2037,6 +2050,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2025-07-10 05:22:18 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/redstone_module": {
     "criteria": {
       "has_iron": "2025-07-10 03:51:26 +0000"
@@ -2097,6 +2116,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-10 05:22:18 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/blacklist_module": {
     "criteria": {
       "has_iron": "2025-07-10 03:51:26 +0000"
@@ -2112,6 +2137,12 @@
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2025-07-10 03:51:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-10 05:22:18 +0000"
     },
     "done": true
   },
@@ -2241,9 +2272,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-07-10 05:29:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2025-07-10 03:51:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2025-07-10 05:22:18 +0000"
     },
     "done": true
   },
@@ -2379,9 +2422,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-07-10 05:22:18 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/iron_throwing_knife": {
     "criteria": {
       "has_iron_ingot": "2025-07-10 03:51:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2025-07-10 05:22:18 +0000"
     },
     "done": true
   },
@@ -2400,6 +2455,12 @@
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2025-07-10 03:51:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2025-07-10 05:22:18 +0000"
     },
     "done": true
   },

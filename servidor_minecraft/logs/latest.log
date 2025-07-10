@@ -1454,3 +1454,124 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [10Jul2025 05:19:00.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soficordoba13 was shot by Skeleton
 [10Jul2025 05:19:11.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soficordoba13 was shot by Skeleton
 [10Jul2025 05:19:16.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported Soficordoba13 to BozzNofps]
+[10Jul2025 05:20:19.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported Riuksaky to BozzNofps]
+[10Jul2025 05:21:26.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Riuksaky was slain by agustinnfes2
+[10Jul2025 05:21:44.307] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-124, y=103, z=87}
+[10Jul2025 05:21:44.322] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-123, y=103, z=86}
+[10Jul2025 05:21:44.422] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-123, y=103, z=86}
+[10Jul2025 05:21:44.473] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-123, y=103, z=86}
+[10Jul2025 05:21:44.566] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-123, y=103, z=86}
+[10Jul2025 05:21:44.608] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-123, y=103, z=86}
+[10Jul2025 05:21:44.625] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-123, y=103, z=86}
+[10Jul2025 05:21:44.705] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-123, y=103, z=86}
+[10Jul2025 05:21:44.907] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-120, y=103, z=87}
+[10Jul2025 05:21:44.922] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-120, y=103, z=87}
+[10Jul2025 05:21:44.974] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-120, y=103, z=87}
+[10Jul2025 05:21:45.025] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-120, y=103, z=87}
+[10Jul2025 05:21:45.154] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-119, y=103, z=87}
+[10Jul2025 05:21:45.207] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-119, y=103, z=87}
+[10Jul2025 05:21:45.254] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-119, y=103, z=87}
+[10Jul2025 05:21:45.311] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-119, y=103, z=87}
+[10Jul2025 05:21:47.405] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-115, y=104, z=81} BlockPos{x=-117, y=103, z=81}
+[10Jul2025 05:21:47.458] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-115, y=104, z=81} BlockPos{x=-117, y=103, z=81}
+[10Jul2025 05:21:47.610] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-115, y=104, z=81} BlockPos{x=-118, y=103, z=81}
+[10Jul2025 05:21:47.658] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-115, y=104, z=81} BlockPos{x=-118, y=103, z=81}
+[10Jul2025 05:21:47.707] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-115, y=104, z=81} BlockPos{x=-119, y=103, z=81}
+[10Jul2025 05:21:47.753] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-115, y=104, z=81} BlockPos{x=-119, y=103, z=81}
+[10Jul2025 05:21:47.809] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-115, y=104, z=81} BlockPos{x=-119, y=103, z=81}
+[10Jul2025 05:21:47.959] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-115, y=104, z=81} BlockPos{x=-120, y=103, z=82}
+[10Jul2025 05:21:48.015] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-115, y=104, z=81} BlockPos{x=-121, y=103, z=82}
+[10Jul2025 05:21:48.062] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-115, y=104, z=81} BlockPos{x=-121, y=103, z=82}
+[10Jul2025 05:21:48.253] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-115, y=104, z=81} BlockPos{x=-121, y=103, z=82}
+[10Jul2025 05:21:48.253] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-115, y=104, z=81} BlockPos{x=-121, y=103, z=82}
+[10Jul2025 05:21:48.353] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-115, y=104, z=81} BlockPos{x=-122, y=103, z=82}
+[10Jul2025 05:21:48.409] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-115, y=104, z=81} BlockPos{x=-122, y=103, z=82}
+[10Jul2025 05:21:48.456] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-115, y=104, z=81} BlockPos{x=-122, y=103, z=82}
+[10Jul2025 05:21:48.527] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-115, y=104, z=81} BlockPos{x=-122, y=103, z=82}
+[10Jul2025 05:21:48.560] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-115, y=104, z=81} BlockPos{x=-122, y=103, z=79}
+[10Jul2025 05:21:48.611] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-115, y=104, z=81} BlockPos{x=-122, y=103, z=79}
+[10Jul2025 05:21:48.657] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-115, y=104, z=81} BlockPos{x=-122, y=103, z=79}
+[10Jul2025 05:21:48.716] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-115, y=104, z=81} BlockPos{x=-122, y=103, z=79}
+[10Jul2025 05:21:48.762] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-115, y=104, z=81} BlockPos{x=-122, y=103, z=79}
+[10Jul2025 05:21:50.357] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-115, y=104, z=81} BlockPos{x=-128, y=104, z=84}
+[10Jul2025 05:21:50.411] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-115, y=104, z=81} BlockPos{x=-128, y=104, z=84}
+[10Jul2025 05:21:50.459] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-115, y=104, z=81} BlockPos{x=-128, y=104, z=84}
+[10Jul2025 05:21:50.559] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-115, y=104, z=81} BlockPos{x=-129, y=104, z=85}
+[10Jul2025 05:21:51.370] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-115, y=104, z=81} BlockPos{x=-132, y=104, z=85}
+[10Jul2025 05:21:51.414] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-115, y=104, z=81} BlockPos{x=-132, y=104, z=85}
+[10Jul2025 05:21:51.460] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-115, y=104, z=81} BlockPos{x=-132, y=104, z=85}
+[10Jul2025 05:21:51.535] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-115, y=104, z=81} BlockPos{x=-132, y=104, z=85}
+[10Jul2025 05:21:51.616] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-115, y=104, z=81} BlockPos{x=-133, y=104, z=85}
+[10Jul2025 05:21:51.658] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-115, y=104, z=81} BlockPos{x=-133, y=104, z=85}
+[10Jul2025 05:21:51.760] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-115, y=104, z=81} BlockPos{x=-134, y=104, z=85}
+[10Jul2025 05:21:51.815] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-115, y=104, z=81} BlockPos{x=-134, y=104, z=85}
+[10Jul2025 05:21:51.919] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-115, y=104, z=81} BlockPos{x=-135, y=104, z=85}
+[10Jul2025 05:21:52.061] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-115, y=104, z=81} BlockPos{x=-135, y=104, z=85}
+[10Jul2025 05:21:52.261] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-115, y=104, z=81} BlockPos{x=-136, y=104, z=85}
+[10Jul2025 05:21:55.067] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-115, y=104, z=81} BlockPos{x=-140, y=107, z=87}
+[10Jul2025 05:22:00.258] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-115, y=104, z=81} BlockPos{x=-144, y=105, z=84}
+[10Jul2025 05:22:02.757] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-115, y=104, z=81} BlockPos{x=-144, y=105, z=84}
+[10Jul2025 05:22:02.971] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-115, y=104, z=81} BlockPos{x=-144, y=106, z=84}
+[10Jul2025 05:22:03.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported Riuksaky to agustinnfes2]
+[10Jul2025 05:23:08.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps was slain by Bluff
+[10Jul2025 05:23:27.154] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jul2025 05:23:30.603] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BozzNofps lost connection: Timed out
+[10Jul2025 05:23:30.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps left the game
+[10Jul2025 05:24:01.466] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BozzNofps[/127.249.45.252:51655] logged in with entity id 287719 at (-1503.699999988079, 121.0, 1787.1700660921908)
+[10Jul2025 05:24:01.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps joined the game
+[10Jul2025 05:24:01.515] [Server thread/INFO] [Jade/]: Syncing config to BozzNofps (22592360-5cd4-3e8f-9fc0-96977e63922e)
+[10Jul2025 05:24:14.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soficordoba13 was slain by Bluff
+[10Jul2025 05:24:42.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Set the time to 1000]
+[10Jul2025 05:24:43.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soficordoba13 was shot by Stray
+[10Jul2025 05:24:51.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 was slain by Bluff
+[10Jul2025 05:24:53.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps was shot by Stray
+[10Jul2025 05:25:07.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported agustinnfes2 to Riuksaky]
+[10Jul2025 05:25:16.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soficordoba13 was shot by Stray
+[10Jul2025 05:25:16.603] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BozzNofps lost connection: Timed out
+[10Jul2025 05:25:16.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps left the game
+[10Jul2025 05:25:47.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soficordoba13 was shot by Stray
+[10Jul2025 05:25:48.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 was slain by Bluff
+[10Jul2025 05:25:49.016] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BozzNofps[/127.249.45.252:56091] logged in with entity id 289982 at (-1482.5521997571268, 116.0, 1791.573178682136)
+[10Jul2025 05:25:49.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps joined the game
+[10Jul2025 05:25:49.085] [Server thread/INFO] [Jade/]: Syncing config to BozzNofps (22592360-5cd4-3e8f-9fc0-96977e63922e)
+[10Jul2025 05:26:00.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Riuksaky was slain by Bluff
+[10Jul2025 05:26:13.520] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-142, y=102, z=98}
+[10Jul2025 05:26:19.167] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BozzNofps lost connection: Timed out
+[10Jul2025 05:26:19.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps left the game
+[10Jul2025 05:26:47.420] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BozzNofps[/127.249.45.252:57447] logged in with entity id 291434 at (-1482.5521997571268, 116.0, 1791.573178682136)
+[10Jul2025 05:26:47.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps joined the game
+[10Jul2025 05:26:47.492] [Server thread/INFO] [Jade/]: Syncing config to BozzNofps (22592360-5cd4-3e8f-9fc0-96977e63922e)
+[10Jul2025 05:27:03.005] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jul2025 05:27:13.265] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jul2025 05:27:20.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soficordoba13 was slain by Bluff
+[10Jul2025 05:29:15.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Riuksaky> tpame a vos santi
+[10Jul2025 05:29:29.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported Riuksaky to BozzNofps]
+[10Jul2025 05:30:40.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps was slain by Bluff
+[10Jul2025 05:31:07.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soficordoba13 was slain by Bluff
+[10Jul2025 05:31:23.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Riuksaky was slain by Bluff
+[10Jul2025 05:31:29.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 was slain by Bluff
+[10Jul2025 05:31:36.906] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-125, y=113, z=96}
+[10Jul2025 05:31:43.465] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-124, y=112, z=96}
+[10Jul2025 05:31:48.467] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-124, y=112, z=95}
+[10Jul2025 05:31:48.755] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-124, y=113, z=95}
+[10Jul2025 05:31:54.016] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-123, y=113, z=95}
+[10Jul2025 05:31:54.208] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-123, y=113, z=96}
+[10Jul2025 05:31:54.814] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-124, y=112, z=96}
+[10Jul2025 05:31:57.766] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-124, y=112, z=96}
+[10Jul2025 05:32:04.455] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-120, y=113, z=96}
+[10Jul2025 05:32:52.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported BozzNofps to agustinnfes2]
+[10Jul2025 05:32:53.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Riuksaky> io tambien c:
+[10Jul2025 05:33:37.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Riuksaky> esta bien en la entrada
+[10Jul2025 05:33:55.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Riuksaky> tepeame bbto
+[10Jul2025 05:34:06.570] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-135, y=114, z=97}
+[10Jul2025 05:34:25.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported BozzNofps to Soficordoba13]
+[10Jul2025 05:34:28.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 was slain by Bluff
+[10Jul2025 05:34:42.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Set the time to 1000]
+[10Jul2025 05:35:58.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 was slain by Bluff
+[10Jul2025 05:36:14.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported Riuksaky to BozzNofps]
+[10Jul2025 05:36:14.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Riuksaky> tpe
+[10Jul2025 05:37:37.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 was slain by Man From The Fog
+[10Jul2025 05:38:20.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps has made the advancement [Called Your Bluff]
+[10Jul2025 05:38:35.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps was slain by Bluff
+[10Jul2025 05:39:05.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported BozzNofps to Soficordoba13]
+[10Jul2025 05:39:29.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 was slain by Bluff
