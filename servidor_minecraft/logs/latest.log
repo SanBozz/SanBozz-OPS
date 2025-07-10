@@ -1575,3 +1575,24 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [10Jul2025 05:38:35.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps was slain by Bluff
 [10Jul2025 05:39:05.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported BozzNofps to Soficordoba13]
 [10Jul2025 05:39:29.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 was slain by Bluff
+[10Jul2025 05:43:08.573] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jul2025 05:43:28.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soficordoba13 was blown up by agustinnfes2
+[10Jul2025 05:43:44.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Set the time to 1000]
+[10Jul2025 05:43:50.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported Soficordoba13 to agustinnfes2]
+[10Jul2025 05:44:10.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soficordoba13 was blown up by agustinnfes2
+[10Jul2025 05:44:25.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported Soficordoba13 to agustinnfes2]
+[10Jul2025 05:45:15.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 was slain by Tongbi, the Sculptor
+[10Jul2025 05:47:34.562] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jul2025 05:47:34.664] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jul2025 05:47:34.767] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jul2025 05:47:34.864] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jul2025 05:47:34.959] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jul2025 05:47:35.065] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jul2025 05:47:35.165] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jul2025 05:47:35.260] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jul2025 05:47:35.363] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jul2025 05:47:35.468] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jul2025 05:47:35.563] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jul2025 05:47:58.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CaptainSKIPNOTZ> gente, yo me voy, me esta dando sueño
+[10Jul2025 05:48:09.009] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CaptainSKIPNOTZ lost connection: Disconnected
+[10Jul2025 05:48:09.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CaptainSKIPNOTZ left the game
