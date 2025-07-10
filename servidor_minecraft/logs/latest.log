@@ -379,3 +379,74 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [10Jul2025 01:41:21.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kuriron was slain by Hoglin
 [10Jul2025 01:41:22.910] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: angeelcraft lost connection: Timed out
 [10Jul2025 01:41:22.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: angeelcraft left the game
+[10Jul2025 01:41:33.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BozzNofps> lpm
+[10Jul2025 01:41:37.076] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kuriron lost connection: Disconnected
+[10Jul2025 01:41:37.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kuriron left the game
+[10Jul2025 01:41:44.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BozzNofps> decime coord y te tepeo
+[10Jul2025 01:41:47.289] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: angeelcraft[/127.6.39.159:40725] logged in with entity id 57287 at (1.9935158813256326, 62.0, 47.51510042402396)
+[10Jul2025 01:41:47.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: angeelcraft joined the game
+[10Jul2025 01:41:47.328] [Server thread/INFO] [Jade/]: Syncing config to angeelcraft (0e54530b-213d-3a41-96b8-2fb393e04105)
+[10Jul2025 01:44:09.085] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kuriron[/127.115.192.159:33079] logged in with entity id 59343 at (29.01484500266305, 58.0, 65.78764955450025)
+[10Jul2025 01:44:09.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kuriron joined the game
+[10Jul2025 01:44:09.095] [Server thread/INFO] [Jade/]: Syncing config to kuriron (903c2398-d1ce-3306-8154-61a0ecf60720)
+[10Jul2025 01:44:47.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported balda to BozzNofps]
+[10Jul2025 01:45:20.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda has made the advancement [Not the Olympic Type]
+[10Jul2025 01:45:35.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda was doomed to fall by angeelcraft
+[10Jul2025 01:45:48.810] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: angeelcraft lost connection: Disconnected
+[10Jul2025 01:45:48.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: angeelcraft left the game
+[10Jul2025 01:45:52.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kuriron> ya
+[10Jul2025 01:45:59.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported balda to BozzNofps]
+[10Jul2025 01:46:35.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BozzNofps> tenes todo salva?
+[10Jul2025 01:46:39.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kuriron> si
+[10Jul2025 01:46:45.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BozzNofps> dame un seg
+[10Jul2025 01:46:49.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda was slain by Zombie
+[10Jul2025 01:47:10.003] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: balda lost connection: Timed out
+[10Jul2025 01:47:10.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda left the game
+[10Jul2025 01:47:25.607] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: balda[/127.249.45.252:37121] logged in with entity id 62190 at (-123.5, 104.0, 87.5)
+[10Jul2025 01:47:25.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda joined the game
+[10Jul2025 01:47:25.658] [Server thread/INFO] [Jade/]: Syncing config to balda (1cd01936-7653-3a80-b136-98719ff0b8f7)
+[10Jul2025 01:47:26.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps was doomed to fall by Skeleton
+[10Jul2025 01:48:06.081] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/62936, l='ServerLevel[world]', x=290.00, y=-256.00, z=355.81] died, message: 'Unemployed was killed'
+[10Jul2025 01:48:39.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported BozzNofps to 99.500000, -48.000000, 370.500000]
+[10Jul2025 01:48:55.609] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BozzNofps lost connection: Timed out
+[10Jul2025 01:48:55.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps left the game
+[10Jul2025 01:49:30.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda was slain by Zombie
+[10Jul2025 01:49:32.012] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BozzNofps[/127.249.45.252:33549] logged in with entity id 64132 at (99.5, -48.0, 370.5)
+[10Jul2025 01:49:32.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps joined the game
+[10Jul2025 01:49:32.069] [Server thread/INFO] [Jade/]: Syncing config to BozzNofps (22592360-5cd4-3e8f-9fc0-96977e63922e)
+[10Jul2025 01:50:02.116] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BozzNofps lost connection: Timed out
+[10Jul2025 01:50:02.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps left the game
+[10Jul2025 01:50:40.971] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BozzNofps[/127.249.45.252:45309] logged in with entity id 65260 at (99.5, -48.0, 370.5)
+[10Jul2025 01:50:40.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps joined the game
+[10Jul2025 01:50:41.033] [Server thread/INFO] [Jade/]: Syncing config to BozzNofps (22592360-5cd4-3e8f-9fc0-96977e63922e)
+[10Jul2025 01:51:47.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported BozzNofps to Soficordoba13]
+[10Jul2025 01:52:46.078] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/66587, l='ServerLevel[world]', x=337.54, y=-256.00, z=204.88] died, message: 'Unemployed was killed'
+[10Jul2025 01:52:49.078] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/66619, l='ServerLevel[world]', x=284.53, y=-256.00, z=355.43] died, message: 'Unemployed was killed'
+[10Jul2025 01:53:11.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported balda to BozzNofps]
+[10Jul2025 01:53:45.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BozzNofps> ahi voy salva disculpa
+[10Jul2025 01:54:24.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda fell from a high place
+[10Jul2025 01:54:32.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported balda to BozzNofps]
+[10Jul2025 01:54:49.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BozzNofps> te seguimos
+[10Jul2025 01:54:56.384] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: balda lost connection: Timed out
+[10Jul2025 01:54:56.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda left the game
+[10Jul2025 01:55:57.410] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: balda[/127.249.45.252:57651] logged in with entity id 68303 at (107.71873913879698, 66.0, 357.90747230871426)
+[10Jul2025 01:55:57.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda joined the game
+[10Jul2025 01:55:57.442] [Server thread/INFO] [Jade/]: Syncing config to balda (1cd01936-7653-3a80-b136-98719ff0b8f7)
+[10Jul2025 01:58:54.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BozzNofps> joya
+[10Jul2025 01:59:05.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BozzNofps> despues te paso algo de lo q consigamos
+[10Jul2025 01:59:08.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BozzNofps> graciela
+[10Jul2025 01:59:10.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kuriron> oka
+[10Jul2025 01:59:14.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kuriron> nv
+[10Jul2025 01:59:17.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BozzNofps> nv
+[10Jul2025 01:59:58.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps has made the advancement [Those Were the Days]
+[10Jul2025 02:00:04.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soficordoba13 has made the advancement [Those Were the Days]
+[10Jul2025 02:00:06.129] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: agustinnfes2[/127.220.229.95:45585] logged in with entity id 71646 at (-71.17442921610993, 63.5625, 1209.6593228017273)
+[10Jul2025 02:00:06.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 joined the game
+[10Jul2025 02:00:06.141] [Server thread/INFO] [Jade/]: Syncing config to agustinnfes2 (d7072c52-a1ba-3ad3-bd6c-c7ea7e4745b8)
+[10Jul2025 02:00:33.081] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[10Jul2025 02:00:44.613] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@9c57a4d[id=<null>,name=angeelcraft,properties={},legacy=false] (/127.6.39.159:52397) lost connection: Disconnected
+[10Jul2025 02:00:57.978] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[10Jul2025 02:01:16.033] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[10Jul2025 02:01:30.659] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6418c7f8[id=<null>,name=angeelcraft,properties={},legacy=false] (/127.6.39.159:41351) lost connection: Disconnected
+[10Jul2025 02:01:33.398] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2372ms or 47 ticks behind
+[10Jul2025 02:01:51.168] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2791ms or 55 ticks behind

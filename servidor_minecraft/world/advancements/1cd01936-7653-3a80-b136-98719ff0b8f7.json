@@ -4051,5 +4051,11 @@
     },
     "done": true
   },
+  "spartanweaponry:javelin": {
+    "criteria": {
+      "has_javelin": "2025-07-10 01:45:20 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
