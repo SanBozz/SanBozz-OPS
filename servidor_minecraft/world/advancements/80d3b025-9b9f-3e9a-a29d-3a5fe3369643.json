@@ -3656,6 +3656,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-07-10 02:27:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-07-10 01:53:55 +0000"
@@ -3721,6 +3727,12 @@
       "has_glass": "2025-07-10 01:52:52 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:pig": "2025-07-10 02:27:40 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {

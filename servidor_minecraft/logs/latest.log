@@ -538,3 +538,11 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [10Jul2025 02:19:58.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda joined the game
 [10Jul2025 02:19:59.021] [Server thread/INFO] [Jade/]: Syncing config to balda (1cd01936-7653-3a80-b136-98719ff0b8f7)
 [10Jul2025 02:20:49.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soficordoba13 has made the advancement [Who is Cutting Onions?]
+[10Jul2025 02:24:30.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheDoyan was blown up by Creeper
+[10Jul2025 02:27:06.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda was slain by Man From The Fog
+[10Jul2025 02:27:21.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported balda to agustinnfes2]
+[10Jul2025 02:27:40.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheDoyan has made the advancement [The Parrots and the Bats]
+[10Jul2025 02:29:24.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda was slain by Vindicator
+[10Jul2025 02:29:34.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported balda to agustinnfes2]
+[10Jul2025 02:29:56.928] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/109795, l='ServerLevel[world]', x=284.89, y=-256.00, z=328.54] died, message: 'Unemployed was killed'
+[10Jul2025 02:30:56.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda has made the advancement [Surge Protector]

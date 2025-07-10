@@ -4734,6 +4734,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2025-07-10 02:28:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_slab": {
     "criteria": {
       "has_polished_andesite": "2025-07-10 01:32:44 +0000"
@@ -4743,6 +4749,12 @@
   "tconstruct:recipes/decorations/gadgets/punji": {
     "criteria": {
       "has_item": "2025-07-10 00:45:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-07-10 02:28:11 +0000"
     },
     "done": true
   },
@@ -4797,6 +4809,12 @@
   "spartanweaponry:battle_hammer": {
     "criteria": {
       "has_battle_hammer": "2025-07-10 01:12:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-07-10 02:28:11 +0000"
     },
     "done": true
   },
