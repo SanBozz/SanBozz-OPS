@@ -30,15 +30,18 @@
       "minecraft:dark_forest": "2025-07-08 03:58:23 +0000",
       "minecraft:river": "2025-07-07 05:40:04 +0000",
       "minecraft:stony_shore": "2025-07-09 05:12:38 +0000",
+      "minecraft:snowy_plains": "2025-07-10 06:07:25 +0000",
       "minecraft:grove": "2025-07-08 04:01:14 +0000",
       "minecraft:jagged_peaks": "2025-07-10 04:59:22 +0000",
       "minecraft:forest": "2025-07-07 04:12:06 +0000",
       "minecraft:lush_caves": "2025-07-08 03:38:12 +0000",
+      "minecraft:ice_spikes": "2025-07-10 06:01:00 +0000",
       "minecraft:ocean": "2025-07-07 05:38:08 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-07-10 05:55:59 +0000",
       "minecraft:frozen_peaks": "2025-07-10 03:58:04 +0000",
       "minecraft:old_growth_birch_forest": "2025-07-07 04:13:11 +0000",
       "minecraft:deep_dark": "2025-07-08 03:40:49 +0000",
+      "minecraft:meadow": "2025-07-10 06:05:39 +0000",
       "minecraft:plains": "2025-07-07 04:07:05 +0000"
     },
     "done": false
@@ -474,6 +477,7 @@
       "minecraft:witch": "2025-07-10 04:31:17 +0000",
       "minecraft:husk": "2025-07-08 04:05:29 +0000",
       "minecraft:piglin": "2025-07-10 02:05:46 +0000",
+      "minecraft:endermite": "2025-07-10 06:09:28 +0000",
       "minecraft:zombie": "2025-07-07 04:52:51 +0000",
       "minecraft:drowned": "2025-07-07 04:28:06 +0000",
       "minecraft:zombie_villager": "2025-07-10 03:24:39 +0000"

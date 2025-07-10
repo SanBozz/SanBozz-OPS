@@ -1606,3 +1606,79 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [10Jul2025 05:55:12.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported Riuksaky to agustinnfes2]
 [10Jul2025 05:55:53.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Riuksaky has made the advancement [Isn't It Iron Pick]
 [10Jul2025 06:00:04.506] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Riuksaky moved too quickly! 2.084897331448474,-10.172304203141898,0.30717722991403207
+[10Jul2025 06:00:54.324] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! -3.871267916756551,0.0,9.652063999123357
+[10Jul2025 06:00:54.328] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6252ms or 125 ticks behind
+[10Jul2025 06:00:54.492] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! -3.8743705457470696,0.0,9.651342188298713
+[10Jul2025 06:00:54.494] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! -4.023393788535259,0.0,10.022545325034798
+[10Jul2025 06:00:54.495] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! -4.1724172281417395,0.0,10.393748410721173
+[10Jul2025 06:00:54.497] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! -4.321440844884819,0.0,10.764951450463059
+[10Jul2025 06:00:54.498] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! -4.470464621050496,0.0,11.13615444885454
+[10Jul2025 06:00:54.499] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! -4.619488540696693,0.0,11.507357410030863
+[10Jul2025 06:00:54.502] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! -4.768512589475449,0.0,11.878560337713452
+[10Jul2025 06:00:54.504] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! -4.917536754473531,0.0,12.249763235251748
+[10Jul2025 06:00:54.506] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! -5.066561024068733,0.0,12.620966105660273
+[10Jul2025 06:00:54.694] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! -3.874635029500041,0.0,9.651273587928017
+[10Jul2025 06:00:54.696] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! -4.023660099175231,0.0,10.022476250815998
+[10Jul2025 06:00:54.697] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! -4.1726851829801035,0.0,10.39367891003917
+[10Jul2025 06:00:54.698] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! -4.321710279501531,0.0,10.76488156596406
+[10Jul2025 06:00:54.699] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! -4.470735387467812,0.0,11.13608421892036
+[10Jul2025 06:00:54.701] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! -4.619760505734575,0.0,11.507286869205018
+[10Jul2025 06:00:54.702] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! -4.768785633271591,0.0,11.8784895170852
+[10Jul2025 06:00:54.703] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! -4.917810769152084,0.0,12.249692162801239
+[10Jul2025 06:00:54.713] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! -5.066835912541592,0.0,12.620894806569595
+[10Jul2025 06:00:54.716] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! -5.2158610626891,0.0,12.992097448585127
+[10Jul2025 06:00:55.330] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! 9.984384775545095,0.0,-24.870654901176295
+[10Jul2025 06:00:55.331] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! 9.835359571969093,0.0,-24.499452273018733
+[10Jul2025 06:00:55.333] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! 9.686334367653672,0.0,-24.128249645052847
+[10Jul2025 06:00:55.335] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! 9.537309162672727,0.0,-23.757047017259765
+[10Jul2025 06:00:55.336] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! 9.38828395709288,0.0,-23.38584438962198
+[10Jul2025 06:00:55.336] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! 6.259037253899351,0.0,-15.590515906335668
+[10Jul2025 06:00:55.336] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! 6.259037253899351,0.0,-15.590515906335668
+[10Jul2025 06:00:55.337] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! 6.259037253899351,0.0,-15.590515906335668
+[10Jul2025 06:00:55.338] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! 6.259037253899351,0.0,-15.590515906335668
+[10Jul2025 06:00:55.338] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! 6.259037253899351,0.0,-15.590515906335668
+[10Jul2025 06:00:55.339] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! 6.259037253899351,0.0,-15.590515906335668
+[10Jul2025 06:00:55.339] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! 6.259037253899351,0.0,-15.590515906335668
+[10Jul2025 06:00:55.339] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! 6.259037253899351,0.0,-15.590515906335668
+[10Jul2025 06:00:55.340] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! 6.110012047780401,0.0,-15.219313278837717
+[10Jul2025 06:00:55.342] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! 5.960986841176236,0.0,-14.848110651465504
+[10Jul2025 06:00:55.344] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! 5.811961634135514,0.0,-14.476908024206523
+[10Jul2025 06:00:55.344] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! 6.259037253899351,0.0,-15.590515906335668
+[10Jul2025 06:00:55.344] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! 6.110012046465499,0.0,-15.219313279178778
+[10Jul2025 06:00:55.345] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! 5.960986838678082,0.0,-14.848110652113519
+[10Jul2025 06:00:55.346] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! 5.811961630572341,0.0,-14.476908025130797
+[10Jul2025 06:00:55.347] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! 5.66293642218011,0.0,-14.105705398222426
+[10Jul2025 06:00:55.348] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! 5.5145611621344415,0.0,-13.734248401108744
+[10Jul2025 06:00:55.349] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! 5.3680182727669035,0.0,-13.362110324882224
+[10Jul2025 06:00:55.349] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! 5.224929970527228,0.0,-12.988785981370484
+[10Jul2025 06:00:55.350] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! 5.087274235965197,0.0,-12.613791364569352
+[10Jul2025 06:00:55.351] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! 4.9566249645090465,0.0,-12.2368714264569
+[10Jul2025 06:00:55.433] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! 6.622507443884615,0.0,-16.31236841107716
+[10Jul2025 06:00:55.434] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! 6.509237849380725,0.0,-15.931446963693816
+[10Jul2025 06:00:55.497] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! 4.32172962214554,0.0,-10.764876548973461
+[10Jul2025 06:00:55.497] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! 4.32172962214554,0.0,-10.764876548973461
+[10Jul2025 06:00:55.497] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! 4.32172962214554,0.0,-10.764876548973461
+[10Jul2025 06:00:55.497] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! 4.32172962214554,0.0,-10.764876548973461
+[10Jul2025 06:00:55.497] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! 4.32172962214554,0.0,-10.764876548973461
+[10Jul2025 06:00:55.497] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! 4.32172962214554,0.0,-10.764876548973461
+[10Jul2025 06:00:55.497] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! 4.32172962214554,0.0,-10.764876548973461
+[10Jul2025 06:00:55.497] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! 4.32172962214554,0.0,-10.764876548973461
+[10Jul2025 06:00:55.497] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! 4.32172962214554,0.0,-10.764876548973461
+[10Jul2025 06:00:55.497] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! 4.32172962214554,0.0,-10.764876548973461
+[10Jul2025 06:00:55.498] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! 4.206358346446905,0.0,-10.384368726833145
+[10Jul2025 06:00:55.505] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! 4.0904403074268885,0.0,-10.00378061168567
+[10Jul2025 06:00:55.572] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! 3.975249813534674,0.0,-9.622754983021196
+[10Jul2025 06:00:55.611] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved too quickly! 3.8618256884367383,0.0,-9.241039077720416
+[10Jul2025 06:01:12.610] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3283ms or 65 ticks behind
+[10Jul2025 06:04:27.883] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved wrongly! 0.5722505710518817
+[10Jul2025 06:04:27.884] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved wrongly! 0.35962409842682064
+[10Jul2025 06:05:20.622] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of agustinnfes2) moved wrongly! 0.35547440667778574
+[10Jul2025 06:06:03.810] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved wrongly! 0.3960912577164635
+[10Jul2025 06:06:03.857] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved wrongly! 0.7195087419901967
+[10Jul2025 06:06:03.955] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved wrongly! 0.9707623884485486
+[10Jul2025 06:06:03.956] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved wrongly! 1.356344417383795
+[10Jul2025 06:07:11.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Set the time to 1000]
+[10Jul2025 06:07:17.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported BozzNofps to agustinnfes2]
+[10Jul2025 06:07:36.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported Soficordoba13 to BozzNofps]
+[10Jul2025 06:07:36.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soficordoba13 burned to death
+[10Jul2025 06:07:48.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported Soficordoba13 to BozzNofps]
