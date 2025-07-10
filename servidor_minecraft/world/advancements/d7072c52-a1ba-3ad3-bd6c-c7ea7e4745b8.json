@@ -5033,9 +5033,21 @@
     },
     "done": true
   },
+  "mowziesmobs:kill_bluff": {
+    "criteria": {
+      "bluff": "2025-07-10 04:35:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_slab_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-07-10 04:26:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/walk_on_powder_snow_with_leather_boots": {
+    "criteria": {
+      "walk_on_powder_snow_with_leather_boots": "2025-07-10 04:41:21 +0000"
     },
     "done": true
   },
@@ -5072,6 +5084,12 @@
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-07-10 04:26:31 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:javelin": {
+    "criteria": {
+      "has_javelin": "2025-07-10 04:41:04 +0000"
     },
     "done": true
   },

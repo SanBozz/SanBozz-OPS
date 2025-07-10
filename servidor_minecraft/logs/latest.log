@@ -1260,3 +1260,25 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [10Jul2025 04:35:55.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 has made the advancement [Called Your Bluff]
 [10Jul2025 04:36:16.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 was slain by Bluff
 [10Jul2025 04:36:42.370] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-815, y=129, z=1978} BlockPos{x=-814, y=128, z=1976}
+[10Jul2025 04:41:04.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 has made the advancement [Not the Olympic Type]
+[10Jul2025 04:41:21.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 has made the advancement [Light as a Rabbit]
+[10Jul2025 04:41:28.495] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-802, y=137, z=1944} BlockPos{x=-803, y=136, z=1944}
+[10Jul2025 04:41:41.968] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-813, y=137, z=1945} BlockPos{x=-813, y=136, z=1945}
+[10Jul2025 04:41:42.024] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-813, y=137, z=1945} BlockPos{x=-813, y=136, z=1945}
+[10Jul2025 04:43:21.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda was blown up by Creeper
+[10Jul2025 04:43:35.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported balda to BozzNofps]
+[10Jul2025 04:44:50.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Riuksaky> hagan tp
+[10Jul2025 04:45:00.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda was slain by Man From The Fog
+[10Jul2025 04:45:05.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported balda to BozzNofps]
+[10Jul2025 04:45:12.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported Riuksaky to BozzNofps]
+[10Jul2025 04:45:22.168] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: balda lost connection: Timed out
+[10Jul2025 04:45:22.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda left the game
+[10Jul2025 04:45:33.818] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: balda[/127.249.45.252:46333] logged in with entity id 246461 at (-1132.699999988079, 96.0, 1932.300000011921)
+[10Jul2025 04:45:33.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda joined the game
+[10Jul2025 04:45:33.881] [Server thread/INFO] [Jade/]: Syncing config to balda (1cd01936-7653-3a80-b136-98719ff0b8f7)
+[10Jul2025 04:47:21.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps was slain by Man From The Fog
+[10Jul2025 04:47:37.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported BozzNofps to Soficordoba13]
+[10Jul2025 04:47:51.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps was blown up by Creeper
+[10Jul2025 04:48:05.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported BozzNofps to Soficordoba13]
+[10Jul2025 04:48:10.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Set the time to 1000]
+[10Jul2025 04:48:25.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soficordoba13 was shot by Skeleton

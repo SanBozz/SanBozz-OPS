@@ -4795,6 +4795,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_cobblestone_slab_from_reinforced_cobblestone_stonecutting": {
+    "criteria": {
+      "has_reinforced_cobblestone": "2025-07-10 04:40:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-07-10 04:20:48 +0000"
@@ -4822,6 +4828,12 @@
   "spartanweaponry:recipes/combat/netherite_javelin_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-07-10 03:15:19 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/retinal_scanner": {
+    "criteria": {
+      "has_stone": "2025-07-10 04:40:30 +0000"
     },
     "done": true
   },
@@ -4870,6 +4882,12 @@
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2025-07-10 02:36:31 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_cobblestone_stairs": {
+    "criteria": {
+      "has_block": "2025-07-10 04:40:30 +0000"
     },
     "done": true
   },
@@ -5059,6 +5077,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_cobblestone_wall_from_reinforced_cobblestone_stonecutting": {
+    "criteria": {
+      "has_reinforced_cobblestone": "2025-07-10 04:40:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/netherite_boots_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-07-10 03:15:19 +0000"
@@ -5086,6 +5110,12 @@
   "securitycraft:recipes/redstone/reinforced_stone_button": {
     "criteria": {
       "has_block": "2025-07-10 04:24:03 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_stone": {
+    "criteria": {
+      "has_item": "2025-07-10 04:40:30 +0000"
     },
     "done": true
   },
@@ -5203,6 +5233,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/decorations/reinforced_cobblestone_wall": {
+    "criteria": {
+      "has_block": "2025-07-10 04:40:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_slab": {
     "criteria": {
       "has_polished_andesite": "2025-07-10 01:32:44 +0000"
@@ -5218,6 +5254,12 @@
   "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-07-10 04:20:48 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/keycard_reader": {
+    "criteria": {
+      "has_stone": "2025-07-10 04:40:30 +0000"
     },
     "done": true
   },
@@ -5269,6 +5311,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_cobblestone_slab": {
+    "criteria": {
+      "has_block": "2025-07-10 04:40:30 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/combat/netherite_heavy_crossbow_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-07-10 03:15:19 +0000"
@@ -5314,6 +5362,12 @@
   "minecraft:recipes/building_blocks/polished_basalt": {
     "criteria": {
       "has_basalt": "2025-07-10 02:28:11 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/inventory_scanner": {
+    "criteria": {
+      "has_stone": "2025-07-10 04:40:30 +0000"
     },
     "done": true
   },
@@ -5506,6 +5560,12 @@
   "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-07-10 03:10:59 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_cobblestone_stairs_from_reinforced_cobblestone_stonecutting": {
+    "criteria": {
+      "has_reinforced_cobblestone": "2025-07-10 04:40:30 +0000"
     },
     "done": true
   },
@@ -5788,6 +5848,12 @@
   "spartanweaponry:recipes/combat/netherite_longbow_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-07-10 03:15:19 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_lever": {
+    "criteria": {
+      "has_cobble": "2025-07-10 04:40:30 +0000"
     },
     "done": true
   },
