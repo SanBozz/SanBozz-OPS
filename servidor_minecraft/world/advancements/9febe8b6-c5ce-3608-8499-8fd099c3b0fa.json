@@ -30,6 +30,7 @@
       "minecraft:river": "2025-07-07 05:40:04 +0000",
       "minecraft:stony_shore": "2025-07-09 05:12:38 +0000",
       "minecraft:grove": "2025-07-08 04:01:14 +0000",
+      "minecraft:jagged_peaks": "2025-07-10 04:59:22 +0000",
       "minecraft:forest": "2025-07-07 04:12:06 +0000",
       "minecraft:lush_caves": "2025-07-08 03:38:12 +0000",
       "minecraft:ocean": "2025-07-07 05:38:08 +0000",
@@ -3983,6 +3984,12 @@
     },
     "done": true
   },
+  "mowziesmobs:kill_bluff": {
+    "criteria": {
+      "bluff": "2025-07-10 05:07:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blackstone_stairs": {
     "criteria": {
       "has_blackstone": "2025-07-10 02:02:08 +0000"
@@ -3998,6 +4005,12 @@
   "minecraft:recipes/redstone/spruce_pressure_plate": {
     "criteria": {
       "has_planks": "2025-07-10 01:12:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/walk_on_powder_snow_with_leather_boots": {
+    "criteria": {
+      "walk_on_powder_snow_with_leather_boots": "2025-07-10 04:59:03 +0000"
     },
     "done": true
   },
@@ -4216,6 +4229,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone": {
     "criteria": {
       "has_blackstone": "2025-07-10 02:02:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-07-10 05:06:42 +0000"
     },
     "done": true
   },

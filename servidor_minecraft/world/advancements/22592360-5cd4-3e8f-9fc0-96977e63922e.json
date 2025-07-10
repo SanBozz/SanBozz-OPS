@@ -30,6 +30,7 @@
       "minecraft:river": "2025-07-08 03:01:38 +0000",
       "minecraft:stony_shore": "2025-07-09 07:10:08 +0000",
       "minecraft:grove": "2025-07-10 03:55:51 +0000",
+      "minecraft:jagged_peaks": "2025-07-10 04:59:31 +0000",
       "minecraft:forest": "2025-07-07 06:09:11 +0000",
       "minecraft:lush_caves": "2025-07-08 03:35:22 +0000",
       "minecraft:ocean": "2025-07-09 04:20:58 +0000",
@@ -6247,6 +6248,24 @@
   "dungeons_arise:find_small_blimp": {
     "criteria": {
       "location0": "2025-07-10 04:37:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/walk_on_powder_snow_with_leather_boots": {
+    "criteria": {
+      "walk_on_powder_snow_with_leather_boots": "2025-07-10 04:58:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2025-07-10 05:01:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-07-10 05:06:03 +0000"
     },
     "done": true
   },

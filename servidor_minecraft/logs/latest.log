@@ -1330,3 +1330,127 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [10Jul2025 04:58:26.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Riuksaky froze to death
 [10Jul2025 04:58:31.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Soficordoba13> AJSJDAJSDA
 [10Jul2025 04:58:33.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported Riuksaky to BozzNofps]
+[10Jul2025 04:58:54.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps has made the advancement [Light as a Rabbit]
+[10Jul2025 04:59:03.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soficordoba13 has made the advancement [Light as a Rabbit]
+[10Jul2025 04:59:09.947] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: balda lost connection: Disconnected
+[10Jul2025 04:59:09.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda left the game
+[10Jul2025 04:59:44.270] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1516, y=127, z=1792} BlockPos{x=-1516, y=126, z=1793}
+[10Jul2025 04:59:44.312] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1516, y=127, z=1792} BlockPos{x=-1516, y=126, z=1793}
+[10Jul2025 04:59:44.374] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1516, y=127, z=1792} BlockPos{x=-1516, y=126, z=1793}
+[10Jul2025 04:59:44.404] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1516, y=127, z=1792} BlockPos{x=-1516, y=126, z=1793}
+[10Jul2025 04:59:44.473] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1516, y=127, z=1792} BlockPos{x=-1516, y=126, z=1793}
+[10Jul2025 04:59:44.509] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1516, y=127, z=1792} BlockPos{x=-1516, y=126, z=1793}
+[10Jul2025 05:00:35.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps was slain by Bluff
+[10Jul2025 05:00:49.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported BozzNofps to agustinnfes2]
+[10Jul2025 05:00:49.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps was slain by Bluff
+[10Jul2025 05:00:51.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 was slain by Bluff
+[10Jul2025 05:00:56.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Riuksaky was slain by Bluff
+[10Jul2025 05:01:01.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soficordoba13 was slain by Bluff
+[10Jul2025 05:01:25.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soficordoba13 was blown up by Creeper
+[10Jul2025 05:01:34.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps was shot by Skeleton
+[10Jul2025 05:01:50.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Riuksaky> TPA BBTOS
+[10Jul2025 05:01:54.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps was shot by Skeleton
+[10Jul2025 05:01:57.105] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-140, y=107, z=87}
+[10Jul2025 05:01:58.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Riuksaky> bbtitos
+[10Jul2025 05:02:02.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soficordoba13 was slain by Zombie
+[10Jul2025 05:02:12.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Riuksaky> bbtoide
+[10Jul2025 05:02:17.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported Soficordoba13 to BozzNofps]
+[10Jul2025 05:02:20.228] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/264590, l='ServerLevel[world]', x=258.44, y=-256.00, z=359.74] died, message: 'Unemployed was killed'
+[10Jul2025 05:02:33.304] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BozzNofps lost connection: Timed out
+[10Jul2025 05:02:33.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps left the game
+[10Jul2025 05:02:41.758] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-134, y=113, z=97}
+[10Jul2025 05:02:45.218] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-134, y=113, z=98}
+[10Jul2025 05:02:45.253] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-133, y=113, z=98}
+[10Jul2025 05:02:45.320] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-134, y=112, z=99}
+[10Jul2025 05:03:14.322] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BozzNofps[/127.249.45.252:46385] logged in with entity id 265085 at (-130.90419956480733, 114.0, 98.04701576174254)
+[10Jul2025 05:03:14.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps joined the game
+[10Jul2025 05:03:14.384] [Server thread/INFO] [Jade/]: Syncing config to BozzNofps (22592360-5cd4-3e8f-9fc0-96977e63922e)
+[10Jul2025 05:03:28.220] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-142, y=105, z=89}
+[10Jul2025 05:03:28.554] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-143, y=106, z=89}
+[10Jul2025 05:03:29.419] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-144, y=105, z=88}
+[10Jul2025 05:03:47.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soficordoba13 was shot by Skeleton
+[10Jul2025 05:03:49.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported Soficordoba13 to BozzNofps]
+[10Jul2025 05:04:37.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Riuksaky> un pt
+[10Jul2025 05:04:42.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Riuksaky> digo tp
+[10Jul2025 05:05:00.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Set the time to 1000]
+[10Jul2025 05:05:16.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported BozzNofps to -1528.500000, 157.000000, 1756.500000]
+[10Jul2025 05:05:23.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Riuksaky> a agus le gusta comer pepitos
+[10Jul2025 05:05:26.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported agustinnfes2 to BozzNofps]
+[10Jul2025 05:05:31.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported Soficordoba13 to BozzNofps]
+[10Jul2025 05:05:37.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported Riuksaky to BozzNofps]
+[10Jul2025 05:05:37.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Riuksaky> tp plis
+[10Jul2025 05:05:40.743] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CaptainSKIPNOTZ lost connection: Disconnected
+[10Jul2025 05:05:40.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CaptainSKIPNOTZ left the game
+[10Jul2025 05:06:03.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps has made the advancement [Getting an Upgrade]
+[10Jul2025 05:06:42.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soficordoba13 has made the advancement [Getting an Upgrade]
+[10Jul2025 05:07:19.097] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: agustinnfes2 lost connection: Disconnected
+[10Jul2025 05:07:19.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 left the game
+[10Jul2025 05:07:24.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps was slain by Bluff
+[10Jul2025 05:07:26.754] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: agustinnfes2[/127.220.229.95:45111] logged in with entity id 267055 at (-1540.2773603179312, 162.0, 1750.2045633881457)
+[10Jul2025 05:07:26.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 joined the game
+[10Jul2025 05:07:26.807] [Server thread/INFO] [Jade/]: Syncing config to agustinnfes2 (d7072c52-a1ba-3ad3-bd6c-c7ea7e4745b8)
+[10Jul2025 05:07:29.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soficordoba13 has made the advancement [Called Your Bluff]
+[10Jul2025 05:07:31.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soficordoba13 was slain by Bluff
+[10Jul2025 05:07:44.909] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BozzNofps lost connection: Timed out
+[10Jul2025 05:07:44.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps left the game
+[10Jul2025 05:08:14.110] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BozzNofps[/127.249.45.252:46519] logged in with entity id 267772 at (-1549.699999988079, 174.0, 1751.6706412800195)
+[10Jul2025 05:08:14.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps joined the game
+[10Jul2025 05:08:14.169] [Server thread/INFO] [Jade/]: Syncing config to BozzNofps (22592360-5cd4-3e8f-9fc0-96977e63922e)
+[10Jul2025 05:08:38.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps was slain by Bluff
+[10Jul2025 05:08:38.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Riuksaky has made the advancement [Called Your Bluff]
+[10Jul2025 05:08:40.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Riuksaky was slain by Bluff
+[10Jul2025 05:09:28.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 was slain by Bluff
+[10Jul2025 05:09:38.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported Soficordoba13 to BozzNofps]
+[10Jul2025 05:09:49.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps was slain by Bluff
+[10Jul2025 05:10:14.695] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jul2025 05:10:14.800] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jul2025 05:10:14.899] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jul2025 05:10:15.002] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jul2025 05:10:15.100] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jul2025 05:10:15.196] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jul2025 05:10:15.295] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jul2025 05:10:15.395] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jul2025 05:10:15.496] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[10Jul2025 05:10:25.648] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1547, y=173, z=1748} BlockPos{x=-1549, y=175, z=1753}
+[10Jul2025 05:10:30.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Riuksaky was slain by Bluff
+[10Jul2025 05:10:41.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 was slain by Bluff
+[10Jul2025 05:10:41.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soficordoba13 was slain by Bluff
+[10Jul2025 05:10:49.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Riuksaky was slain by Bluff
+[10Jul2025 05:10:49.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 was slain by Bluff
+[10Jul2025 05:11:00.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 was slain by Bluff
+[10Jul2025 05:11:25.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported Soficordoba13 to BozzNofps]
+[10Jul2025 05:11:51.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Riuksaky was slain by agustinnfes2
+[10Jul2025 05:12:11.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 was slain by Bluff
+[10Jul2025 05:12:15.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Riuksaky was slain by Bluff
+[10Jul2025 05:12:22.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 was slain by Bluff
+[10Jul2025 05:12:25.458] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CaptainSKIPNOTZ[/127.204.29.74:33207] logged in with entity id 271912 at (276.20222547578544, 33.0, 329.1581890487451)
+[10Jul2025 05:12:25.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CaptainSKIPNOTZ joined the game
+[10Jul2025 05:12:25.470] [Server thread/INFO] [Jade/]: Syncing config to CaptainSKIPNOTZ (816dd210-63fc-3b2d-9e26-aa9a5eaf0da6)
+[10Jul2025 05:13:41.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Riuksaky was slain by Bluff
+[10Jul2025 05:14:06.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 was slain by Bluff
+[10Jul2025 05:14:07.265] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-143, y=103, z=103}
+[10Jul2025 05:14:07.416] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-143, y=104, z=103}
+[10Jul2025 05:14:08.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported Soficordoba13 to BozzNofps]
+[10Jul2025 05:14:29.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 was slain by Bluff
+[10Jul2025 05:14:44.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps was slain by Bluff
+[10Jul2025 05:15:04.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps was slain by Bluff
+[10Jul2025 05:15:04.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 was slain by Bluff
+[10Jul2025 05:15:11.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soficordoba13 was slain by Bluff
+[10Jul2025 05:15:18.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Set the time to 1000]
+[10Jul2025 05:15:29.936] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BozzNofps lost connection: Timed out
+[10Jul2025 05:15:29.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps left the game
+[10Jul2025 05:15:34.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 was slain by Bluff
+[10Jul2025 05:15:39.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 was slain by Bluff
+[10Jul2025 05:15:52.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 was slain by Bluff
+[10Jul2025 05:15:59.839] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BozzNofps[/127.249.45.252:39151] logged in with entity id 277045 at (-1519.895351364982, 148.0, 1762.80082733169)
+[10Jul2025 05:15:59.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps joined the game
+[10Jul2025 05:15:59.906] [Server thread/INFO] [Jade/]: Syncing config to BozzNofps (22592360-5cd4-3e8f-9fc0-96977e63922e)
+[10Jul2025 05:16:22.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Riuksaky> tp
+[10Jul2025 05:16:47.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps was slain by Bluff
+[10Jul2025 05:17:53.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Riuksaky was slain by Man From The Fog
+[10Jul2025 05:18:37.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soficordoba13 was shot by Skeleton
+[10Jul2025 05:18:49.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soficordoba13 was shot by Skeleton
+[10Jul2025 05:18:50.952] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-1499, y=121, z=1783}
+[10Jul2025 05:19:00.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soficordoba13 was shot by Skeleton
+[10Jul2025 05:19:11.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soficordoba13 was shot by Skeleton
+[10Jul2025 05:19:16.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported Soficordoba13 to BozzNofps]
