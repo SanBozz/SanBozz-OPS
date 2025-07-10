@@ -3537,7 +3537,8 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:crimson_forest": "2025-07-10 01:38:47 +0000"
+      "minecraft:crimson_forest": "2025-07-10 01:38:47 +0000",
+      "minecraft:soul_sand_valley": "2025-07-10 02:12:53 +0000"
     },
     "done": false
   },
@@ -3802,6 +3803,12 @@
   "securitycraft:recipes/decorations/reinforced_green_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-07-10 01:52:52 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2025-07-10 02:13:11 +0000"
     },
     "done": true
   },

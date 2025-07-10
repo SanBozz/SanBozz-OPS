@@ -503,3 +503,38 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [10Jul2025 02:12:04.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheDoyan was slain by Man From The Fog
 [10Jul2025 02:12:12.806] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CaptainSKIPNOTZ moved too quickly! 0.29594081265298655,7.0,7.2075480882670035
 [10Jul2025 02:12:21.827] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2350ms or 47 ticks behind
+[10Jul2025 02:12:53.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported TheDoyan to 340.500000, 67.000000, 607.500000]
+[10Jul2025 02:12:53.193] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2716ms or 54 ticks behind
+[10Jul2025 02:12:53.733] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved too quickly! -7.268834123955145,0.0,-7.395112255499498
+[10Jul2025 02:12:53.735] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved too quickly! -7.556585119745023,0.0,-7.672586934014134
+[10Jul2025 02:12:53.735] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved too quickly! -7.844728467510436,0.0,-7.949686738572382
+[10Jul2025 02:12:53.737] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved too quickly! -8.133238050654256,0.0,-8.22643516997664
+[10Jul2025 02:13:11.547] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3370ms or 67 ticks behind
+[10Jul2025 02:13:11.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheDoyan has made the advancement [Nightmare Fuel]
+[10Jul2025 02:13:14.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheDoyan was slain by Crimson Mosquito
+[10Jul2025 02:14:00.680] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[10Jul2025 02:14:16.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda has made the advancement [You Are A Pirate]
+[10Jul2025 02:14:44.317] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: angeelcraft lost connection: Disconnected
+[10Jul2025 02:14:44.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: angeelcraft left the game
+[10Jul2025 02:15:37.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 was slain by Vindicator
+[10Jul2025 02:15:42.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda was slain by Vindicator
+[10Jul2025 02:16:09.012] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: agustinnfes2 lost connection: Timed out
+[10Jul2025 02:16:09.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 left the game
+[10Jul2025 02:16:31.166] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: agustinnfes2[/127.220.229.95:59985] logged in with entity id 95113 at (2.736483461723032, 62.23571554907254, 1148.975532521663)
+[10Jul2025 02:16:31.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 joined the game
+[10Jul2025 02:16:31.176] [Server thread/INFO] [Jade/]: Syncing config to agustinnfes2 (d7072c52-a1ba-3ad3-bd6c-c7ea7e4745b8)
+[10Jul2025 02:16:39.265] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kuriron lost connection: Disconnected
+[10Jul2025 02:16:39.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kuriron left the game
+[10Jul2025 02:17:49.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported balda to agustinnfes2]
+[10Jul2025 02:18:17.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda drowned
+[10Jul2025 02:18:17.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported balda to agustinnfes2]
+[10Jul2025 02:18:18.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soficordoba13 was slain by Piglin Brute
+[10Jul2025 02:18:19.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported Soficordoba13 to BozzNofps]
+[10Jul2025 02:18:32.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported Soficordoba13 to BozzNofps]
+[10Jul2025 02:19:26.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported balda to agustinnfes2]
+[10Jul2025 02:19:45.110] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: balda lost connection: Timed out
+[10Jul2025 02:19:45.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda left the game
+[10Jul2025 02:19:58.970] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: balda[/127.249.45.252:53693] logged in with entity id 98517 at (78.6865041037797, 64.0, 1073.9347622818743)
+[10Jul2025 02:19:58.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda joined the game
+[10Jul2025 02:19:59.021] [Server thread/INFO] [Jade/]: Syncing config to balda (1cd01936-7653-3a80-b136-98719ff0b8f7)
+[10Jul2025 02:20:49.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soficordoba13 has made the advancement [Who is Cutting Onions?]
