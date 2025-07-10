@@ -19,12 +19,14 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2025-07-10 04:45:12 +0000",
       "minecraft:cherry_grove": "2025-07-08 02:45:31 +0000",
       "minecraft:birch_forest": "2025-07-08 03:17:01 +0000",
       "minecraft:beach": "2025-07-08 02:46:43 +0000",
       "minecraft:dark_forest": "2025-07-08 03:56:05 +0000",
       "minecraft:river": "2025-07-08 02:48:26 +0000",
       "minecraft:dripstone_caves": "2025-07-08 03:48:11 +0000",
+      "minecraft:grove": "2025-07-10 04:54:04 +0000",
       "minecraft:forest": "2025-07-08 02:48:05 +0000",
       "minecraft:lush_caves": "2025-07-10 03:46:44 +0000",
       "minecraft:old_growth_birch_forest": "2025-07-08 02:46:54 +0000",
@@ -1530,6 +1532,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-07-10 04:54:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2025-07-10 04:09:14 +0000"
@@ -1611,6 +1619,12 @@
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2025-07-10 03:51:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-07-10 04:50:08 +0000"
     },
     "done": true
   },
@@ -2268,6 +2282,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-07-10 04:50:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/diorite_wall": {
     "criteria": {
       "has_diorite": "2025-07-10 03:44:01 +0000"
@@ -2559,6 +2579,12 @@
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2025-07-10 03:51:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-07-10 04:54:35 +0000"
     },
     "done": true
   },

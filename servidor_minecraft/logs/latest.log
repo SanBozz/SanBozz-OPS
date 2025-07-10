@@ -1282,3 +1282,51 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [10Jul2025 04:48:05.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported BozzNofps to Soficordoba13]
 [10Jul2025 04:48:10.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Set the time to 1000]
 [10Jul2025 04:48:25.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soficordoba13 was shot by Skeleton
+[10Jul2025 04:48:36.387] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2361ms or 47 ticks behind
+[10Jul2025 04:48:37.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda was slain by Zombie
+[10Jul2025 04:48:56.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported Soficordoba13 to BozzNofps]
+[10Jul2025 04:49:04.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported balda to BozzNofps]
+[10Jul2025 04:49:07.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Riuksaky was slain by Man From The Fog
+[10Jul2025 04:49:19.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Riuksaky> SJJSJSJ
+[10Jul2025 04:49:25.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Soficordoba13> ASJDJASJDA
+[10Jul2025 04:49:30.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Riuksaky> que bicho molesto
+[10Jul2025 04:49:39.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Riuksaky> encima el escudo no sirve
+[10Jul2025 04:49:45.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Riuksaky> tpa
+[10Jul2025 04:49:50.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Riuksaky> plox
+[10Jul2025 04:49:58.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported Riuksaky to BozzNofps]
+[10Jul2025 04:50:13.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Soficordoba13> AQUI
+[10Jul2025 04:52:43.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps was slain by Man From The Fog
+[10Jul2025 04:52:56.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported BozzNofps to Soficordoba13]
+[10Jul2025 04:53:03.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Riuksaky> MONO SACA ESE BICHO XD NI EL ESCUDO LE PARA
+[10Jul2025 04:53:13.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kuriron> primera vez?
+[10Jul2025 04:54:46.749] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1513, y=128, z=1777} BlockPos{x=-1514, y=127, z=1777}
+[10Jul2025 04:54:46.800] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1513, y=128, z=1777} BlockPos{x=-1514, y=127, z=1777}
+[10Jul2025 04:54:48.114] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1516, y=130, z=1776} BlockPos{x=-1515, y=130, z=1775}
+[10Jul2025 04:55:05.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 was slain by Man From The Fog
+[10Jul2025 04:55:15.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported agustinnfes2 to BozzNofps]
+[10Jul2025 04:56:55.122] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1497, y=122, z=1786} BlockPos{x=-1496, y=123, z=1786}
+[10Jul2025 04:56:55.173] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1497, y=122, z=1786} BlockPos{x=-1496, y=123, z=1786}
+[10Jul2025 04:56:55.222] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1497, y=122, z=1786} BlockPos{x=-1496, y=123, z=1786}
+[10Jul2025 04:56:55.269] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1497, y=122, z=1786} BlockPos{x=-1496, y=123, z=1786}
+[10Jul2025 04:57:19.112] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1521, y=134, z=1791} BlockPos{x=-1520, y=133, z=1791}
+[10Jul2025 04:57:51.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Riuksaky has made the advancement [Take Aim]
+[10Jul2025 04:58:00.904] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1516, y=127, z=1794} BlockPos{x=-1515, y=127, z=1795}
+[10Jul2025 04:58:00.920] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1516, y=127, z=1794} BlockPos{x=-1515, y=127, z=1795}
+[10Jul2025 04:58:00.971] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1516, y=127, z=1794} BlockPos{x=-1515, y=127, z=1795}
+[10Jul2025 04:58:01.025] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1517, y=127, z=1794} BlockPos{x=-1515, y=127, z=1795}
+[10Jul2025 04:58:01.071] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1517, y=127, z=1794} BlockPos{x=-1515, y=127, z=1795}
+[10Jul2025 04:58:01.122] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1517, y=127, z=1794} BlockPos{x=-1515, y=127, z=1795}
+[10Jul2025 04:58:01.171] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1517, y=127, z=1794} BlockPos{x=-1515, y=127, z=1795}
+[10Jul2025 04:58:01.223] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1517, y=127, z=1794} BlockPos{x=-1515, y=127, z=1795}
+[10Jul2025 04:58:01.271] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1517, y=127, z=1794} BlockPos{x=-1515, y=127, z=1795}
+[10Jul2025 04:58:01.323] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1517, y=127, z=1794} BlockPos{x=-1515, y=127, z=1795}
+[10Jul2025 04:58:01.371] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1517, y=127, z=1794} BlockPos{x=-1515, y=127, z=1795}
+[10Jul2025 04:58:01.422] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1517, y=127, z=1794} BlockPos{x=-1515, y=127, z=1795}
+[10Jul2025 04:58:01.471] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1517, y=127, z=1794} BlockPos{x=-1515, y=127, z=1795}
+[10Jul2025 04:58:01.523] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1517, y=127, z=1794} BlockPos{x=-1515, y=127, z=1795}
+[10Jul2025 04:58:01.573] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1517, y=127, z=1794} BlockPos{x=-1515, y=127, z=1795}
+[10Jul2025 04:58:01.624] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1517, y=127, z=1794} BlockPos{x=-1515, y=127, z=1795}
+[10Jul2025 04:58:01.673] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1517, y=127, z=1794} BlockPos{x=-1515, y=127, z=1795}
+[10Jul2025 04:58:26.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Riuksaky froze to death
+[10Jul2025 04:58:31.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Soficordoba13> AJSJDAJSDA
+[10Jul2025 04:58:33.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported Riuksaky to BozzNofps]

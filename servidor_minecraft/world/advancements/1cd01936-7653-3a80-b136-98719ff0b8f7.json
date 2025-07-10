@@ -4192,12 +4192,6 @@
     },
     "done": true
   },
-  "tconstruct:recipes/decorations/gadgets/punji": {
-    "criteria": {
-      "has_item": "2025-07-10 04:23:39 +0000"
-    },
-    "done": true
-  },
   "tconstruct:recipes/building_blocks/common/slime/sky/congealed": {
     "criteria": {
       "has_item": "2025-07-10 04:13:55 +0000"
@@ -4210,6 +4204,18 @@
     },
     "done": true
   },
+  "tconstruct:recipes/redstone/common/slime/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-07-10 04:13:55 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/decorations/gadgets/punji": {
+    "criteria": {
+      "has_item": "2025-07-10 04:23:39 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/building_blocks/common/basalt_blast_furnace": {
     "criteria": {
       "has_smooth_stone": "2025-07-10 04:23:39 +0000"
@@ -4219,12 +4225,6 @@
   "minecraft:recipes/misc/stick_from_bamboo_item": {
     "criteria": {
       "has_bamboo": "2025-07-10 04:23:39 +0000"
-    },
-    "done": true
-  },
-  "tconstruct:recipes/redstone/common/slime/sticky_piston": {
-    "criteria": {
-      "has_slime_ball": "2025-07-10 04:13:55 +0000"
     },
     "done": true
   },
