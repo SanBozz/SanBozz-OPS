@@ -4704,9 +4704,39 @@
     },
     "done": true
   },
+  "tconstruct:recipes/combat/gadgets/shuriken/flint_shuriken": {
+    "criteria": {
+      "has_item": "2025-07-10 01:30:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-07-10 01:32:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2025-07-10 01:32:44 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/decorations/gadgets/punji": {
     "criteria": {
       "has_item": "2025-07-10 00:45:09 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-07-10 01:23:05 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_bookshelf": {
+    "criteria": {
+      "has_book": "2025-07-10 01:23:05 +0000"
     },
     "done": true
   },
@@ -4722,9 +4752,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2025-07-10 01:32:44 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:battle_hammer": {
     "criteria": {
       "has_battle_hammer": "2025-07-10 01:12:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-07-10 01:32:44 +0000"
     },
     "done": true
   },
@@ -4737,6 +4779,12 @@
   "minecraft:recipes/building_blocks/bamboo_block": {
     "criteria": {
       "has_bamboo": "2025-07-10 00:45:09 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/common/flint": {
+    "criteria": {
+      "has_item": "2025-07-10 01:30:30 +0000"
     },
     "done": true
   },

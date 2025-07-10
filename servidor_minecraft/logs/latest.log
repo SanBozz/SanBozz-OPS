@@ -279,3 +279,103 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [10Jul2025 01:18:24.409] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheDoyan lost connection: Disconnected
 [10Jul2025 01:18:24.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheDoyan left the game
 [10Jul2025 01:18:28.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Set kuriron's game mode to Survival Mode]
+[10Jul2025 01:21:07.977] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2051ms or 41 ticks behind
+[10Jul2025 01:24:16.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BozzNofps> salva
+[10Jul2025 01:24:18.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BozzNofps> ds
+[10Jul2025 01:26:05.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kuriron> ahora entro tengo gente en casa
+[10Jul2025 01:27:07.078] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/44697, l='ServerLevel[world]', x=290.00, y=-256.00, z=355.81] died, message: 'Unemployed was killed'
+[10Jul2025 01:27:14.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda was slain by Zombie
+[10Jul2025 01:27:31.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported balda to agustinnfes2]
+[10Jul2025 01:29:15.078] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/45691, l='ServerLevel[world]', x=337.31, y=-256.00, z=209.93] died, message: 'Unemployed was killed'
+[10Jul2025 01:29:22.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: angeelcraft has made the advancement [Will it Come Back?]
+[10Jul2025 01:29:25.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BozzNofps> salva
+[10Jul2025 01:29:37.112] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TheDoyan[/127.192.242.214:53199] logged in with entity id 45876 at (360.98846325618376, 64.0, 663.3816301433443)
+[10Jul2025 01:29:37.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheDoyan joined the game
+[10Jul2025 01:29:37.140] [Server thread/INFO] [Jade/]: Syncing config to TheDoyan (80d3b025-9b9f-3e9a-a29d-3a5fe3369643)
+[10Jul2025 01:29:39.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kuriron> quep
+[10Jul2025 01:29:40.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BozzNofps> te acordas donde estaba el bastion?
+[10Jul2025 01:29:45.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kuriron> si
+[10Jul2025 01:29:51.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kuriron> del nether?
+[10Jul2025 01:30:24.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soficordoba13 was slain by BozzNofps
+[10Jul2025 01:30:46.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BozzNofps> si
+[10Jul2025 01:30:57.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BozzNofps> me podes compartir la ubicacion en el mapa?
+[10Jul2025 01:31:03.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BozzNofps> desde la M se puede
+[10Jul2025 01:31:15.078] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/47324, l='ServerLevel[world]', x=337.31, y=-256.00, z=209.93] died, message: 'Unemployed was killed'
+[10Jul2025 01:31:50.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kuriron> veni
+[10Jul2025 01:31:51.511] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kuriron moved wrongly!
+[10Jul2025 01:32:37.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda was slain by Man From The Fog
+[10Jul2025 01:33:12.078] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: balda lost connection: Timed out
+[10Jul2025 01:33:12.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda left the game
+[10Jul2025 01:33:20.131] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/48714, l='ServerLevel[world]', x=290.62, y=-256.00, z=354.57] died, message: 'Unemployed was killed'
+[10Jul2025 01:33:25.220] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: balda[/127.249.45.252:35259] logged in with entity id 48767 at (-66.30000001192093, 63.0, 1207.7968853868817)
+[10Jul2025 01:33:25.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda joined the game
+[10Jul2025 01:33:25.289] [Server thread/INFO] [Jade/]: Syncing config to balda (1cd01936-7653-3a80-b136-98719ff0b8f7)
+[10Jul2025 01:33:28.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BozzNofps> vamos
+[10Jul2025 01:33:35.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: angeelcraft was burnt to a crisp whilst fighting BozzNofps
+[10Jul2025 01:33:46.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported angeelcraft to BozzNofps]
+[10Jul2025 01:33:55.315] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: balda lost connection: Timed out
+[10Jul2025 01:33:55.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda left the game
+[10Jul2025 01:33:58.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kuriron> vamos
+[10Jul2025 01:33:59.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BozzNofps> te quiere matar
+[10Jul2025 01:34:10.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kuriron> no puede
+[10Jul2025 01:34:13.035] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: balda[/127.249.45.252:55859] logged in with entity id 49426 at (-66.30000001192093, 63.0, 1207.7968853868817)
+[10Jul2025 01:34:13.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda joined the game
+[10Jul2025 01:34:13.114] [Server thread/INFO] [Jade/]: Syncing config to balda (1cd01936-7653-3a80-b136-98719ff0b8f7)
+[10Jul2025 01:34:14.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BozzNofps> asjdasjd
+[10Jul2025 01:34:20.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BozzNofps> espera q viene sofi creo
+[10Jul2025 01:34:25.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BozzNofps> esta lejos?
+[10Jul2025 01:34:42.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kuriron> no
+[10Jul2025 01:34:43.122] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: balda lost connection: Timed out
+[10Jul2025 01:34:43.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda left the game
+[10Jul2025 01:34:49.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BozzNofps> tenes magma cube?
+[10Jul2025 01:35:26.264] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4d04c412[id=<null>,name=balda,properties={},legacy=false] (/127.249.45.252:51093) lost connection: Disconnected
+[10Jul2025 01:35:29.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BozzNofps> para pociones
+[10Jul2025 01:36:14.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BozzNofps> para pociones de fuego
+[10Jul2025 01:36:28.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kuriron> donde vamos hay
+[10Jul2025 01:36:28.512] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@37622baa[id=<null>,name=balda,properties={},legacy=false] (/127.249.45.252:36687) lost connection: Disconnected
+[10Jul2025 01:36:32.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BozzNofps> oka
+[10Jul2025 01:36:40.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BozzNofps> falta angel
+[10Jul2025 01:36:52.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheDoyan was shot by Skeleton
+[10Jul2025 01:37:18.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kuriron> no me rompan el camino pls
+[10Jul2025 01:37:22.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported TheDoyan to 372.500000, 59.000000, 663.500000]
+[10Jul2025 01:37:24.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <kuriron> que lo tengo para minar
+[10Jul2025 01:37:32.328] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[10Jul2025 01:37:35.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheDoyan was shot by Skeleton
+[10Jul2025 01:37:49.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soficordoba13 has made the advancement [We Need to Go Deeper]
+[10Jul2025 01:37:52.970] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheDoyan lost connection: Timed out
+[10Jul2025 01:37:52.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheDoyan left the game
+[10Jul2025 01:37:54.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: angeelcraft has made the advancement [We Need to Go Deeper]
+[10Jul2025 01:37:56.858] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kuriron lost connection: Disconnected
+[10Jul2025 01:37:56.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kuriron left the game
+[10Jul2025 01:38:01.411] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TheDoyan[/127.192.242.214:35233] logged in with entity id 53363 at (-122.5, 113.0, 93.5)
+[10Jul2025 01:38:01.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheDoyan joined the game
+[10Jul2025 01:38:01.480] [Server thread/INFO] [Jade/]: Syncing config to TheDoyan (80d3b025-9b9f-3e9a-a29d-3a5fe3369643)
+[10Jul2025 01:38:18.261] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7110f51d[id=<null>,name=kuriron,properties={},legacy=false] (/127.115.192.159:34209) lost connection: Disconnected
+[10Jul2025 01:38:44.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheDoyan has made the advancement [We Need to Go Deeper]
+[10Jul2025 01:38:45.247] [Worker-Main-10/INFO] [citadel/]: vanilla surface rule behavior unchanged
+[10Jul2025 01:38:46.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported TheDoyan to 372.500000, 59.000000, 663.500000]
+[10Jul2025 01:38:46.519] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1bf74a5a[id=<null>,name=kuriron,properties={},legacy=false] (/127.115.192.159:36787) lost connection: Disconnected
+[10Jul2025 01:39:01.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: angeelcraft has made the advancement [Nightmare Fuel]
+[10Jul2025 01:39:02.135] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: balda[/127.249.45.252:58895] logged in with entity id 54424 at (-66.30000001192093, 63.0, 1207.7968853868817)
+[10Jul2025 01:39:02.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda joined the game
+[10Jul2025 01:39:02.205] [Server thread/INFO] [Jade/]: Syncing config to balda (1cd01936-7653-3a80-b136-98719ff0b8f7)
+[10Jul2025 01:39:08.242] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@46d9429d[id=<null>,name=kuriron,properties={},legacy=false] (/127.115.192.159:49283) lost connection: Disconnected
+[10Jul2025 01:39:11.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported TheDoyan to 372.500000, 59.000000, 663.500000]
+[10Jul2025 01:39:12.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: angeelcraft has made the advancement [Fetch Me Their Souls!]
+[10Jul2025 01:39:14.797] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@e89749d[id=<null>,name=kuriron,properties={},legacy=false] (/127.115.192.159:38713) lost connection: Disconnected
+[10Jul2025 01:39:32.265] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: balda lost connection: Timed out
+[10Jul2025 01:39:32.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda left the game
+[10Jul2025 01:39:54.021] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: balda[/127.249.45.252:34985] logged in with entity id 55529 at (-66.30000001192093, 63.0, 1207.7968853868817)
+[10Jul2025 01:39:54.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda joined the game
+[10Jul2025 01:39:54.116] [Server thread/INFO] [Jade/]: Syncing config to balda (1cd01936-7653-3a80-b136-98719ff0b8f7)
+[10Jul2025 01:40:10.658] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: agustinnfes2 lost connection: Disconnected
+[10Jul2025 01:40:10.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 left the game
+[10Jul2025 01:40:14.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BozzNofps> estas en el nehter?
+[10Jul2025 01:40:50.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: angeelcraft burned to death
+[10Jul2025 01:41:01.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported angeelcraft to BozzNofps]
+[10Jul2025 01:41:07.173] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kuriron[/127.115.192.159:50747] logged in with entity id 56676 at (29.01484500266305, 58.0, 65.78764955450025)
+[10Jul2025 01:41:07.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kuriron joined the game
+[10Jul2025 01:41:07.215] [Server thread/INFO] [Jade/]: Syncing config to kuriron (903c2398-d1ce-3306-8154-61a0ecf60720)
+[10Jul2025 01:41:21.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kuriron was slain by Hoglin
+[10Jul2025 01:41:22.910] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: angeelcraft lost connection: Timed out
+[10Jul2025 01:41:22.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: angeelcraft left the game
