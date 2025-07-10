@@ -2601,6 +2601,7 @@
       "illager_head": "2025-07-09 06:17:04 +0000",
       "wither_skeleton_skull": "2025-07-09 00:00:17 +0000",
       "skeleton_skull": "2025-07-08 03:28:26 +0000",
+      "witch_head": "2025-07-10 03:38:44 +0000",
       "spider_head": "2025-07-08 05:00:03 +0000",
       "blaze_head": "2025-07-08 23:54:10 +0000",
       "piglin_head": "2025-07-09 00:46:57 +0000",
@@ -5805,6 +5806,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/misc/common/tinkers_gadgetry": {
+    "criteria": {
+      "has_item": "2025-07-10 03:32:42 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spectral_bolt": {
     "criteria": {
       "has_glowstone_dust": "2025-07-10 02:28:46 +0000"
@@ -5814,6 +5821,12 @@
   "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-07-10 02:04:40 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tools/common/slime/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-07-10 03:32:42 +0000"
     },
     "done": true
   },
@@ -5843,6 +5856,7 @@
   },
   "tconstruct:world/slime_collector": {
     "criteria": {
+      "sky": "2025-07-10 03:32:42 +0000",
       "magma_cream": "2025-07-10 01:57:19 +0000"
     },
     "done": false
@@ -5868,6 +5882,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-07-10 02:04:40 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-07-10 03:32:42 +0000"
     },
     "done": true
   },
@@ -5949,15 +5969,33 @@
     },
     "done": true
   },
+  "tconstruct:world/sky_island": {
+    "criteria": {
+      "found_island": "2025-07-10 03:42:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
     "criteria": {
       "has_pink_tulip": "2025-07-10 03:13:47 +0000"
     },
     "done": true
   },
+  "tconstruct:recipes/building_blocks/common/slime/sky/congealed": {
+    "criteria": {
+      "has_item": "2025-07-10 03:32:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_allium": {
     "criteria": {
       "has_allium": "2025-07-10 03:13:32 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/common/slime/sky/slimeblock": {
+    "criteria": {
+      "has_item": "2025-07-10 03:32:42 +0000"
     },
     "done": true
   },
@@ -6006,6 +6044,12 @@
   "minecraft:recipes/misc/stick_from_bamboo_item": {
     "criteria": {
       "has_bamboo": "2025-07-10 03:13:58 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/common/slime/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-07-10 03:32:42 +0000"
     },
     "done": true
   },

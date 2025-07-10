@@ -989,3 +989,12 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [10Jul2025 03:33:36.191] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-103, y=5, z=298}
 [10Jul2025 03:33:41.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Riuksaky> xD
 [10Jul2025 03:33:50.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported Soficordoba13 to BozzNofps]
+[10Jul2025 03:35:12.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda was slain by Tasmanian Devil
+[10Jul2025 03:35:18.294] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[10Jul2025 03:35:26.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported balda to agustinnfes2]
+[10Jul2025 03:36:57.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps was slain by Skyslime
+[10Jul2025 03:37:07.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported BozzNofps to Soficordoba13]
+[10Jul2025 03:38:09.432] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[10Jul2025 03:38:14.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Set the time to 1000]
+[10Jul2025 03:42:45.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps has reached the goal [Skyslime Island]
+[10Jul2025 03:43:06.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soficordoba13 has reached the goal [Skyslime Island]
