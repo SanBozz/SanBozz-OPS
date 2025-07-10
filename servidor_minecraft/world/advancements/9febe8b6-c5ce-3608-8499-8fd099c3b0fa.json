@@ -3890,6 +3890,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-07-10 04:14:38 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spectral_bolt": {
     "criteria": {
       "has_glowstone_dust": "2025-07-10 02:28:31 +0000"
@@ -4022,6 +4028,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/froststalker_kill": {
+    "criteria": {
+      "ex": "2025-07-10 04:09:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/blue_dye_from_cornflower": {
     "criteria": {
       "has_cornflower": "2025-07-10 03:15:11 +0000"
@@ -4130,6 +4142,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/building_blocks/common/basalt_blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2025-07-10 04:14:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-07-10 02:02:08 +0000"
@@ -4159,6 +4177,12 @@
   "minecraft:recipes/decorations/respawn_anchor": {
     "criteria": {
       "has_obsidian": "2025-07-10 02:20:49 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/keypad_item": {
+    "criteria": {
+      "has_stone_button": "2025-07-10 04:23:36 +0000"
     },
     "done": true
   },
@@ -4231,6 +4255,12 @@
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2025-07-10 01:12:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-07-10 04:14:38 +0000"
     },
     "done": true
   },

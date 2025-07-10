@@ -396,6 +396,7 @@
       "baked_potato": "2025-07-08 03:32:22 +0000",
       "porkchop": "2025-07-08 07:13:16 +0000",
       "apple": "2025-07-08 05:44:36 +0000",
+      "potato": "2025-07-10 04:10:00 +0000",
       "pumpkin_pie": "2025-07-07 04:24:49 +0000",
       "mutton": "2025-07-07 03:08:10 +0000",
       "pufferfish": "2025-07-09 09:26:11 +0000",
@@ -5005,6 +5006,18 @@
   "tconstruct:recipes/redstone/common/slime/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2025-07-10 03:44:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-07-10 04:23:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-07-10 04:23:32 +0000"
     },
     "done": true
   },

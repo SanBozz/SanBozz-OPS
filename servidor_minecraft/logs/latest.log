@@ -1203,3 +1203,47 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [10Jul2025 04:05:18.464] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/215817, l='ServerLevel[world]', x=337.54, y=-256.00, z=204.88] died, message: 'Unemployed was killed'
 [10Jul2025 04:06:01.649] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2072ms or 41 ticks behind
 [10Jul2025 04:06:42.756] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-103, y=5, z=298}
+[10Jul2025 04:06:53.878] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[10Jul2025 04:07:13.998] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-67, y=5, z=289}
+[10Jul2025 04:07:14.150] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5273ms or 105 ticks behind
+[10Jul2025 04:07:21.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported balda to CaptainSKIPNOTZ]
+[10Jul2025 04:08:55.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps has reached the goal [Ice Scream]
+[10Jul2025 04:09:04.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soficordoba13 has reached the goal [Ice Scream]
+[10Jul2025 04:10:38.185] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/221797, l='ServerLevel[world]', x=290.00, y=-256.00, z=355.81] died, message: 'Unemployed was killed'
+[10Jul2025 04:13:02.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported balda to BozzNofps]
+[10Jul2025 04:13:14.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported agustinnfes2 to BozzNofps]
+[10Jul2025 04:13:24.704] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: balda lost connection: Timed out
+[10Jul2025 04:13:24.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda left the game
+[10Jul2025 04:13:33.727] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: balda[/127.249.45.252:58765] logged in with entity id 223837 at (-764.7903492271224, 161.0, 1793.699999988079)
+[10Jul2025 04:13:33.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda joined the game
+[10Jul2025 04:13:33.812] [Server thread/INFO] [Jade/]: Syncing config to balda (1cd01936-7653-3a80-b136-98719ff0b8f7)
+[10Jul2025 04:14:31.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 was blown up by agustinnfes2
+[10Jul2025 04:14:43.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps was slain by Tongbi, the Sculptor
+[10Jul2025 04:14:53.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported BozzNofps to Soficordoba13]
+[10Jul2025 04:15:09.965] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BozzNofps lost connection: Timed out
+[10Jul2025 04:15:09.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps left the game
+[10Jul2025 04:15:53.077] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BozzNofps[/127.249.45.252:46753] logged in with entity id 226002 at (-762.6999999880791, 160.1863679808445, 1790.6008777045827)
+[10Jul2025 04:15:53.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps joined the game
+[10Jul2025 04:15:53.152] [Server thread/INFO] [Jade/]: Syncing config to BozzNofps (22592360-5cd4-3e8f-9fc0-96977e63922e)
+[10Jul2025 04:15:56.699] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: agustinnfes2 lost connection: Disconnected
+[10Jul2025 04:15:56.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 left the game
+[10Jul2025 04:16:03.321] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: agustinnfes2[/127.220.229.95:51273] logged in with entity id 226097 at (-766.408483880128, 161.0, 1791.300000011921)
+[10Jul2025 04:16:03.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 joined the game
+[10Jul2025 04:16:03.391] [Server thread/INFO] [Jade/]: Syncing config to agustinnfes2 (d7072c52-a1ba-3ad3-bd6c-c7ea7e4745b8)
+[10Jul2025 04:21:11.188] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BozzNofps moved wrongly!
+[10Jul2025 04:21:47.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 was slain by Tongbi, the Sculptor
+[10Jul2025 04:22:22.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soficordoba13 was slain by Tongbi, the Sculptor
+[10Jul2025 04:22:23.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 was slain by Tongbi, the Sculptor
+[10Jul2025 04:22:55.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps was slain by Tongbi, the Sculptor
+[10Jul2025 04:23:02.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 was blown up by agustinnfes2
+[10Jul2025 04:23:23.728] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BozzNofps lost connection: Timed out
+[10Jul2025 04:23:23.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps left the game
+[10Jul2025 04:24:00.628] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BozzNofps[/127.249.45.252:49301] logged in with entity id 230803 at (-765.3000000119209, 160.23152379758702, 1792.5258109637568)
+[10Jul2025 04:24:00.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps joined the game
+[10Jul2025 04:24:00.702] [Server thread/INFO] [Jade/]: Syncing config to BozzNofps (22592360-5cd4-3e8f-9fc0-96977e63922e)
+[10Jul2025 04:24:30.715] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BozzNofps lost connection: Timed out
+[10Jul2025 04:24:30.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps left the game
+[10Jul2025 04:24:59.420] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BozzNofps[/127.249.45.252:43053] logged in with entity id 231323 at (-765.3000000119209, 160.23152379758702, 1792.5258109637568)
+[10Jul2025 04:24:59.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps joined the game
+[10Jul2025 04:24:59.494] [Server thread/INFO] [Jade/]: Syncing config to BozzNofps (22592360-5cd4-3e8f-9fc0-96977e63922e)
+[10Jul2025 04:26:07.578] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/231758, l='ServerLevel[world]', x=284.89, y=-256.00, z=328.54] died, message: 'Unemployed was killed'
