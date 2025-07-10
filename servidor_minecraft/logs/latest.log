@@ -1714,3 +1714,37 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [10Jul2025 06:40:01.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kuriron has reached the goal [Advanced Tool Making]
 [10Jul2025 06:42:32.394] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Riuksaky lost connection: Disconnected
 [10Jul2025 06:42:32.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Riuksaky left the game
+[10Jul2025 06:45:29.077] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/372879, l='ServerLevel[world]', x=290.62, y=-256.00, z=354.57] died, message: 'Unemployed was killed'
+[10Jul2025 06:48:30.306] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kuriron moved wrongly!
+[10Jul2025 06:49:19.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kuriron was slain by Man From The Fog
+[10Jul2025 06:50:18.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported BozzNofps to -735.500000, 87.000000, 2436.500000]
+[10Jul2025 06:50:50.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps has made the advancement [What a Deal!]
+[10Jul2025 06:57:13.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported Soficordoba13 to kuriron]
+[10Jul2025 07:01:21.284] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/375186, l='ServerLevel[world]', x=-799.70, y=119.39, z=2448.50] died, message: 'Unemployed froze to death'
+[10Jul2025 07:08:40.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soficordoba13 was slain by Enderman
+[10Jul2025 07:09:24.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported BozzNofps to Soficordoba13]
+[10Jul2025 07:14:53.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soficordoba13 was impaled by Drowned
+[10Jul2025 07:15:06.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BozzNofps> }
+[10Jul2025 07:16:44.077] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/391453, l='ServerLevel[world]', x=290.62, y=-256.00, z=354.57] died, message: 'Unemployed was killed'
+[10Jul2025 07:17:01.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported Soficordoba13 to 197.500000, 62.000000, 1015.500000]
+[10Jul2025 07:17:24.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Set the time to 1000]
+[10Jul2025 07:18:05.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported Soficordoba13 to 1015.500000, 62.000000, 297.500000]
+[10Jul2025 07:18:12.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported BozzNofps to Soficordoba13]
+[10Jul2025 07:18:32.055] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BozzNofps lost connection: Timed out
+[10Jul2025 07:18:32.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps left the game
+[10Jul2025 07:18:37.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soficordoba13 was impaled by Drowned
+[10Jul2025 07:19:08.297] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BozzNofps[/127.249.45.252:57847] logged in with entity id 392851 at (1016.6174876262445, 64.0, 301.3350689299391)
+[10Jul2025 07:19:08.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps joined the game
+[10Jul2025 07:19:08.312] [Server thread/INFO] [Jade/]: Syncing config to BozzNofps (22592360-5cd4-3e8f-9fc0-96977e63922e)
+[10Jul2025 07:19:12.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps was slain by Man From The Fog
+[10Jul2025 07:19:55.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported Soficordoba13 to 1015.500000, 67.000000, 297.500000]
+[10Jul2025 07:20:04.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported BozzNofps to 1015.500000, 67.000000, 297.500000]
+[10Jul2025 07:20:04.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soficordoba13 was impaled by Drowned
+[10Jul2025 07:20:09.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps was impaled by Drowned
+[10Jul2025 07:20:42.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported Soficordoba13 to 1015.500000, 67.000000, 297.500000]
+[10Jul2025 07:20:43.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported BozzNofps to 1015.500000, 67.000000, 297.500000]
+[10Jul2025 07:21:08.553] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BozzNofps lost connection: Timed out
+[10Jul2025 07:21:08.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps left the game
+[10Jul2025 07:21:56.556] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BozzNofps[/127.249.45.252:36149] logged in with entity id 395648 at (1015.5, 63.653729617588596, 297.5)
+[10Jul2025 07:21:56.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps joined the game
+[10Jul2025 07:21:56.607] [Server thread/INFO] [Jade/]: Syncing config to BozzNofps (22592360-5cd4-3e8f-9fc0-96977e63922e)

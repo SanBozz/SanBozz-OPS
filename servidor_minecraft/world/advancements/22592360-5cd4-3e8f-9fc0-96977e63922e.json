@@ -6281,9 +6281,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/white_glazed_terracotta": {
+  "minecraft:recipes/decorations/red_glazed_terracotta": {
     "criteria": {
-      "has_white_terracotta": "2025-07-10 06:05:09 +0000"
+      "has_red_terracotta": "2025-07-10 05:30:23 +0000"
     },
     "done": true
   },
@@ -6293,15 +6293,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/red_glazed_terracotta": {
+  "minecraft:recipes/decorations/white_glazed_terracotta": {
     "criteria": {
-      "has_red_terracotta": "2025-07-10 05:30:23 +0000"
+      "has_white_terracotta": "2025-07-10 06:05:09 +0000"
     },
     "done": true
   },
   "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
     "criteria": {
       "has_gold_backpack": "2025-07-10 06:24:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-07-10 06:50:50 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_lectern": {
+    "criteria": {
+      "has_bookshelf": "2025-07-10 06:50:51 +0000"
     },
     "done": true
   },
