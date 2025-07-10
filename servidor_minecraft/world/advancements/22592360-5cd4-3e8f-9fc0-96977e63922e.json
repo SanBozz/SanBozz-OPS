@@ -5861,6 +5861,12 @@
     },
     "done": false
   },
+  "tconstruct:recipes/building_blocks/world/wood/skyroot/log_to_wood": {
+    "criteria": {
+      "has_log": "2025-07-10 03:44:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/snout_armor_trim_smithing_template": {
     "criteria": {
       "has_snout_armor_trim_smithing_template": "2025-07-10 02:04:04 +0000"
@@ -5981,6 +5987,18 @@
     },
     "done": true
   },
+  "tconstruct:recipes/building_blocks/world/wood/skyroot/planks": {
+    "criteria": {
+      "has_log": "2025-07-10 03:44:02 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/common/slime/sky/crystal_growing": {
+    "criteria": {
+      "has_dirt": "2025-07-10 03:43:31 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/building_blocks/common/slime/sky/congealed": {
     "criteria": {
       "has_item": "2025-07-10 03:32:42 +0000"
@@ -5996,6 +6014,18 @@
   "tconstruct:recipes/redstone/common/slime/sky/slimeblock": {
     "criteria": {
       "has_item": "2025-07-10 03:32:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_lily_of_the_valley": "2025-07-10 03:47:28 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tools/tools/building/sky_staff": {
+    "criteria": {
+      "has_wood": "2025-07-10 03:44:02 +0000"
     },
     "done": true
   },

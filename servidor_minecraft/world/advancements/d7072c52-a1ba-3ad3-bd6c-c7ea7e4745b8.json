@@ -8,6 +8,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2025-07-05 06:36:36 +0000",
+      "minecraft:taiga": "2025-07-10 03:42:53 +0000",
       "minecraft:sunflower_plains": "2025-07-05 06:52:24 +0000",
       "minecraft:cherry_grove": "2025-07-07 02:41:12 +0000",
       "minecraft:birch_forest": "2025-07-07 02:11:42 +0000",
@@ -4838,30 +4839,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/fletching_table": {
-    "criteria": {
-      "has_flint": "2025-07-10 02:34:42 +0000"
-    },
-    "done": true
-  },
-  "tconstruct:world/earth_island": {
-    "criteria": {
-      "found_island": "2025-07-10 02:39:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/coal": {
-    "criteria": {
-      "has_coal_block": "2025-07-10 02:52:35 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_typhon": {
-    "criteria": {
-      "location0": "2025-07-10 02:43:18 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/crimson_pressure_plate": {
     "criteria": {
       "has_planks": "2025-07-10 02:20:59 +0000"
@@ -4874,33 +4851,15 @@
     },
     "done": true
   },
-  "tconstruct:recipes/combat/gadgets/shuriken/flint_shuriken": {
-    "criteria": {
-      "has_item": "2025-07-10 02:34:42 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/crimson_door": {
     "criteria": {
       "has_planks": "2025-07-10 02:20:59 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
-    "criteria": {
-      "has_salmon": "2025-07-10 03:03:55 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/crimson_fence": {
     "criteria": {
       "has_planks": "2025-07-10 02:20:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/armor_stand": {
-    "criteria": {
-      "has_stone_slab": "2025-07-10 02:56:27 +0000"
     },
     "done": true
   },
@@ -4922,27 +4881,9 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/skelewag_skull": {
-    "criteria": {
-      "skull": "2025-07-10 02:43:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_salmon": {
-    "criteria": {
-      "has_salmon": "2025-07-10 03:03:55 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/crimson_trapdoor": {
     "criteria": {
       "has_planks": "2025-07-10 02:20:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_salmon_from_smoking": {
-    "criteria": {
-      "has_salmon": "2025-07-10 03:03:55 +0000"
     },
     "done": true
   },
@@ -4952,15 +4893,117 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-07-10 02:21:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-07-10 02:34:42 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/combat/gadgets/shuriken/flint_shuriken": {
+    "criteria": {
+      "has_item": "2025-07-10 02:34:42 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:world/earth_island": {
+    "criteria": {
+      "found_island": "2025-07-10 02:39:21 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_typhon": {
+    "criteria": {
+      "location0": "2025-07-10 02:43:18 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/skelewag": {
     "criteria": {
       "killed_by": "2025-07-10 02:43:32 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/wheat": {
+  "alexsmobs:alexsmobs/skelewag_skull": {
     "criteria": {
-      "has_hay_block": "2025-07-10 02:21:02 +0000"
+      "skull": "2025-07-10 02:43:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2025-07-10 02:52:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2025-07-10 02:56:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-07-10 03:03:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-07-10 03:03:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-07-10 03:03:55 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/common/tinkers_gadgetry": {
+    "criteria": {
+      "has_item": "2025-07-10 03:44:47 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tools/common/slime/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-07-10 03:44:47 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:world/slime_collector": {
+    "criteria": {
+      "sky": "2025-07-10 03:44:47 +0000"
+    },
+    "done": false
+  },
+  "securitycraft:recipes/redstone/reinforced_sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-07-10 03:44:47 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/common/slime/sky/congealed": {
+    "criteria": {
+      "has_item": "2025-07-10 03:44:47 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/common/slime/sky/slimeblock": {
+    "criteria": {
+      "has_item": "2025-07-10 03:44:47 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/common/slime/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-07-10 03:44:47 +0000"
     },
     "done": true
   },

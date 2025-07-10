@@ -5932,9 +5932,45 @@
     },
     "done": true
   },
+  "tconstruct:recipes/building_blocks/smeltery/seared/seared_stone_stairs_stonecutter": {
+    "criteria": {
+      "has_item": "2025-07-10 03:43:50 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/seared/seared_paver_smelting": {
+    "criteria": {
+      "has_item": "2025-07-10 03:43:50 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/seared/seared_stone_slab": {
+    "criteria": {
+      "has_item": "2025-07-10 03:43:50 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/seared/seared_stone_stairs": {
+    "criteria": {
+      "has_item": "2025-07-10 03:43:50 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/seared/seared_stone_slab_stonecutter": {
+    "criteria": {
+      "has_item": "2025-07-10 03:43:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_boots": "2025-07-10 03:27:22 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/smeltery/seared/seared_bricks_crafting": {
+    "criteria": {
+      "has_item": "2025-07-10 03:43:50 +0000"
     },
     "done": true
   },

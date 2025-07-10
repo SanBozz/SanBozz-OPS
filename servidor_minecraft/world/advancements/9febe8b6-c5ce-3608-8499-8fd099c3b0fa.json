@@ -3881,6 +3881,12 @@
     },
     "done": false
   },
+  "tconstruct:recipes/misc/common/tinkers_gadgetry": {
+    "criteria": {
+      "has_item": "2025-07-10 03:44:18 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spectral_bolt": {
     "criteria": {
       "has_glowstone_dust": "2025-07-10 02:28:31 +0000"
@@ -3908,6 +3914,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-07-10 02:02:08 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tools/common/slime/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-07-10 03:44:18 +0000"
     },
     "done": true
   },
@@ -3940,6 +3952,12 @@
       "has_planks": "2025-07-10 01:12:53 +0000"
     },
     "done": true
+  },
+  "tconstruct:world/slime_collector": {
+    "criteria": {
+      "sky": "2025-07-10 03:44:18 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/food/cooked_porkchop": {
     "criteria": {
@@ -3986,6 +4004,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-07-10 02:16:53 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-07-10 03:44:18 +0000"
     },
     "done": true
   },
@@ -4055,6 +4079,12 @@
     },
     "done": true
   },
+  "tconstruct:world/sky_island": {
+    "criteria": {
+      "found_island": "2025-07-10 03:43:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/spruce_sign": {
     "criteria": {
       "has_planks": "2025-07-10 01:12:53 +0000"
@@ -4064,6 +4094,12 @@
   "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
     "criteria": {
       "has_porkchop": "2025-07-10 02:20:53 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/common/slime/sky/congealed": {
+    "criteria": {
+      "has_item": "2025-07-10 03:44:18 +0000"
     },
     "done": true
   },
@@ -4082,6 +4118,12 @@
   "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-07-10 02:02:08 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/common/slime/sky/slimeblock": {
+    "criteria": {
+      "has_item": "2025-07-10 03:44:18 +0000"
     },
     "done": true
   },
@@ -4174,6 +4216,12 @@
   "minecraft:nether/find_bastion": {
     "criteria": {
       "bastion": "2025-07-10 02:00:04 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/common/slime/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-07-10 03:44:18 +0000"
     },
     "done": true
   },
