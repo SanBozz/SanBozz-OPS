@@ -2353,6 +2353,7 @@
   "spartanweaponry:collect_heads": {
     "criteria": {
       "creeper_head": "2025-07-07 01:55:27 +0000",
+      "zombie_head": "2025-07-10 01:05:50 +0000",
       "skeleton_skull": "2025-07-07 01:55:14 +0000"
     },
     "done": false
@@ -3878,6 +3879,12 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2025-07-09 05:00:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-07-10 01:02:18 +0000"
     },
     "done": true
   },

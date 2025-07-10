@@ -235,3 +235,24 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [10Jul2025 00:57:46.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: angeelcraft was blown up by Creeper
 [10Jul2025 00:58:16.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported angeelcraft to 54.500000, -34.000000, 219.500000]
 [10Jul2025 00:58:33.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported BozzNofps to angeelcraft]
+[10Jul2025 01:02:16.495] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: agustinnfes2[/127.220.229.95:48011] logged in with entity id 20245 at (2251.6664134548523, 65.5625, 1246.300000011921)
+[10Jul2025 01:02:16.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 joined the game
+[10Jul2025 01:02:16.514] [Server thread/INFO] [Jade/]: Syncing config to agustinnfes2 (d7072c52-a1ba-3ad3-bd6c-c7ea7e4745b8)
+[10Jul2025 01:02:30.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheDoyan was slain by Zombie
+[10Jul2025 01:02:38.026] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheDoyan moved too quickly! -5.253342928622374,-1.1767592750642422,8.71416036808489
+[10Jul2025 01:02:38.037] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2061ms or 41 ticks behind
+[10Jul2025 01:03:08.891] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: balda[/127.249.45.252:39127] logged in with entity id 21006 at (2043.3460677636685, 205.0, 1082.699999988079)
+[10Jul2025 01:03:08.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda joined the game
+[10Jul2025 01:03:08.920] [Server thread/INFO] [Jade/]: Syncing config to balda (1cd01936-7653-3a80-b136-98719ff0b8f7)
+[10Jul2025 01:03:27.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheDoyan was slain by Zombie
+[10Jul2025 01:03:54.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BozzNofps> xaero-waypoint:Shared Location:S:85:~:236:10:false:0:Internal-overworld-waypoints
+[10Jul2025 01:04:31.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <angeelcraft> xaero-waypoint:gui.xaero-deathpoint-old:D:-54:-5:203:0:false:0:Internal-overworld-waypoints
+[10Jul2025 01:07:15.127] [Server thread/WARN] [net.geforcemods.securitycraft.SecurityCraft/]: Player "Soficordoba13" tried to enter a passcode into "Keypad Trapdoor" at position [ResourceKey[minecraft:dimension / minecraft:overworld] BlockPos{x=287, y=74, z=351}] too quickly!
+[10Jul2025 01:07:15.128] [Server thread/WARN] [net.geforcemods.securitycraft.SecurityCraft/]: Player "Soficordoba13" tried to enter a passcode into "Keypad Trapdoor" at position [ResourceKey[minecraft:dimension / minecraft:overworld] BlockPos{x=287, y=74, z=351}] too quickly!
+[10Jul2025 01:09:40.510] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: agustinnfes2 lost connection: Disconnected
+[10Jul2025 01:09:40.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 left the game
+[10Jul2025 01:09:47.370] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: agustinnfes2[/127.220.229.95:35113] logged in with entity id 26415 at (2044.5821113769416, 199.0, 1081.8287025661898)
+[10Jul2025 01:09:47.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 joined the game
+[10Jul2025 01:09:47.463] [Server thread/INFO] [Jade/]: Syncing config to agustinnfes2 (d7072c52-a1ba-3ad3-bd6c-c7ea7e4745b8)
+[10Jul2025 01:09:49.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheDoyan> kuri?
+[10Jul2025 01:10:19.078] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/26799, l='ServerLevel[world]', x=290.62, y=-256.00, z=354.57] died, message: 'Unemployed was killed'
