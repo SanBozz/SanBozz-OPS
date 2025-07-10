@@ -3361,6 +3361,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2025-07-10 01:10:46 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/copper_warhammer": {
     "criteria": {
       "has_copper_ingot": "2025-07-10 01:10:01 +0000"

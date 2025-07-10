@@ -256,3 +256,26 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [10Jul2025 01:09:47.463] [Server thread/INFO] [Jade/]: Syncing config to agustinnfes2 (d7072c52-a1ba-3ad3-bd6c-c7ea7e4745b8)
 [10Jul2025 01:09:49.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <TheDoyan> kuri?
 [10Jul2025 01:10:19.078] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/26799, l='ServerLevel[world]', x=290.62, y=-256.00, z=354.57] died, message: 'Unemployed was killed'
+[10Jul2025 01:11:29.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported BozzNofps to CaptainSKIPNOTZ]
+[10Jul2025 01:12:07.059] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/27952, l='ServerLevel[world]', x=284.13, y=-256.00, z=366.05] died, message: 'Unemployed was killed'
+[10Jul2025 01:12:24.065] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: agustinnfes2 lost connection: Disconnected
+[10Jul2025 01:12:24.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 left the game
+[10Jul2025 01:12:32.055] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: agustinnfes2[/127.220.229.95:37841] logged in with entity id 28177 at (2044.5821113769416, 199.0, 1081.8287025661898)
+[10Jul2025 01:12:32.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 joined the game
+[10Jul2025 01:12:32.125] [Server thread/INFO] [Jade/]: Syncing config to agustinnfes2 (d7072c52-a1ba-3ad3-bd6c-c7ea7e4745b8)
+[10Jul2025 01:12:41.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CaptainSKIPNOTZ has made the advancement [Hammer Time!]
+[10Jul2025 01:14:29.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Set the time to 1000]
+[10Jul2025 01:17:14.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Set kuriron's game mode to Creative Mode]
+[10Jul2025 01:17:36.214] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Soficordoba13) moved too quickly! 6.935558916844968,0.0,-7.731497042624881
+[10Jul2025 01:17:36.214] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Soficordoba13) moved too quickly! 7.205988317325648,0.0,-8.026031563552806
+[10Jul2025 01:17:36.215] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Soficordoba13) moved too quickly! 7.476917483477621,0.0,-8.320119503279784
+[10Jul2025 01:17:36.215] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Soficordoba13) moved too quickly! 7.748324234975428,0.0,-8.613779098315092
+[10Jul2025 01:17:36.216] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Soficordoba13) moved too quickly! 8.020185809970997,0.0,-8.907029384121017
+[10Jul2025 01:17:36.216] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Soficordoba13) moved too quickly! 8.292478926971228,0.0,-9.199890118942847
+[10Jul2025 01:17:36.217] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Soficordoba13) moved too quickly! 8.565179844253066,0.0,-9.492381715255874
+[10Jul2025 01:17:36.217] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Soficordoba13) moved too quickly! 8.838264411474597,0.0,-9.784525185518078
+[10Jul2025 01:17:36.218] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Soficordoba13) moved too quickly! 9.111710884015338,0.0,-10.076339429765369
+[10Jul2025 01:17:36.218] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Soficordoba13) moved too quickly! 9.385499684266847,0.0,-10.36784144871632
+[10Jul2025 01:18:24.409] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheDoyan lost connection: Disconnected
+[10Jul2025 01:18:24.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheDoyan left the game
+[10Jul2025 01:18:28.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Set kuriron's game mode to Survival Mode]

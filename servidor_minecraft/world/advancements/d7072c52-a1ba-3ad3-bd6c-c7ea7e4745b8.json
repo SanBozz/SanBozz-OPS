@@ -23,6 +23,7 @@
       "minecraft:cold_ocean": "2025-07-08 08:48:05 +0000",
       "minecraft:forest": "2025-07-05 06:38:06 +0000",
       "minecraft:lush_caves": "2025-07-08 03:44:44 +0000",
+      "minecraft:deep_cold_ocean": "2025-07-10 01:20:16 +0000",
       "minecraft:ocean": "2025-07-05 06:50:36 +0000",
       "minecraft:jungle": "2025-07-06 21:16:56 +0000",
       "minecraft:flower_forest": "2025-07-07 03:57:38 +0000",
@@ -4791,6 +4792,12 @@
   "dungeons_arise:find_coliseum": {
     "criteria": {
       "location0": "2025-07-09 09:08:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-07-10 01:14:55 +0000"
     },
     "done": true
   },

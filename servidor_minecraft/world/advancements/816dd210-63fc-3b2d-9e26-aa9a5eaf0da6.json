@@ -4710,9 +4710,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/reinforced_dispenser": {
+    "criteria": {
+      "has_bow": "2025-07-10 01:15:38 +0000"
+    },
+    "done": true
+  },
   "tconstruct:tools/part_builder": {
     "criteria": {
       "crafted_block": "2025-07-10 01:01:49 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:battle_hammer": {
+    "criteria": {
+      "has_battle_hammer": "2025-07-10 01:12:41 +0000"
     },
     "done": true
   },
