@@ -21454,3 +21454,311 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [10Jul2025 02:02:02.926] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['CaptainSKIPNOTZ'/108, l='ServerLevel[world]', x=273.47, y=33.00, z=328.90]]
 [10Jul2025 02:02:02.980] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config forge-server.toml' to 'fml:handshake' sequence 29
 [10Jul2025 02:02:03.717] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['CaptainSKIPNOTZ'/108, l='ServerLevel[world]', x=273.47, y=33.00, z=327.39]]
+[10Jul2025 02:02:07.684] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['CaptainSKIPNOTZ'/108, l='ServerLevel[world]', x=275.75, y=33.00, z=329.24]]
+[10Jul2025 02:02:08.200] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[10Jul2025 02:02:12.505] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['CaptainSKIPNOTZ'/108, l='ServerLevel[world]', x=275.75, y=33.00, z=329.24]]
+[10Jul2025 02:02:24.875] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jul2025 02:02:26.290] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jul2025 02:02:26.731] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['CaptainSKIPNOTZ'/108, l='ServerLevel[world]', x=275.16, y=33.00, z=328.15]]
+[10Jul2025 02:02:27.110] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jul2025 02:02:27.110] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[10Jul2025 02:02:27.517] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jul2025 02:02:27.518] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4342ms or 86 ticks behind
+[10Jul2025 02:02:29.157] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['CaptainSKIPNOTZ'/108, l='ServerLevel[world]', x=275.16, y=33.00, z=328.15]]
+[10Jul2025 02:02:30.241] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jul2025 02:02:31.144] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@399815d0[id=<null>,name=angeelcraft,properties={},legacy=false] (/127.6.39.159:58433) lost connection: Disconnected
+[10Jul2025 02:02:32.484] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['CaptainSKIPNOTZ'/108, l='ServerLevel[world]', x=275.16, y=33.00, z=328.15]]
+[10Jul2025 02:02:38.883] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jul2025 02:02:39.662] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jul2025 02:02:40.114] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jul2025 02:02:40.316] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jul2025 02:02:40.432] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jul2025 02:02:40.672] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jul2025 02:02:40.834] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['CaptainSKIPNOTZ'/108, l='ServerLevel[world]', x=275.16, y=33.00, z=328.15]]
+[10Jul2025 02:02:42.318] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['CaptainSKIPNOTZ'/108, l='ServerLevel[world]', x=275.16, y=33.00, z=328.15]]
+[10Jul2025 02:02:43.473] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['CaptainSKIPNOTZ'/108, l='ServerLevel[world]', x=275.87, y=33.00, z=328.24]]
+[10Jul2025 02:02:52.018] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jul2025 02:02:52.196] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jul2025 02:02:52.340] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jul2025 02:02:52.498] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jul2025 02:02:52.642] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jul2025 02:03:00.339] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['CaptainSKIPNOTZ'/108, l='ServerLevel[world]', x=275.51, y=33.56, z=326.28]]
+[10Jul2025 02:03:02.392] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['CaptainSKIPNOTZ'/108, l='ServerLevel[world]', x=272.33, y=33.00, z=326.95]]
+[10Jul2025 02:03:03.368] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['CaptainSKIPNOTZ'/108, l='ServerLevel[world]', x=273.44, y=33.00, z=329.56]]
+[10Jul2025 02:03:05.556] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 30 messages to dispatch.
+[10Jul2025 02:03:05.565] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 0
+[10Jul2025 02:03:05.609] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModList' to 'fml:handshake' sequence 1
+[10Jul2025 02:03:05.667] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:command_argument_type' to 'fml:handshake' sequence 2
+[10Jul2025 02:03:05.710] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:recipe_serializer' to 'fml:handshake' sequence 3
+[10Jul2025 02:03:05.754] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:sound_event' to 'fml:handshake' sequence 4
+[10Jul2025 02:03:05.806] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:particle_type' to 'fml:handshake' sequence 5
+[10Jul2025 02:03:05.832] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 1
+[10Jul2025 02:03:05.832] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 1 of type net.minecraftforge.network.HandshakeMessages$C2SModListReply
+[10Jul2025 02:03:05.832] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client connection with modlist [minecraft, tconstruct, mowziesmobs, luckys_armory, jade, whispering_spirits, geckolib, watching, ancore, jei, cleanswing, easy_hammers, sophisticatedcore, spartanshields, mantle, xaerominimap, man, gravestone, xaeroworldmap, citadel, alexsmobs, securitycraft, zombieawareness, mixinextras, inventoryhud, sophisticatedbackpacks, coroutil, spartanweaponry, cave_dweller, immersive_armors, carryon, jeresources, dungeons_arise_seven_seas, forge, tlskincape, nyfsspiders, dungeons_arise]
+[10Jul2025 02:03:05.832] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'luckys_armory:luckys_armory' : Version test of '1' from client : ACCEPTED
+[10Jul2025 02:03:05.832] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'ic_ia:main' : Version test of '1' from client : ACCEPTED
+[10Jul2025 02:03:05.832] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'whispering_spirits:whispering_spirits' : Version test of '1' from client : ACCEPTED
+[10Jul2025 02:03:05.832] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'jei:channel' : Version test of '1.0.0' from client : ACCEPTED
+[10Jul2025 02:03:05.832] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'mantle:network' : Version test of '1' from client : ACCEPTED
+[10Jul2025 02:03:05.832] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'carryon:carryonpackets' : Version test of '1.0' from client : ACCEPTED
+[10Jul2025 02:03:05.832] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Version test of 'FML3' from client : ACCEPTED
+[10Jul2025 02:03:05.832] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'xaerominimap:main' : Version test of '1.0' from client : ACCEPTED
+[10Jul2025 02:03:05.832] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sophisticatedbackpacks:channel' : Version test of '1' from client : ACCEPTED
+[10Jul2025 02:03:05.832] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'citadel:main_channel' : Version test of '1' from client : ACCEPTED
+[10Jul2025 02:03:05.832] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'securitycraft:securitycraft' : Version test of 'v1.10.0.1' from client : ACCEPTED
+[10Jul2025 02:03:05.832] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'tconstruct:network' : Version test of '1' from client : ACCEPTED
+[10Jul2025 02:03:05.832] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'ancore:ancore' : Version test of '1' from client : ACCEPTED
+[10Jul2025 02:03:05.832] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cave_dweller:main' : Version test of '2' from client : ACCEPTED
+[10Jul2025 02:03:05.832] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Version test of 'FML3' from client : ACCEPTED
+[10Jul2025 02:03:05.832] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:tier_sorting' : Version test of '1.0' from client : ACCEPTED
+[10Jul2025 02:03:05.832] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'spartanshields:network' : Version test of '1' from client : ACCEPTED
+[10Jul2025 02:03:05.832] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'easy_hammers:easy_hammers' : Version test of '1' from client : ACCEPTED
+[10Jul2025 02:03:05.832] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'alexsmobs:main_channel' : Version test of '1' from client : ACCEPTED
+[10Jul2025 02:03:05.832] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'mowziesmobs:net' : Version test of '1' from client : ACCEPTED
+[10Jul2025 02:03:05.832] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Version test of 'FML3' from client : ACCEPTED
+[10Jul2025 02:03:05.832] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sophisticatedcore:channel' : Version test of '1' from client : ACCEPTED
+[10Jul2025 02:03:05.832] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'gravestone:default' : Version test of '1.0.0' from client : ACCEPTED
+[10Jul2025 02:03:05.832] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'man:man' : Version test of '1' from client : ACCEPTED
+[10Jul2025 02:03:05.832] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Version test of 'FML3' from client : ACCEPTED
+[10Jul2025 02:03:05.832] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'spartanweaponry:network' : Version test of '1' from client : ACCEPTED
+[10Jul2025 02:03:05.832] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'xaeroworldmap:main' : Version test of '1.0' from client : ACCEPTED
+[10Jul2025 02:03:05.832] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Version test of 'FML3' from client : ACCEPTED
+[10Jul2025 02:03:05.832] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Version test of '1.1' from client : ACCEPTED
+[10Jul2025 02:03:05.832] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'geckolib:main' : Version test of '1' from client : ACCEPTED
+[10Jul2025 02:03:05.832] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'jade:networking' : Version test of '2' from client : ACCEPTED
+[10Jul2025 02:03:05.832] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from client
+[10Jul2025 02:03:05.832] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Accepted client connection mod list
+[10Jul2025 02:03:05.851] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:villager_profession' to 'fml:handshake' sequence 6
+[10Jul2025 02:03:05.874] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 2
+[10Jul2025 02:03:05.874] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 2 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[10Jul2025 02:03:05.874] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[10Jul2025 02:03:05.903] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:item' to 'fml:handshake' sequence 7
+[10Jul2025 02:03:05.903] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 3
+[10Jul2025 02:03:05.903] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 3 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[10Jul2025 02:03:05.903] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[10Jul2025 02:03:05.951] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:potion' to 'fml:handshake' sequence 8
+[10Jul2025 02:03:05.997] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:painting_variant' to 'fml:handshake' sequence 9
+[10Jul2025 02:03:06.042] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:fluid_type' to 'fml:handshake' sequence 10
+[10Jul2025 02:03:06.093] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block_entity_type' to 'fml:handshake' sequence 11
+[10Jul2025 02:03:06.140] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:display_contexts' to 'fml:handshake' sequence 12
+[10Jul2025 02:03:06.193] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block' to 'fml:handshake' sequence 13
+[10Jul2025 02:03:06.243] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry spartanweaponry:oil_effects' to 'fml:handshake' sequence 14
+[10Jul2025 02:03:06.294] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:entity_data_serializers' to 'fml:handshake' sequence 15
+[10Jul2025 02:03:06.341] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry spartanweaponry:weapon_traits' to 'fml:handshake' sequence 16
+[10Jul2025 02:03:06.392] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:mob_effect' to 'fml:handshake' sequence 17
+[10Jul2025 02:03:06.441] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:stat_type' to 'fml:handshake' sequence 18
+[10Jul2025 02:03:06.488] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 4
+[10Jul2025 02:03:06.488] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 4 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[10Jul2025 02:03:06.488] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[10Jul2025 02:03:06.512] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:menu' to 'fml:handshake' sequence 19
+[10Jul2025 02:03:06.512] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 5
+[10Jul2025 02:03:06.512] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 5 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[10Jul2025 02:03:06.512] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[10Jul2025 02:03:06.512] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 6
+[10Jul2025 02:03:06.512] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 6 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[10Jul2025 02:03:06.512] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[10Jul2025 02:03:06.558] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:enchantment' to 'fml:handshake' sequence 20
+[10Jul2025 02:03:06.605] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:fluid' to 'fml:handshake' sequence 21
+[10Jul2025 02:03:06.656] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:entity_type' to 'fml:handshake' sequence 22
+[10Jul2025 02:03:06.703] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config securitycraft-server.toml' to 'fml:handshake' sequence 23
+[10Jul2025 02:03:06.756] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config gravestone-server.toml' to 'fml:handshake' sequence 24
+[10Jul2025 02:03:06.809] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config sophisticatedbackpacks-server.toml' to 'fml:handshake' sequence 25
+[10Jul2025 02:03:06.818] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 7
+[10Jul2025 02:03:06.818] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 7 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[10Jul2025 02:03:06.818] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[10Jul2025 02:03:06.818] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 8
+[10Jul2025 02:03:06.818] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 8 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[10Jul2025 02:03:06.818] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[10Jul2025 02:03:06.819] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 9
+[10Jul2025 02:03:06.819] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 9 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[10Jul2025 02:03:06.819] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[10Jul2025 02:03:06.859] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 10
+[10Jul2025 02:03:06.859] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 10 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[10Jul2025 02:03:06.859] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[10Jul2025 02:03:06.859] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 11
+[10Jul2025 02:03:06.859] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 11 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[10Jul2025 02:03:06.859] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[10Jul2025 02:03:06.860] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 12
+[10Jul2025 02:03:06.860] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 12 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[10Jul2025 02:03:06.860] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[10Jul2025 02:03:06.862] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config mantle-server.toml' to 'fml:handshake' sequence 26
+[10Jul2025 02:03:06.911] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config cave_dweller-server.toml' to 'fml:handshake' sequence 27
+[10Jul2025 02:03:06.964] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config jei-server.toml' to 'fml:handshake' sequence 28
+[10Jul2025 02:03:07.007] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config forge-server.toml' to 'fml:handshake' sequence 29
+[10Jul2025 02:03:07.086] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 13
+[10Jul2025 02:03:07.086] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 13 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[10Jul2025 02:03:07.086] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[10Jul2025 02:03:07.301] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 14
+[10Jul2025 02:03:07.301] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 14 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[10Jul2025 02:03:07.301] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[10Jul2025 02:03:07.301] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 15
+[10Jul2025 02:03:07.301] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 15 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[10Jul2025 02:03:07.301] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[10Jul2025 02:03:07.301] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 16
+[10Jul2025 02:03:07.301] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 16 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[10Jul2025 02:03:07.301] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[10Jul2025 02:03:07.301] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 17
+[10Jul2025 02:03:07.301] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 17 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[10Jul2025 02:03:07.301] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[10Jul2025 02:03:07.303] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 18
+[10Jul2025 02:03:07.303] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 18 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[10Jul2025 02:03:07.303] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[10Jul2025 02:03:07.303] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 19
+[10Jul2025 02:03:07.303] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 19 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[10Jul2025 02:03:07.303] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[10Jul2025 02:03:07.303] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 20
+[10Jul2025 02:03:07.303] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 20 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[10Jul2025 02:03:07.303] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[10Jul2025 02:03:07.303] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 21
+[10Jul2025 02:03:07.303] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 21 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[10Jul2025 02:03:07.303] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[10Jul2025 02:03:11.381] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 22
+[10Jul2025 02:03:11.381] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 22 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[10Jul2025 02:03:11.381] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[10Jul2025 02:03:11.384] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 23
+[10Jul2025 02:03:11.384] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 23 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[10Jul2025 02:03:11.384] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[10Jul2025 02:03:11.384] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 24
+[10Jul2025 02:03:11.384] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 24 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[10Jul2025 02:03:11.384] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[10Jul2025 02:03:11.385] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 25
+[10Jul2025 02:03:11.385] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 25 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[10Jul2025 02:03:11.385] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[10Jul2025 02:03:11.385] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 26
+[10Jul2025 02:03:11.385] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 26 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[10Jul2025 02:03:11.385] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[10Jul2025 02:03:11.386] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 27
+[10Jul2025 02:03:11.386] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 27 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[10Jul2025 02:03:11.386] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[10Jul2025 02:03:11.386] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 28
+[10Jul2025 02:03:11.386] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 28 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[10Jul2025 02:03:11.386] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[10Jul2025 02:03:11.387] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 29
+[10Jul2025 02:03:11.387] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 29 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[10Jul2025 02:03:11.387] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[10Jul2025 02:03:11.392] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Handshake complete!
+[10Jul2025 02:03:11.447] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: angeelcraft[/127.6.39.159:38185] logged in with entity id 76452 at (163.79174959885384, 66.82711731432457, 358.49986769093977)
+[10Jul2025 02:03:11.447] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@7a2eaf97 into net.minecraft.network.Connection@5a5823dd
+[10Jul2025 02:03:11.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: angeelcraft joined the game
+[10Jul2025 02:03:11.494] [Server thread/INFO] [Jade/]: Syncing config to angeelcraft (0e54530b-213d-3a41-96b8-2fb393e04105)
+[10Jul2025 02:03:23.687] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['CaptainSKIPNOTZ'/108, l='ServerLevel[world]', x=271.97, y=33.00, z=328.98]]
+[10Jul2025 02:03:40.564] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['CaptainSKIPNOTZ'/108, l='ServerLevel[world]', x=271.67, y=35.37, z=325.49]]
+[10Jul2025 02:03:45.864] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['CaptainSKIPNOTZ'/108, l='ServerLevel[world]', x=274.24, y=33.00, z=327.86]]
+[10Jul2025 02:03:50.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps has made the advancement [War Pigs]
+[10Jul2025 02:03:56.278] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['CaptainSKIPNOTZ'/108, l='ServerLevel[world]', x=274.26, y=33.00, z=327.25]]
+[10Jul2025 02:03:57.584] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['CaptainSKIPNOTZ'/108, l='ServerLevel[world]', x=274.93, y=33.48, z=325.48]]
+[10Jul2025 02:04:12.702] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['CaptainSKIPNOTZ'/108, l='ServerLevel[world]', x=274.76, y=33.56, z=327.20]]
+[10Jul2025 02:04:19.851] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['CaptainSKIPNOTZ'/108, l='ServerLevel[world]', x=274.76, y=33.56, z=327.20]]
+[10Jul2025 02:04:33.489] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[10Jul2025 02:04:40.503] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['CaptainSKIPNOTZ'/108, l='ServerLevel[world]', x=274.76, y=33.56, z=327.20]]
+[10Jul2025 02:04:43.057] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['CaptainSKIPNOTZ'/108, l='ServerLevel[world]', x=274.76, y=33.56, z=327.20]]
+[10Jul2025 02:04:49.404] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['CaptainSKIPNOTZ'/108, l='ServerLevel[world]', x=274.76, y=33.56, z=327.20]]
+[10Jul2025 02:04:50.790] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2314ms or 46 ticks behind
+[10Jul2025 02:05:08.680] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2904ms or 58 ticks behind
+[10Jul2025 02:05:18.114] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['CaptainSKIPNOTZ'/108, l='ServerLevel[world]', x=274.76, y=33.56, z=327.20]]
+[10Jul2025 02:05:27.689] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[10Jul2025 02:05:28.104] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jul2025 02:05:31.525] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jul2025 02:05:31.769] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['CaptainSKIPNOTZ'/108, l='ServerLevel[world]', x=272.57, y=33.00, z=327.37]]
+[10Jul2025 02:05:45.999] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3323ms or 66 ticks behind
+[10Jul2025 02:05:51.329] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jul2025 02:05:58.631] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jul2025 02:06:00.844] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Jul2025 02:06:00.853] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Jul2025 02:06:06.950] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5973ms or 119 ticks behind
+[10Jul2025 02:06:10.623] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['CaptainSKIPNOTZ'/108, l='ServerLevel[world]', x=273.69, y=39.00, z=329.69]]
+[10Jul2025 02:06:18.299] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jul2025 02:06:20.857] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['CaptainSKIPNOTZ'/108, l='ServerLevel[world]', x=273.69, y=39.00, z=329.69]]
+[10Jul2025 02:06:24.204] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jul2025 02:06:24.757] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['CaptainSKIPNOTZ'/108, l='ServerLevel[world]', x=273.69, y=39.00, z=329.69]]
+[10Jul2025 02:06:27.057] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5131ms or 102 ticks behind
+[10Jul2025 02:06:33.963] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['CaptainSKIPNOTZ'/108, l='ServerLevel[world]', x=273.69, y=39.00, z=329.69]]
+[10Jul2025 02:06:34.804] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['CaptainSKIPNOTZ'/108, l='ServerLevel[world]', x=273.69, y=39.00, z=329.69]]
+[10Jul2025 02:06:47.735] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5709ms or 114 ticks behind
+[10Jul2025 02:07:02.485] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jul2025 02:07:02.711] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jul2025 02:07:02.882] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jul2025 02:07:03.049] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jul2025 02:07:03.208] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jul2025 02:07:03.599] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jul2025 02:07:03.707] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jul2025 02:07:03.839] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jul2025 02:07:03.899] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jul2025 02:07:08.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soficordoba13 was slain by Piglin
+[10Jul2025 02:07:09.018] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6292ms or 125 ticks behind
+[10Jul2025 02:07:11.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported Soficordoba13 to BozzNofps]
+[10Jul2025 02:07:21.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported Soficordoba13 to BozzNofps]
+[10Jul2025 02:07:27.242] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['CaptainSKIPNOTZ'/108, l='ServerLevel[world]', x=276.44, y=33.00, z=330.16]]
+[10Jul2025 02:07:28.206] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['CaptainSKIPNOTZ'/108, l='ServerLevel[world]', x=273.59, y=33.00, z=330.24]]
+[10Jul2025 02:07:28.403] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4427ms or 88 ticks behind
+[10Jul2025 02:07:31.826] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['CaptainSKIPNOTZ'/108, l='ServerLevel[world]', x=276.83, y=33.00, z=327.55]]
+[10Jul2025 02:07:45.478] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['CaptainSKIPNOTZ'/108, l='ServerLevel[world]', x=271.32, y=35.30, z=325.49]]
+[10Jul2025 02:07:46.311] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2934ms or 58 ticks behind
+[10Jul2025 02:07:49.772] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['CaptainSKIPNOTZ'/108, l='ServerLevel[world]', x=272.15, y=39.00, z=328.34]]
+[10Jul2025 02:08:06.889] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5613ms or 112 ticks behind
+[10Jul2025 02:08:07.216] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['CaptainSKIPNOTZ'/108, l='ServerLevel[world]', x=275.43, y=39.00, z=325.30]]
+[10Jul2025 02:08:13.166] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jul2025 02:08:14.861] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jul2025 02:08:15.722] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jul2025 02:08:16.022] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['CaptainSKIPNOTZ'/108, l='ServerLevel[world]', x=272.05, y=39.00, z=327.06]]
+[10Jul2025 02:08:16.570] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jul2025 02:08:18.533] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jul2025 02:08:20.373] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jul2025 02:08:21.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda has reached the goal [Earthslime Island]
+[10Jul2025 02:08:21.778] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['CaptainSKIPNOTZ'/108, l='ServerLevel[world]', x=272.00, y=33.00, z=326.52]]
+[10Jul2025 02:08:26.317] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4440ms or 88 ticks behind
+[10Jul2025 02:08:31.098] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['CaptainSKIPNOTZ'/108, l='ServerLevel[world]', x=273.10, y=39.00, z=329.57]]
+[10Jul2025 02:08:32.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 has made the advancement [You Are A Pirate]
+[10Jul2025 02:08:46.376] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2049ms or 40 ticks behind
+[10Jul2025 02:08:53.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported Soficordoba13 to BozzNofps]
+[10Jul2025 02:09:02.190] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['CaptainSKIPNOTZ'/108, l='ServerLevel[world]', x=273.09, y=39.00, z=330.13]]
+[10Jul2025 02:09:03.430] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['CaptainSKIPNOTZ'/108, l='ServerLevel[world]', x=273.09, y=39.00, z=330.13]]
+[10Jul2025 02:09:03.901] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2574ms or 51 ticks behind
+[10Jul2025 02:09:05.086] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['CaptainSKIPNOTZ'/108, l='ServerLevel[world]', x=273.12, y=39.00, z=330.04]]
+[10Jul2025 02:09:21.308] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2432ms or 48 ticks behind
+[10Jul2025 02:09:30.659] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-23, y=-45, z=-412}
+[10Jul2025 02:09:30.660] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-23, y=-45, z=-416}
+[10Jul2025 02:09:31.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda has made the advancement [Jaws]
+[10Jul2025 02:09:37.962] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['CaptainSKIPNOTZ'/108, l='ServerLevel[world]', x=266.86, y=33.00, z=328.71]]
+[10Jul2025 02:09:41.750] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5473ms or 109 ticks behind
+[10Jul2025 02:09:57.556] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['CaptainSKIPNOTZ'/108, l='ServerLevel[world]', x=274.18, y=33.00, z=327.57]]
+[10Jul2025 02:10:00.605] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3878ms or 77 ticks behind
+[10Jul2025 02:10:17.848] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2272ms or 45 ticks behind
+[10Jul2025 02:10:20.250] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jul2025 02:10:27.139] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/87083, l='ServerLevel[world]', x=284.53, y=-256.00, z=355.43] died, message: 'Unemployed was killed'
+[10Jul2025 02:10:31.917] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/87169, l='ServerLevel[world]', x=284.89, y=-256.00, z=328.55] died, message: 'Unemployed was killed'
+[10Jul2025 02:10:35.835] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3008ms or 60 ticks behind
+[10Jul2025 02:10:49.544] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/87585, l='ServerLevel[world]', x=337.54, y=-256.00, z=204.88] died, message: 'Unemployed was killed'
+[10Jul2025 02:10:53.274] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2448ms or 48 ticks behind
+[10Jul2025 02:11:11.281] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[10Jul2025 02:11:13.209] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[10Jul2025 02:11:22.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported Soficordoba13 to BozzNofps]
+[10Jul2025 02:11:24.504] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jul2025 02:11:26.356] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jul2025 02:11:26.471] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jul2025 02:11:27.250] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jul2025 02:11:27.377] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jul2025 02:11:27.521] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jul2025 02:11:27.625] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jul2025 02:11:27.749] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jul2025 02:11:29.196] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2919ms or 58 ticks behind
+[10Jul2025 02:11:33.152] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jul2025 02:11:33.207] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jul2025 02:11:33.259] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jul2025 02:11:33.328] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jul2025 02:11:33.328] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=362, y=64, z=631} BlockPos{x=362, y=63, z=631}
+[10Jul2025 02:11:33.329] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jul2025 02:11:33.393] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=362, y=64, z=631} BlockPos{x=362, y=63, z=631}
+[10Jul2025 02:11:33.393] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jul2025 02:11:33.449] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=362, y=64, z=631} BlockPos{x=362, y=63, z=631}
+[10Jul2025 02:11:33.449] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jul2025 02:11:33.500] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=362, y=64, z=631} BlockPos{x=362, y=63, z=631}
+[10Jul2025 02:11:46.774] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2598ms or 51 ticks behind
+[10Jul2025 02:11:48.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 was slain by Vindicator
+[10Jul2025 02:11:48.917] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[10Jul2025 02:12:04.522] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2795ms or 55 ticks behind
+[10Jul2025 02:12:04.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheDoyan was slain by Man From The Fog
+[10Jul2025 02:12:12.750] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Jul2025 02:12:12.763] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Jul2025 02:12:12.806] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CaptainSKIPNOTZ moved too quickly! 0.29594081265298655,7.0,7.2075480882670035
+[10Jul2025 02:12:21.827] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2350ms or 47 ticks behind

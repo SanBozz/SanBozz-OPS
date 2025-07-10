@@ -3745,6 +3745,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-07-10 02:01:25 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/reinforced_purple_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-07-10 01:52:52 +0000"

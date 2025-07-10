@@ -2001,6 +2001,7 @@
       "minecraft:vindicator": "2025-07-09 06:21:53 +0000",
       "minecraft:magma_cube": "2025-07-10 01:57:15 +0000",
       "minecraft:spider": "2025-07-08 03:36:22 +0000",
+      "minecraft:piglin_brute": "2025-07-10 02:02:30 +0000",
       "minecraft:creeper": "2025-07-08 03:22:18 +0000",
       "minecraft:phantom": "2025-07-08 03:56:56 +0000",
       "minecraft:zombified_piglin": "2025-07-10 01:44:27 +0000",
@@ -5777,15 +5778,93 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-07-10 02:04:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-07-10 02:04:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-07-10 02:04:40 +0000"
+    },
+    "done": true
+  },
   "tconstruct:world/slime_collector": {
     "criteria": {
       "magma_cream": "2025-07-10 01:57:19 +0000"
     },
     "done": false
   },
+  "minecraft:recipes/misc/snout_armor_trim_smithing_template": {
+    "criteria": {
+      "has_snout_armor_trim_smithing_template": "2025-07-10 02:04:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2025-07-10 02:03:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-07-10 02:04:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-07-10 02:04:40 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/common/materials/cobalt_ingot_smelting": {
+    "criteria": {
+      "has_item": "2025-07-10 02:10:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magma_block": {
     "criteria": {
       "has_magma_cream": "2025-07-10 01:57:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-07-10 02:04:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2025-07-10 02:04:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-07-10 02:04:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/snout_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-07-10 02:04:04 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/common/materials/raw_cobalt_block_from_raws": {
+    "criteria": {
+      "has_item": "2025-07-10 02:10:56 +0000"
     },
     "done": true
   },

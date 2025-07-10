@@ -450,3 +450,56 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [10Jul2025 02:01:30.659] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6418c7f8[id=<null>,name=angeelcraft,properties={},legacy=false] (/127.6.39.159:41351) lost connection: Disconnected
 [10Jul2025 02:01:33.398] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2372ms or 47 ticks behind
 [10Jul2025 02:01:51.168] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2791ms or 55 ticks behind
+[10Jul2025 02:02:08.200] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[10Jul2025 02:02:27.518] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4342ms or 86 ticks behind
+[10Jul2025 02:02:31.144] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@399815d0[id=<null>,name=angeelcraft,properties={},legacy=false] (/127.6.39.159:58433) lost connection: Disconnected
+[10Jul2025 02:03:11.447] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: angeelcraft[/127.6.39.159:38185] logged in with entity id 76452 at (163.79174959885384, 66.82711731432457, 358.49986769093977)
+[10Jul2025 02:03:11.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: angeelcraft joined the game
+[10Jul2025 02:03:11.494] [Server thread/INFO] [Jade/]: Syncing config to angeelcraft (0e54530b-213d-3a41-96b8-2fb393e04105)
+[10Jul2025 02:03:50.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps has made the advancement [War Pigs]
+[10Jul2025 02:04:33.489] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[10Jul2025 02:04:50.790] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2314ms or 46 ticks behind
+[10Jul2025 02:05:08.680] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2904ms or 58 ticks behind
+[10Jul2025 02:05:27.689] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[10Jul2025 02:05:45.999] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3323ms or 66 ticks behind
+[10Jul2025 02:06:06.950] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5973ms or 119 ticks behind
+[10Jul2025 02:06:27.057] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5131ms or 102 ticks behind
+[10Jul2025 02:06:47.735] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5709ms or 114 ticks behind
+[10Jul2025 02:07:08.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soficordoba13 was slain by Piglin
+[10Jul2025 02:07:09.018] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6292ms or 125 ticks behind
+[10Jul2025 02:07:11.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported Soficordoba13 to BozzNofps]
+[10Jul2025 02:07:21.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported Soficordoba13 to BozzNofps]
+[10Jul2025 02:07:28.403] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4427ms or 88 ticks behind
+[10Jul2025 02:07:46.311] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2934ms or 58 ticks behind
+[10Jul2025 02:08:06.889] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5613ms or 112 ticks behind
+[10Jul2025 02:08:21.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda has reached the goal [Earthslime Island]
+[10Jul2025 02:08:26.317] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4440ms or 88 ticks behind
+[10Jul2025 02:08:32.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 has made the advancement [You Are A Pirate]
+[10Jul2025 02:08:46.376] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2049ms or 40 ticks behind
+[10Jul2025 02:08:53.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported Soficordoba13 to BozzNofps]
+[10Jul2025 02:09:03.901] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2574ms or 51 ticks behind
+[10Jul2025 02:09:21.308] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2432ms or 48 ticks behind
+[10Jul2025 02:09:30.659] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-23, y=-45, z=-412}
+[10Jul2025 02:09:30.660] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-23, y=-45, z=-416}
+[10Jul2025 02:09:31.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: balda has made the advancement [Jaws]
+[10Jul2025 02:09:41.750] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5473ms or 109 ticks behind
+[10Jul2025 02:10:00.605] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3878ms or 77 ticks behind
+[10Jul2025 02:10:17.848] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2272ms or 45 ticks behind
+[10Jul2025 02:10:27.139] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/87083, l='ServerLevel[world]', x=284.53, y=-256.00, z=355.43] died, message: 'Unemployed was killed'
+[10Jul2025 02:10:31.917] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/87169, l='ServerLevel[world]', x=284.89, y=-256.00, z=328.55] died, message: 'Unemployed was killed'
+[10Jul2025 02:10:35.835] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3008ms or 60 ticks behind
+[10Jul2025 02:10:49.544] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/87585, l='ServerLevel[world]', x=337.54, y=-256.00, z=204.88] died, message: 'Unemployed was killed'
+[10Jul2025 02:10:53.274] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2448ms or 48 ticks behind
+[10Jul2025 02:11:11.281] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[10Jul2025 02:11:22.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported Soficordoba13 to BozzNofps]
+[10Jul2025 02:11:29.196] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2919ms or 58 ticks behind
+[10Jul2025 02:11:33.328] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=362, y=64, z=631} BlockPos{x=362, y=63, z=631}
+[10Jul2025 02:11:33.393] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=362, y=64, z=631} BlockPos{x=362, y=63, z=631}
+[10Jul2025 02:11:33.449] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=362, y=64, z=631} BlockPos{x=362, y=63, z=631}
+[10Jul2025 02:11:33.500] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=362, y=64, z=631} BlockPos{x=362, y=63, z=631}
+[10Jul2025 02:11:46.774] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2598ms or 51 ticks behind
+[10Jul2025 02:11:48.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 was slain by Vindicator
+[10Jul2025 02:12:04.522] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2795ms or 55 ticks behind
+[10Jul2025 02:12:04.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheDoyan was slain by Man From The Fog
+[10Jul2025 02:12:12.806] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CaptainSKIPNOTZ moved too quickly! 0.29594081265298655,7.0,7.2075480882670035
+[10Jul2025 02:12:21.827] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2350ms or 47 ticks behind
