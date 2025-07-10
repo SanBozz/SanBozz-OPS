@@ -4616,6 +4616,7 @@
   "tconstruct:tools/material_master": {
     "criteria": {
       "cobalt": "2025-07-09 00:41:56 +0000",
+      "manyullyn": "2025-07-10 06:25:35 +0000",
       "cinderslime": "2025-07-09 00:41:56 +0000",
       "iron": "2025-07-09 00:41:56 +0000"
     },
@@ -5927,6 +5928,12 @@
     },
     "done": true
   },
+  "tconstruct:foundry/plate_armor": {
+    "criteria": {
+      "crafted_chestplate": "2025-07-10 06:25:35 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
       "has_golden_boots": "2025-07-10 03:27:22 +0000"
@@ -5984,6 +5991,12 @@
   "securitycraft:recipes/misc/sc_manual": {
     "criteria": {
       "has_wood": "2025-07-10 03:59:52 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:tools/make_part": {
+    "criteria": {
+      "crafted_part": "2025-07-10 06:24:38 +0000"
     },
     "done": true
   },

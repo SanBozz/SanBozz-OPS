@@ -1694,3 +1694,19 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [10Jul2025 06:21:50.925] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-133, y=102, z=106}
 [10Jul2025 06:21:52.750] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-131, y=98, z=106}
 [10Jul2025 06:21:54.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported Riuksaky to BozzNofps]
+[10Jul2025 06:23:46.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 was slain by BozzNofps
+[10Jul2025 06:24:50.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Riuksaky was slain by Man From The Fog
+[10Jul2025 06:25:25.020] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: agustinnfes2 lost connection: Disconnected
+[10Jul2025 06:25:25.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 left the game
+[10Jul2025 06:25:45.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported Riuksaky to BozzNofps]
+[10Jul2025 06:27:14.497] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: agustinnfes2[/127.220.229.95:36845] logged in with entity id 363814 at (97.06277708650134, 72.0, 320.3484387288089)
+[10Jul2025 06:27:14.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 joined the game
+[10Jul2025 06:27:14.526] [Server thread/INFO] [Jade/]: Syncing config to agustinnfes2 (d7072c52-a1ba-3ad3-bd6c-c7ea7e4745b8)
+[10Jul2025 06:30:31.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 was slain by BozzNofps
+[10Jul2025 06:30:34.703] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: agustinnfes2 lost connection: Disconnected
+[10Jul2025 06:30:34.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 left the game
+[10Jul2025 06:31:09.654] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved wrongly! 0.2766343064582202
+[10Jul2025 06:31:09.700] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved wrongly! 0.5045878892585165
+[10Jul2025 06:31:09.755] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved wrongly! 0.7462692908111137
+[10Jul2025 06:31:09.802] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved wrongly! 1.0003104201193764
+[10Jul2025 06:31:09.850] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Riuksaky) moved wrongly! 1.2654799811307669
