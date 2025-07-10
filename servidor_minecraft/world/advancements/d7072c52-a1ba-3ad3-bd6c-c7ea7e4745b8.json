@@ -4104,7 +4104,9 @@
       "cobalt": "2025-07-09 00:46:16 +0000",
       "cinderslime": "2025-07-09 00:46:16 +0000",
       "scorched_stone": "2025-07-09 05:57:46 +0000",
+      "slimesteel": "2025-07-10 02:40:09 +0000",
       "blazing_bone": "2025-07-09 05:57:46 +0000",
+      "queens_slime": "2025-07-10 02:40:09 +0000",
       "iron": "2025-07-09 00:46:16 +0000"
     },
     "done": false
@@ -4835,6 +4837,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-07-10 02:34:42 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:world/earth_island": {
+    "criteria": {
+      "found_island": "2025-07-10 02:39:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/crimson_pressure_plate": {
     "criteria": {
       "has_planks": "2025-07-10 02:20:59 +0000"
@@ -4844,6 +4858,12 @@
   "minecraft:recipes/decorations/crimson_sign": {
     "criteria": {
       "has_planks": "2025-07-10 02:20:59 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/combat/gadgets/shuriken/flint_shuriken": {
+    "criteria": {
+      "has_item": "2025-07-10 02:34:42 +0000"
     },
     "done": true
   },

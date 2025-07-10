@@ -5900,6 +5900,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2025-07-10 02:35:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/snout_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2025-07-10 02:04:04 +0000"
@@ -5933,6 +5939,12 @@
   "tconstruct:recipes/building_blocks/smeltery/scorched/nether_grout": {
     "criteria": {
       "has_item": "2025-07-10 01:57:19 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2025-07-10 02:35:06 +0000"
     },
     "done": true
   },

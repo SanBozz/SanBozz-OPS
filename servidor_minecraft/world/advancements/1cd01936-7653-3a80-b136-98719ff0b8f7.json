@@ -3725,7 +3725,9 @@
       "cobalt": "2025-07-09 00:17:57 +0000",
       "cinderslime": "2025-07-09 00:17:57 +0000",
       "scorched_stone": "2025-07-09 04:15:34 +0000",
+      "slimesteel": "2025-07-10 02:40:37 +0000",
       "blazing_bone": "2025-07-09 04:15:34 +0000",
+      "queens_slime": "2025-07-10 02:40:37 +0000",
       "iron": "2025-07-09 00:17:57 +0000"
     },
     "done": false
@@ -4118,6 +4120,12 @@
   "securitycraft:recipes/redstone/reinforced_observer": {
     "criteria": {
       "has_quartz": "2025-07-10 02:24:34 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-07-10 02:38:46 +0000"
     },
     "done": true
   },

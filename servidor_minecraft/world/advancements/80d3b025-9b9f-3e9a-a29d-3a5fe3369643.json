@@ -4082,6 +4082,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-07-10 02:38:47 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/brewing/common/glass/vanilla/glass_bottle": {
     "criteria": {
       "has_glass": "2025-07-10 01:52:52 +0000"
