@@ -197,3 +197,41 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [10Jul2025 00:46:55.526] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TheDoyan[/127.192.242.214:44899] logged in with entity id 6160 at (332.43931347237145, 68.40739540236494, 632.9013388816702)
 [10Jul2025 00:46:55.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheDoyan joined the game
 [10Jul2025 00:46:55.563] [Server thread/INFO] [Jade/]: Syncing config to TheDoyan (80d3b025-9b9f-3e9a-a29d-3a5fe3369643)
+[10Jul2025 00:50:00.030] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/10082, l='ServerLevel[world]', x=290.62, y=-256.00, z=354.57] died, message: 'Unemployed was killed'
+[10Jul2025 00:50:04.821] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BozzNofps[/127.249.45.252:44191] logged in with entity id 10213 at (278.1278708236025, 74.0, 355.25820619842455)
+[10Jul2025 00:50:04.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps joined the game
+[10Jul2025 00:50:04.933] [Server thread/INFO] [Jade/]: Syncing config to BozzNofps (22592360-5cd4-3e8f-9fc0-96977e63922e)
+[10Jul2025 00:52:57.979] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Soficordoba13[/127.196.83.74:50085] logged in with entity id 12207 at (300.01249998807907, 75.0, 354.83478966093327)
+[10Jul2025 00:52:57.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soficordoba13 joined the game
+[10Jul2025 00:52:58.071] [Server thread/INFO] [Jade/]: Syncing config to Soficordoba13 (9febe8b6-c5ce-3608-8499-8fd099c3b0fa)
+[10Jul2025 00:53:04.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: angeelcraft was slain by Zombie
+[10Jul2025 00:53:28.402] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: angeelcraft lost connection: Timed out
+[10Jul2025 00:53:28.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: angeelcraft left the game
+[10Jul2025 00:53:46.256] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: angeelcraft[/127.6.39.159:49593] logged in with entity id 12833 at (82.30000001192093, -49.92811468710383, 285.64886732163717)
+[10Jul2025 00:53:46.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: angeelcraft joined the game
+[10Jul2025 00:53:46.306] [Server thread/INFO] [Jade/]: Syncing config to angeelcraft (0e54530b-213d-3a41-96b8-2fb393e04105)
+[10Jul2025 00:53:47.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheDoyan was shot by Skeleton
+[10Jul2025 00:54:04.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheDoyan was shot by Skeleton
+[10Jul2025 00:54:21.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheDoyan was shot by Skeleton
+[10Jul2025 00:54:21.852] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: TheDoyan lost connection: Disconnected
+[10Jul2025 00:54:21.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheDoyan left the game
+[10Jul2025 00:54:31.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported angeelcraft to 47.500000, -35.000000, 213.500000]
+[10Jul2025 00:54:33.303] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: TheDoyan[/127.192.242.214:45785] logged in with entity id 14169 at (298.69999998807907, 73.125, 649.5749999880791)
+[10Jul2025 00:54:33.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheDoyan joined the game
+[10Jul2025 00:54:33.327] [Server thread/INFO] [Jade/]: Syncing config to TheDoyan (80d3b025-9b9f-3e9a-a29d-3a5fe3369643)
+[10Jul2025 00:55:40.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: angeelcraft was slain by Zombie
+[10Jul2025 00:55:57.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported TheDoyan to 298.500000, 73.000000, 649.500000]
+[10Jul2025 00:56:00.927] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/15150, l='ServerLevel[world]', x=287.53, y=-256.00, z=353.28] died, message: 'Unemployed was killed'
+[10Jul2025 00:56:01.605] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: angeelcraft lost connection: Timed out
+[10Jul2025 00:56:01.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: angeelcraft left the game
+[10Jul2025 00:56:17.755] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: angeelcraft[/127.6.39.159:48239] logged in with entity id 16117 at (83.30000001192093, -53.0, 299.69999998807907)
+[10Jul2025 00:56:17.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: angeelcraft joined the game
+[10Jul2025 00:56:17.795] [Server thread/INFO] [Jade/]: Syncing config to angeelcraft (0e54530b-213d-3a41-96b8-2fb393e04105)
+[10Jul2025 00:56:44.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TheDoyan was shot by Skeleton
+[10Jul2025 00:57:05.029] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/17032, l='ServerLevel[world]', x=290.62, y=-256.00, z=354.57] died, message: 'Unemployed was killed'
+[10Jul2025 00:57:05.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Set the time to 1000]
+[10Jul2025 00:57:09.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported TheDoyan to 298.500000, 73.000000, 649.500000]
+[10Jul2025 00:57:42.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported angeelcraft to 54.500000, -34.000000, 219.500000]
+[10Jul2025 00:57:46.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: angeelcraft was blown up by Creeper
+[10Jul2025 00:58:16.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported angeelcraft to 54.500000, -34.000000, 219.500000]
+[10Jul2025 00:58:33.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported BozzNofps to angeelcraft]
