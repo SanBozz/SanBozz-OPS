@@ -31,6 +31,7 @@
       "minecraft:stony_shore": "2025-07-09 07:10:08 +0000",
       "minecraft:grove": "2025-07-10 03:55:51 +0000",
       "minecraft:jagged_peaks": "2025-07-10 04:59:31 +0000",
+      "minecraft:cold_ocean": "2025-07-10 08:32:13 +0000",
       "minecraft:forest": "2025-07-07 06:09:11 +0000",
       "minecraft:lush_caves": "2025-07-08 03:35:22 +0000",
       "minecraft:ocean": "2025-07-09 04:20:58 +0000",
@@ -6318,6 +6319,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-07-10 08:12:41 +0000"
+    },
+    "done": true
+  },
   "tconstruct:smeltery/tool_forge": {
     "criteria": {
       "cleaver": "2025-07-10 07:44:20 +0000"
@@ -6327,6 +6334,12 @@
   "tconstruct:tools/modified": {
     "criteria": {
       "crafted_tool": "2025-07-10 07:44:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_iron": {
+    "criteria": {
+      "has_raw_iron_block": "2025-07-10 08:34:37 +0000"
     },
     "done": true
   },

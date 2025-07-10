@@ -404,6 +404,7 @@
       "cooked_mutton": "2025-07-06 20:17:37 +0000",
       "cooked_beef": "2025-07-07 01:51:15 +0000",
       "baked_potato": "2025-07-07 05:48:28 +0000",
+      "apple": "2025-07-10 08:43:52 +0000",
       "potato": "2025-07-09 00:22:44 +0000",
       "cooked_cod": "2025-07-05 06:43:33 +0000",
       "bread": "2025-07-06 21:33:57 +0000",
@@ -5555,6 +5556,7 @@
   },
   "tconstruct:world/slime_collector": {
     "criteria": {
+      "sky": "2025-07-10 08:44:04 +0000",
       "magma_cream": "2025-07-09 08:28:13 +0000"
     },
     "done": false
@@ -5940,9 +5942,11 @@
   "tconstruct:foundry/plate_armor": {
     "criteria": {
       "crafted_leggings": "2025-07-10 07:37:33 +0000",
+      "crafted_boots": "2025-07-10 08:37:23 +0000",
+      "crafted_helmet": "2025-07-10 08:37:06 +0000",
       "crafted_chestplate": "2025-07-10 06:25:35 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/building_blocks/quartz_slab": {
     "criteria": {
@@ -5953,6 +5957,12 @@
   "minecraft:recipes/building_blocks/quartz_bricks": {
     "criteria": {
       "has_quartz_block": "2025-07-10 06:32:36 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/common/tinkers_gadgetry": {
+    "criteria": {
+      "has_item": "2025-07-10 08:44:04 +0000"
     },
     "done": true
   },
@@ -5971,6 +5981,12 @@
   "minecraft:recipes/decorations/crimson_sign": {
     "criteria": {
       "has_planks": "2025-07-10 04:00:08 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tools/common/slime/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-07-10 08:44:04 +0000"
     },
     "done": true
   },
@@ -6019,6 +6035,12 @@
   "minecraft:recipes/decorations/crimson_fence": {
     "criteria": {
       "has_planks": "2025-07-10 04:00:08 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-07-10 08:44:04 +0000"
     },
     "done": true
   },
@@ -6124,6 +6146,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/building_blocks/common/slime/sky/congealed": {
+    "criteria": {
+      "has_item": "2025-07-10 08:44:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_pillar": {
     "criteria": {
       "has_quartz_block": "2025-07-10 06:32:36 +0000"
@@ -6145,6 +6173,12 @@
   "minecraft:recipes/redstone/crimson_trapdoor": {
     "criteria": {
       "has_planks": "2025-07-10 04:00:08 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/common/slime/sky/slimeblock": {
+    "criteria": {
+      "has_item": "2025-07-10 08:44:04 +0000"
     },
     "done": true
   },
@@ -6187,6 +6221,12 @@
   "minecraft:recipes/redstone/crimson_fence_gate": {
     "criteria": {
       "has_planks": "2025-07-10 04:00:08 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/redstone/common/slime/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-07-10 08:44:04 +0000"
     },
     "done": true
   },

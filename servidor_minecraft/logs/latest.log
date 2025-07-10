@@ -1792,3 +1792,28 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [10Jul2025 07:48:11.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soficordoba13 left the game
 [10Jul2025 07:50:23.028] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/409035, l='ServerLevel[world]', x=284.16, y=-256.00, z=365.84] died, message: 'Unemployed was killed'
 [10Jul2025 07:56:30.027] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/410725, l='ServerLevel[world]', x=337.31, y=-256.00, z=209.93] died, message: 'Unemployed was killed'
+[10Jul2025 08:06:00.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps was slain by Cave Centipede
+[10Jul2025 08:08:05.028] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/421154, l='ServerLevel[world]', x=337.31, y=-256.00, z=209.93] died, message: 'Unemployed was killed'
+[10Jul2025 08:08:13.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported BozzNofps to 207.500000, -50.000000, 697.500000]
+[10Jul2025 08:08:32.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps was shot by Skeleton
+[10Jul2025 08:08:45.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported BozzNofps to 207.500000, -50.000000, 697.500000]
+[10Jul2025 08:10:35.028] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/424358, l='ServerLevel[world]', x=337.31, y=-256.00, z=209.93] died, message: 'Unemployed was killed'
+[10Jul2025 08:10:50.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps was shot by Skeleton
+[10Jul2025 08:11:10.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported BozzNofps to 207.500000, -50.000000, 697.500000]
+[10Jul2025 08:12:22.027] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/426599, l='ServerLevel[world]', x=284.16, y=-256.00, z=365.84] died, message: 'Unemployed was killed'
+[10Jul2025 08:12:41.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps has made the advancement [Hot Stuff]
+[10Jul2025 08:16:31.027] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/428745, l='ServerLevel[world]', x=337.54, y=-256.00, z=204.88] died, message: 'Unemployed was killed'
+[10Jul2025 08:25:15.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps was slain by Zombie Villager
+[10Jul2025 08:26:29.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported BozzNofps to 266.500000, -51.000000, 855.500000]
+[10Jul2025 08:28:23.078] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/434364, l='ServerLevel[world]', x=290.62, y=-256.00, z=354.57] died, message: 'Unemployed was killed'
+[10Jul2025 08:31:36.077] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/435437, l='ServerLevel[world]', x=290.62, y=-256.00, z=354.57] died, message: 'Unemployed was killed'
+[10Jul2025 08:36:25.544] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4067ms or 81 ticks behind
+[10Jul2025 08:36:34.077] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/437598, l='ServerLevel[world]', x=284.13, y=-256.00, z=366.05] died, message: 'Unemployed was killed'
+[10Jul2025 08:37:06.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps was shot by Skeleton
+[10Jul2025 08:37:23.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kuriron has reached the goal [Plate Armor]
+[10Jul2025 08:38:14.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported BozzNofps to 96.500000, -38.000000, 979.500000]
+[10Jul2025 08:38:42.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps was slain by Zombie
+[10Jul2025 08:39:40.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported BozzNofps to -3.500000, -41.000000, 959.500000]
+[10Jul2025 08:39:59.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps was slain by Zombie
+[10Jul2025 08:40:12.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported BozzNofps to -3.500000, -41.000000, 959.500000]
+[10Jul2025 08:42:06.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported BozzNofps to kuriron]
