@@ -4705,6 +4705,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/building_blocks/smeltery/scorched/nether_grout_multiple": {
+    "criteria": {
+      "has_the_recipe": "2025-07-10 03:26:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_tiles_stonecutting": {
     "criteria": {
       "has_deepslate_tiles": "2025-07-10 01:55:19 +0000"
@@ -4732,6 +4738,12 @@
   "spartanweaponry:recipes/combat/netherite_throwing_knife_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-07-10 03:15:19 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:foundry/fantastic_foundry": {
+    "criteria": {
+      "crafted_book": "2025-07-10 03:26:33 +0000"
     },
     "done": true
   },
@@ -5005,6 +5017,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/building_blocks/smeltery/scorched/scorched_brick": {
+    "criteria": {
+      "has_item": "2025-07-10 03:26:07 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/combat/netherite_tomahawk_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-07-10 03:15:19 +0000"
@@ -5092,6 +5110,12 @@
   "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-07-10 03:10:59 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/smeltery/scorched/scorched_brick_kiln": {
+    "criteria": {
+      "has_item": "2025-07-10 03:26:07 +0000"
     },
     "done": true
   },
@@ -5206,6 +5230,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_stairs": {
     "criteria": {
       "has_polished_andesite": "2025-07-10 01:32:44 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/common/fantastic_foundry": {
+    "criteria": {
+      "has_item": "2025-07-10 03:26:07 +0000"
     },
     "done": true
   },
