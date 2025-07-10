@@ -20,6 +20,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2025-07-10 03:58:19 +0000",
+      "minecraft:old_growth_pine_taiga": "2025-07-10 05:56:26 +0000",
       "minecraft:taiga": "2025-07-10 03:56:14 +0000",
       "minecraft:deep_ocean": "2025-07-09 00:23:32 +0000",
       "minecraft:cherry_grove": "2025-07-07 04:04:29 +0000",
@@ -34,6 +35,7 @@
       "minecraft:forest": "2025-07-07 04:12:06 +0000",
       "minecraft:lush_caves": "2025-07-08 03:38:12 +0000",
       "minecraft:ocean": "2025-07-07 05:38:08 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-07-10 05:55:59 +0000",
       "minecraft:frozen_peaks": "2025-07-10 03:58:04 +0000",
       "minecraft:old_growth_birch_forest": "2025-07-07 04:13:11 +0000",
       "minecraft:deep_dark": "2025-07-08 03:40:49 +0000",
@@ -3948,6 +3950,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/netherite_arrow": {
+    "criteria": {
+      "has_bow": "2025-07-10 05:58:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/spruce_fence": {
     "criteria": {
       "has_planks": "2025-07-10 01:12:53 +0000"
@@ -4038,6 +4046,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-07-10 05:58:21 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_sticky_piston": {
     "criteria": {
       "has_slime_ball": "2025-07-10 03:44:18 +0000"
@@ -4053,6 +4067,12 @@
   "tconstruct:recipes/tools/gadgets/throwball/efln_ball": {
     "criteria": {
       "has_item": "2025-07-10 02:28:31 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_arrow": {
+    "criteria": {
+      "has_bow": "2025-07-10 05:58:21 +0000"
     },
     "done": true
   },
@@ -4188,6 +4208,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/redstone/reinforced_dispenser": {
+    "criteria": {
+      "has_bow": "2025-07-10 05:58:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_planks": {
     "criteria": {
       "has_log": "2025-07-10 04:28:06 +0000"
@@ -4206,9 +4232,21 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/iron_arrow": {
+    "criteria": {
+      "has_bow": "2025-07-10 05:58:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-07-10 02:02:08 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/wooden_arrow": {
+    "criteria": {
+      "has_bow": "2025-07-10 05:58:21 +0000"
     },
     "done": true
   },
@@ -4250,6 +4288,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_merchant_campsite": {
+    "criteria": {
+      "location0": "2025-07-10 05:57:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2025-07-10 05:06:42 +0000"
@@ -4277,6 +4321,12 @@
   "sophisticatedbackpacks:recipes/misc/copper_backpack": {
     "criteria": {
       "has_backpack": "2025-07-10 02:35:22 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_arrow": {
+    "criteria": {
+      "has_bow": "2025-07-10 05:58:21 +0000"
     },
     "done": true
   },

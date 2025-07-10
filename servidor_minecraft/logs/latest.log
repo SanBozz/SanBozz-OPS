@@ -1596,3 +1596,13 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [10Jul2025 05:47:58.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CaptainSKIPNOTZ> gente, yo me voy, me esta dando sueño
 [10Jul2025 05:48:09.009] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CaptainSKIPNOTZ lost connection: Disconnected
 [10Jul2025 05:48:09.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CaptainSKIPNOTZ left the game
+[10Jul2025 05:51:47.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Soficordoba13> cuidadojsdjsadjas
+[10Jul2025 05:52:41.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Riuksaky was slain by Bluff
+[10Jul2025 05:53:17.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Riuksaky> mw tpeasbb
+[10Jul2025 05:53:26.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Riuksaky> sip
+[10Jul2025 05:53:29.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported Riuksaky to agustinnfes2]
+[10Jul2025 05:54:22.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Riuksaky was slain by Bluff
+[10Jul2025 05:54:58.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Set the time to 1000]
+[10Jul2025 05:55:12.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported Riuksaky to agustinnfes2]
+[10Jul2025 05:55:53.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Riuksaky has made the advancement [Isn't It Iron Pick]
+[10Jul2025 06:00:04.506] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Riuksaky moved too quickly! 2.084897331448474,-10.172304203141898,0.30717722991403207
