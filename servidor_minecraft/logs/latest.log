@@ -1168,3 +1168,38 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [10Jul2025 03:52:02.579] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3603ms or 72 ticks behind
 [10Jul2025 03:52:20.828] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3251ms or 65 ticks behind
 [10Jul2025 03:53:48.333] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[10Jul2025 03:56:45.673] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved wrongly! 0.3942369501568237
+[10Jul2025 03:56:45.724] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of agustinnfes2) moved wrongly! 0.30864870945788425
+[10Jul2025 03:56:45.725] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved wrongly! 0.6087493992835107
+[10Jul2025 03:56:45.767] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of agustinnfes2) moved wrongly! 0.5087046592039997
+[10Jul2025 03:56:45.768] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved wrongly! 0.801810598383156
+[10Jul2025 03:56:45.825] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of agustinnfes2) moved wrongly! 0.694354759411624
+[10Jul2025 03:56:45.826] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved wrongly! 0.9755656729699353
+[10Jul2025 03:58:35.936] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[10Jul2025 03:58:53.512] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2586ms or 51 ticks behind
+[10Jul2025 04:00:10.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soficordoba13 was slain by Man From The Fog
+[10Jul2025 04:00:27.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported Soficordoba13 to BozzNofps]
+[10Jul2025 04:00:58.782] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2055ms or 41 ticks behind
+[10Jul2025 04:01:33.953] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-708, y=138, z=1904} BlockPos{x=-707, y=138, z=1903}
+[10Jul2025 04:02:07.901] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[10Jul2025 04:02:26.597] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3720ms or 74 ticks behind
+[10Jul2025 04:02:43.782] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[10Jul2025 04:03:19.772] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/211169, l='ServerLevel[world]', x=284.53, y=-256.00, z=355.43] died, message: 'Unemployed was killed'
+[10Jul2025 04:03:24.480] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[10Jul2025 04:03:34.775] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of agustinnfes2) moved too quickly! -7.618569287619266,0.0,6.779086583080925
+[10Jul2025 04:03:34.776] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of balda) moved too quickly! -9.613914114292356,0.0,-3.7944726697431292
+[10Jul2025 04:03:43.672] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4195ms or 83 ticks behind
+[10Jul2025 04:04:03.758] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5132ms or 102 ticks behind
+[10Jul2025 04:04:26.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Riuksaky> grrrr
+[10Jul2025 04:04:26.493] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7766ms or 155 ticks behind
+[10Jul2025 04:04:44.326] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2850ms or 57 ticks behind
+[10Jul2025 04:04:45.671] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-201}
+[10Jul2025 04:04:45.671] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-58, z=-205}
+[10Jul2025 04:04:45.675] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-292, y=-57, z=-313}
+[10Jul2025 04:04:45.676] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-294, y=-57, z=-313}
+[10Jul2025 04:04:45.676] [Worker-Main-10/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-296, y=-57, z=-313}
+[10Jul2025 04:05:01.470] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2143ms or 42 ticks behind
+[10Jul2025 04:05:17.008] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/215436, l='ServerLevel[world]', x=997.85, y=36.02, z=262.88] died, message: 'Unemployed suffocated in a wall'
+[10Jul2025 04:05:18.464] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/215817, l='ServerLevel[world]', x=337.54, y=-256.00, z=204.88] died, message: 'Unemployed was killed'
+[10Jul2025 04:06:01.649] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2072ms or 41 ticks behind
+[10Jul2025 04:06:42.756] [Worker-Main-20/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-103, y=5, z=298}
