@@ -1774,3 +1774,17 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [10Jul2025 07:33:07.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported BozzNofps to Soficordoba13]
 [10Jul2025 07:33:22.797] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BozzNofps lost connection: Timed out
 [10Jul2025 07:33:22.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps left the game
+[10Jul2025 07:33:55.311] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BozzNofps[/127.249.45.252:59881] logged in with entity id 401310 at (1013.7578027251869, 91.0, 215.65736972203837)
+[10Jul2025 07:33:55.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps joined the game
+[10Jul2025 07:33:55.361] [Server thread/INFO] [Jade/]: Syncing config to BozzNofps (22592360-5cd4-3e8f-9fc0-96977e63922e)
+[10Jul2025 07:34:25.441] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BozzNofps lost connection: Timed out
+[10Jul2025 07:34:25.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps left the game
+[10Jul2025 07:35:14.143] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@219d8406[id=<null>,name=BozzNofps,properties={},legacy=false] (/127.249.45.252:36561) lost connection: Disconnected
+[10Jul2025 07:35:31.054] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BozzNofps[/127.249.45.252:39167] logged in with entity id 402751 at (1013.7578027251869, 91.0, 215.65736972203837)
+[10Jul2025 07:35:31.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps joined the game
+[10Jul2025 07:35:31.098] [Server thread/INFO] [Jade/]: Syncing config to BozzNofps (22592360-5cd4-3e8f-9fc0-96977e63922e)
+[10Jul2025 07:37:38.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Set the time to 1000]
+[10Jul2025 07:42:31.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soficordoba13 has made the advancement [What a Deal!]
+[10Jul2025 07:43:19.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps was slain by kuriron
+[10Jul2025 07:43:40.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported BozzNofps to kuriron]
+[10Jul2025 07:44:01.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soficordoba13 was slain by Man From The Fog

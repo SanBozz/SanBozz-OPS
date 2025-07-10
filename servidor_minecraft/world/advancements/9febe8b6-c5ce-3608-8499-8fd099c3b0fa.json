@@ -4049,6 +4049,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-07-10 07:38:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/walk_on_powder_snow_with_leather_boots": {
     "criteria": {
       "walk_on_powder_snow_with_leather_boots": "2025-07-10 04:59:03 +0000"
@@ -4223,6 +4229,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-07-10 07:38:25 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/diamond_bolt": {
     "criteria": {
       "has_feather": "2025-07-10 06:49:24 +0000"
@@ -4298,6 +4310,12 @@
   "spartanweaponry:recipes/iron_arrow": {
     "criteria": {
       "has_bow": "2025-07-10 05:58:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-07-10 07:38:25 +0000"
     },
     "done": true
   },

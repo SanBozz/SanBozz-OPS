@@ -5939,6 +5939,7 @@
   },
   "tconstruct:foundry/plate_armor": {
     "criteria": {
+      "crafted_leggings": "2025-07-10 07:37:33 +0000",
       "crafted_chestplate": "2025-07-10 06:25:35 +0000"
     },
     "done": false
@@ -6000,6 +6001,12 @@
   "minecraft:recipes/building_blocks/quartz_stairs": {
     "criteria": {
       "has_quartz_block": "2025-07-10 06:32:36 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/block_pocket_manager": {
+    "criteria": {
+      "has_redstone_block": "2025-07-10 07:37:52 +0000"
     },
     "done": true
   },
@@ -6123,6 +6130,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2025-07-10 07:37:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-07-10 06:32:36 +0000"
@@ -6132,6 +6145,12 @@
   "minecraft:recipes/redstone/crimson_trapdoor": {
     "criteria": {
       "has_planks": "2025-07-10 04:00:08 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/building_blocks/common/basalt_blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2025-07-10 07:34:09 +0000"
     },
     "done": true
   },
