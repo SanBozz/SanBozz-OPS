@@ -4085,6 +4085,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2025-07-10 07:42:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-07-10 02:16:53 +0000"
@@ -4256,6 +4262,18 @@
   "tconstruct:recipes/building_blocks/common/slime/sky/congealed": {
     "criteria": {
       "has_item": "2025-07-10 03:44:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-07-10 07:42:31 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:smeltery/structure": {
+    "criteria": {
+      "open_smeltery": "2025-07-10 07:44:38 +0000"
     },
     "done": true
   },

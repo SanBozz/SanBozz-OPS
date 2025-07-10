@@ -1788,3 +1788,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [10Jul2025 07:43:19.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps was slain by kuriron
 [10Jul2025 07:43:40.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported BozzNofps to kuriron]
 [10Jul2025 07:44:01.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soficordoba13 was slain by Man From The Fog
+[10Jul2025 07:48:11.835] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Soficordoba13 lost connection: Disconnected
+[10Jul2025 07:48:11.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soficordoba13 left the game
+[10Jul2025 07:50:23.028] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/409035, l='ServerLevel[world]', x=284.16, y=-256.00, z=365.84] died, message: 'Unemployed was killed'

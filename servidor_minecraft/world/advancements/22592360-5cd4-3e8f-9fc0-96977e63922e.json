@@ -4042,6 +4042,7 @@
     "criteria": {
       "amethyst_bronze": "2025-07-09 04:25:00 +0000",
       "cobalt": "2025-07-09 00:41:44 +0000",
+      "manyullyn": "2025-07-10 07:44:20 +0000",
       "cinderslime": "2025-07-09 00:41:44 +0000",
       "scorched_stone": "2025-07-09 04:25:00 +0000",
       "copper": "2025-07-10 02:44:02 +0000",
@@ -6314,6 +6315,18 @@
   "securitycraft:recipes/misc/reinforced_lectern": {
     "criteria": {
       "has_bookshelf": "2025-07-10 06:50:51 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:smeltery/tool_forge": {
+    "criteria": {
+      "cleaver": "2025-07-10 07:44:20 +0000"
+    },
+    "done": false
+  },
+  "tconstruct:tools/modified": {
+    "criteria": {
+      "crafted_tool": "2025-07-10 07:44:20 +0000"
     },
     "done": true
   },
