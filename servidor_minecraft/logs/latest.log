@@ -1682,3 +1682,15 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [10Jul2025 06:07:36.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported Soficordoba13 to BozzNofps]
 [10Jul2025 06:07:36.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Soficordoba13 burned to death
 [10Jul2025 06:07:48.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported Soficordoba13 to BozzNofps]
+[10Jul2025 06:15:27.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Riuksaky has made the advancement [We Need to Go Deeper]
+[10Jul2025 06:15:49.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Riuksaky has made the advancement [Nightmare Fuel]
+[10Jul2025 06:17:38.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps was slain by Man From The Fog
+[10Jul2025 06:17:54.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported BozzNofps to Soficordoba13]
+[10Jul2025 06:18:01.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported BozzNofps to Soficordoba13]
+[10Jul2025 06:20:35.028] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/360553, l='ServerLevel[world]', x=284.16, y=-256.00, z=365.84] died, message: 'Unemployed was killed'
+[10Jul2025 06:20:50.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Riuksaky was slain by agustinnfes2
+[10Jul2025 06:21:37.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: agustinnfes2 was slain by BozzNofps
+[10Jul2025 06:21:38.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Riuksaky was doomed to fall by Spider
+[10Jul2025 06:21:50.925] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-133, y=102, z=106}
+[10Jul2025 06:21:52.750] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-131, y=98, z=106}
+[10Jul2025 06:21:54.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BozzNofps: Teleported Riuksaky to BozzNofps]
