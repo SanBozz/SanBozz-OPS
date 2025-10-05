@@ -201,3 +201,13 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [05Oct2025 16:47:45.036] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [man:man] rejected their client side version number
 [05Oct2025 16:47:45.038] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
 [05Oct2025 16:47:45.053] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3fd51837[id=<null>,name=BozzNofps,properties={},legacy=false] (/127.249.45.252:45031) lost connection: Connection closed - mismatched mod channel list
+[05Oct2025 16:48:50.315] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [man:man] rejected their client side version number
+[05Oct2025 16:48:50.316] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[05Oct2025 16:48:50.349] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@10175e00[id=<null>,name=BozzNofps,properties={},legacy=false] (/127.249.45.252:55635) lost connection: Connection closed - mismatched mod channel list
+[05Oct2025 16:53:05.607] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[05Oct2025 16:53:05.720] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BozzNofps[/127.249.45.252:41493] logged in with entity id 116 at (282.23750001192093, 74.0, 355.1564694923808)
+[05Oct2025 16:53:05.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps joined the game
+[05Oct2025 16:53:05.889] [Server thread/INFO] [Jade/]: Syncing config to BozzNofps (22592360-5cd4-3e8f-9fc0-96977e63922e)
+[05Oct2025 16:53:16.107] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/964, l='ServerLevel[world]', x=284.13, y=-256.00, z=366.05] died, message: 'Unemployed was killed'
+[05Oct2025 16:53:35.816] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BozzNofps lost connection: Timed out
+[05Oct2025 16:53:35.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BozzNofps left the game

@@ -6319,12 +6319,6 @@
     },
     "done": true
   },
-  "minecraft:story/lava_bucket": {
-    "criteria": {
-      "lava_bucket": "2025-07-10 08:12:41 +0000"
-    },
-    "done": true
-  },
   "tconstruct:smeltery/tool_forge": {
     "criteria": {
       "cleaver": "2025-07-10 07:44:20 +0000"
@@ -6334,6 +6328,12 @@
   "tconstruct:tools/modified": {
     "criteria": {
       "crafted_tool": "2025-07-10 07:44:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-07-10 08:12:41 +0000"
     },
     "done": true
   },
